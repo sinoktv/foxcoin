@@ -6,7 +6,7 @@
 ## What is Foxcoin? – Such coin
 Foxcoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and Litecoin, Foxcoin currently employs a simplified variant of scrypt.
 
-http://foxcoin.com/
+http://www.whobt.com/
 
 ## License – Much license
 Foxcoin is released under the terms of the MIT license. See [COPYING](COPYING)
