@@ -1236,10 +1236,17 @@ bool IsInitialBlockDownload()
 {
     const CChainParams& chainParams = Params();
     LOCK(cs_main);
-    if (fImporting || fReindex)
+    if (fImporting || fReindex){
+         // LogPrintf("n == %d\n",1);
         return true;
-    if (fCheckpointsEnabled && chainActive.Height() < Checkpoints::GetTotalBlocksEstimate(chainParams.Checkpoints()))
+    }
+       
+    if (fCheckpointsEnabled && chainActive.Height() < Checkpoints::GetTotalBlocksEstimate(chainParams.Checkpoints())){
+        // LogPrintf("Checkpoints == %d\n",Checkpoints::GetTotalBlocksEstimate(chainParams.Checkpoints()));
+        // LogPrintf("chainActive == %d\n",chainActive.Height());
         return true;
+    }
+       
     static bool lockIBDState = false;
     if (lockIBDState)
         return false;
