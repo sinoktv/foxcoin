@@ -1,0 +1,88 @@
+#!/sbin/runscript
+
+# backward compatibility for existing gentoo layout 
+#
+if [ -d "/var/lib/foxcoin/.foxcoin" ]; then
+	FOXCOIND_DEFAULT_DATADIR="/var/lib/foxcoin/.foxcoin"
+else
+	FOXCOIND_DEFAULT_DATADIR="/var/lib/foxcoind"
+fi
+
+FOXCOIND_CONFIGFILE=${FOXCOIND_CONFIGFILE:-/etc/foxcoin/foxcoin.conf}
+FOXCOIND_PIDDIR=${FOXCOIND_PIDDIR:-/var/run/foxcoind}
+FOXCOIND_PIDFILE=${FOXCOIND_PIDFILE:-${FOXCOIND_PIDDIR}/foxcoind.pid}
+FOXCOIND_DATADIR=${FOXCOIND_DATADIR:-${FOXCOIND_DEFAULT_DATADIR}}
+FOXCOIND_USER=${FOXCOIND_USER:-${FOXCOIN_USER:-foxcoin}}
+FOXCOIND_GROUP=${FOXCOIND_GROUP:-foxcoin}
+FOXCOIND_BIN=${FOXCOIND_BIN:-/usr/bin/foxcoind}
+FOXCOIND_NICE=${FOXCOIND_NICE:-${NICELEVEL:-0}}
+FOXCOIND_OPTS="${FOXCOIND_OPTS:-${FOXCOIN_OPTS}}"
+
+name="Foxcoin Core Daemon"
+description="Foxcoin cryptocurrency P2P network daemon"
+
+command="/usr/bin/foxcoind"
+command_args="-pid=\"${FOXCOIND_PIDFILE}\" \
+		-conf=\"${FOXCOIND_CONFIGFILE}\" \
+		-datadir=\"${FOXCOIND_DATADIR}\" \
+		-daemon \
+		${FOXCOIND_OPTS}"
+
+required_files="${FOXCOIND_CONFIGFILE}"
+start_stop_daemon_args="-u ${FOXCOIND_USER} \
+			-N ${FOXCOIND_NICE} -w 2000"
+pidfile="${FOXCOIND_PIDFILE}"
+retry=60
+
+depend() {
+	need localmount net
+}
+
+# verify
+# 1) that the datadir exists and is writable (or create it)
+# 2) that a directory for the pid exists and is writable
+# 3) ownership and permissions on the config file
+start_pre() {
+	checkpath \
+	-d \
+	--mode 0750 \
+	--owner "${FOXCOIND_USER}:${FOXCOIND_GROUP}" \
+	"${FOXCOIND_DATADIR}"
+
+	checkpath \
+	-d \
+	--mode 0755 \
+	--owner "${FOXCOIND_USER}:${FOXCOIND_GROUP}" \
+	"${FOXCOIND_PIDDIR}"
+
+	checkpath -f \
+	-o ${FOXCOIND_USER}:${FOXCOIND_GROUP} \
+	-m 0660 \
+	${FOXCOIND_CONFIGFILE}
+
+	checkconfig || return 1
+}
+
+checkconfig()
+{
+	if ! grep -qs '^rpcpassword=' "${FOXCOIND_CONFIGFILE}" ; then
+		eerror ""
+		eerror "ERROR: You must set a secure rpcpassword to run foxcoind."
+		eerror "The setting must appear in ${FOXCOIND_CONFIGFILE}"
+		eerror ""
+		eerror "This password is security critical to securing wallets "
+		eerror "and must not be the same as the rpcuser setting."
+		eerror "You can generate a suitable random password using the following"
+		eerror "command from the shell:"
+		eerror ""
+		eerror "bash -c 'tr -dc a-zA-Z0-9 < /dev/urandom | head -c32 && echo'"
+		eerror ""
+		eerror "It is also recommended that you also set alertnotify so you are "
+		eerror "notified of problems:"
+		eerror ""
+		eerror "ie: alertnotify=echo %%s | mail -s \"Foxcoin Alert\"" \
+			"admin@foo.com"
+		eerror ""
+		return 1
+	fi
+}

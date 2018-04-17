@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Foxcoin
+Comment=Foxcoin P2P Cryptocurrency
+Comment[fr]=Foxcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Foxcoin, eşten eşe kriptografik sanal para birimi
+Exec=foxcoin-qt %u
+Terminal=false
+Type=Application
+Icon=foxcoin128
+MimeType=x-scheme-handler/foxcoin;
+Categories=Office;Finance;

@@ -1,0 +1,3 @@
+debian/manpages/foxcoind.1
+debian/manpages/foxcoin.conf.5
+debian/manpages/foxcoin-cli.1

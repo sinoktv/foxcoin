@@ -1,0 +1,27 @@
+# /etc/conf.d/foxcoind: config file for /etc/init.d/foxcoind
+
+# Config file location
+#FOXCOIND_CONFIGFILE="/etc/foxcoin/foxcoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $FOXCOIND_USER)
+#FOXCOIND_PIDDIR="/var/run/foxcoind"
+
+# What filename to give the pidfile
+#FOXCOIND_PIDFILE="${FOXCOIND_PIDDIR}/foxcoind.pid"
+
+# Where to write foxcoind data (be mindful that the blockchain is large)
+#FOXCOIND_DATADIR="/var/lib/foxcoind"
+
+# User and group to own foxcoind process
+#FOXCOIND_USER="foxcoin"
+#FOXCOIND_GROUP="foxcoin"
+
+# Path to foxcoind executable
+#FOXCOIND_BIN="/usr/bin/foxcoind"
+
+# Nice value to run foxcoind under
+#FOXCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+FOXCOIND_OPTS="-disablewallet"
+
