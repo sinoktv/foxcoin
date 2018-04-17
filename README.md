@@ -1,8 +1,6 @@
 # Foxcoin Core [FOX, Ð]
 ==========================
 
-![Foxcoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
-
 [![Build Status](https://travis-ci.org/foxcoin/foxcoin.svg?branch=1.7-dev)](https://travis-ci.org/foxcoin/foxcoin) [![tip for next commit](https://tip4commit.com/projects/702.svg)](https://tip4commit.com/github/foxcoin/foxcoin)
 
 ## What is Foxcoin? – Such coin
