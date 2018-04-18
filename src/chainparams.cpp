@@ -84,7 +84,7 @@ public:
         pchMessageStart[2] = 0xc0;
         pchMessageStart[3] = 0xc0;
         vAlertPubKey = ParseHex("04d4da7a5dae4db797d9b0644d57a5cd50e05a70f36091cd62e2fc41c98ded06340be5a43a35e185690cd9cde5d72da8f6d065b499b06f51dcfba14aad859f443a");
-        nDefaultPort = 22557;
+        nDefaultPort = 28805;
         nMinerThreads = 0;
         nPruneAfterHeight = 100000;
 
@@ -99,7 +99,7 @@ public:
          *     CTxOut(nValue=50.00000000, scriptPubKey=0x5F1DF16B2B704C8A578D0B)
          *   vMerkleTree: 4a5e1e
          */
-        const char* pszTimestamp = "NY Times 05/Oct/2011 Steve Jobs, Apple¡¯s Visionary, Dies at 56";
+        const char* pszTimestamp = "foxcoin";
         CMutableTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -110,17 +110,15 @@ public:
         genesis.hashPrevBlock.SetNull();
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion.SetGenesisVersion(1);
-        genesis.nTime    = 1523943766;
+        genesis.nTime    = 1524025965;
         genesis.nBits    = 0x1e0ffff0;
-        genesis.nNonce   = 3877401;
+        genesis.nNonce   = 214438;
 
         consensus.hashGenesisBlock = genesis.GetHash();
         digishieldConsensus.hashGenesisBlock = consensus.hashGenesisBlock;
         auxpowConsensus.hashGenesisBlock = consensus.hashGenesisBlock;
-        assert(consensus.hashGenesisBlock == uint256S("0xd9c5aac43b3d3b20ca9470a33da5511136e7b335db98821c28999ae2ea082e15"));
-        assert(genesis.hashMerkleRoot == uint256S("0x97ddfbbae6be97fd6cdf3e7ca13232a3afff2353e29badfab7f73011edd4ced9"));
-
-        vSeeds.push_back(CDNSSeedData("127.0.0.1", "127.0.0.1"));
+        assert(consensus.hashGenesisBlock == uint256S("0x3488a04355c72d07471e13491068893ebe4595b2b3eba5f51089255ea44f0078"));
+        assert(genesis.hashMerkleRoot == uint256S("0xc5e2be7fe375799939a93568ac2a9f9865299b3ddce43a8e5249ca02d635aa56"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,30);  // 0x1e
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,22);  // 0x16
@@ -131,6 +129,7 @@ public:
         //TODO: fix this for foxcoin -- plddr
         //vFixedSeeds = std::vector<SeedSpec6>(pnSeed6_main, pnSeed6_main + ARRAYLEN(pnSeed6_main));
         vFixedSeeds.clear();
+        vSeeds.push_back(CDNSSeedData("54.37.109.85","54.37.109.85"));
 
         fRequireRPCPassword = true;
         fMiningRequiresPeers = true;
@@ -142,7 +141,7 @@ public:
         checkpointData = (Checkpoints::CCheckpointData) {
             boost::assign::map_list_of
 
-            (      0, uint256S("0xd9c5aac43b3d3b20ca9470a33da5511136e7b335db98821c28999ae2ea082e15")),
+            (      0, uint256S("0x3488a04355c72d07471e13491068893ebe4595b2b3eba5f51089255ea44f0078")),
 
             1523943766, // * UNIX timestamp of last checkpoint block
             0,   // * total number of transactions between genesis and last checkpoint
@@ -219,17 +218,16 @@ public:
         nPruneAfterHeight = 1000;
 
         //! Modify the testnet genesis block so the timestamp is valid for a later start.
-        genesis.nTime = 1523943766;
-        genesis.nNonce = 3877401;
+        genesis.nTime = 1524025965;
+        genesis.nNonce = 214438;
         consensus.hashGenesisBlock = genesis.GetHash();
         digishieldConsensus.hashGenesisBlock = consensus.hashGenesisBlock;
         minDifficultyConsensus.hashGenesisBlock = consensus.hashGenesisBlock;
         auxpowConsensus.hashGenesisBlock = consensus.hashGenesisBlock;
-        assert(consensus.hashGenesisBlock == uint256S("0xd9c5aac43b3d3b20ca9470a33da5511136e7b335db98821c28999ae2ea082e15"));
+        assert(consensus.hashGenesisBlock == uint256S("0x3488a04355c72d07471e13491068893ebe4595b2b3eba5f51089255ea44f0078"));
 
         vFixedSeeds.clear();
         vSeeds.clear();
-        vSeeds.push_back(CDNSSeedData("jrn.me.uk", "testseed.jrn.me.uk"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,113); // 0x71
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,196); // 0xc4
@@ -249,14 +247,10 @@ public:
 
         checkpointData = (Checkpoints::CCheckpointData) {
             boost::assign::map_list_of
-            ( 0, uint256S("0xd9c5aac43b3d3b20ca9470a33da5511136e7b335db98821c28999ae2ea082e15"))
-            ( 483173, uint256S("0xa804201ca0aceb7e937ef7a3c613a9b7589245b10cc095148c4ce4965b0b73b5"))
-            ( 591117, uint256S("0x5f6b93b2c28cedf32467d900369b8be6700f0649388a7dbfd3ebd4a01b1ffad8"))
-            ( 658924, uint256S("0xed6c8324d9a77195ee080f225a0fca6346495e08ded99bcda47a8eea5a8a620b"))
-            ( 703635, uint256S("0x839fa54617adcd582d53030a37455c14a87a806f6615aa8213f13e196230ff7f")),
-            1440601451, // * UNIX timestamp of last checkpoint block
-            1119061,    // * total number of transactions between genesis and last checkpoint
-            1000        // * estimated number of transactions per day after checkpoint
+            ( 0, uint256S("0x3488a04355c72d07471e13491068893ebe4595b2b3eba5f51089255ea44f0078")),
+            1524025965, // * UNIX timestamp of last checkpoint block
+            0,    // * total number of transactions between genesis and last checkpoint
+            0        // * estimated number of transactions per day after checkpoint
         };
 
     }
@@ -307,14 +301,14 @@ public:
         pchMessageStart[2] = 0xb5;
         pchMessageStart[3] = 0xda;
         nMinerThreads = 1;
-        genesis.nTime = 1523943766;
+        genesis.nTime = 1524025965;
         genesis.nBits = 0x1e0ffff0;
-        genesis.nNonce = 3877401;
+        genesis.nNonce = 214438;
         consensus.hashGenesisBlock = genesis.GetHash();
         digishieldConsensus.hashGenesisBlock = consensus.hashGenesisBlock;
         auxpowConsensus.hashGenesisBlock = consensus.hashGenesisBlock;
         nDefaultPort = 18444;
-        assert(consensus.hashGenesisBlock == uint256S("0xd9c5aac43b3d3b20ca9470a33da5511136e7b335db98821c28999ae2ea082e15"));
+        assert(consensus.hashGenesisBlock == uint256S("0x3488a04355c72d07471e13491068893ebe4595b2b3eba5f51089255ea44f0078"));
         nPruneAfterHeight = 1000;
 
         vFixedSeeds.clear(); //! Regtest mode doesn't have any fixed seeds.
@@ -329,7 +323,7 @@ public:
 
         checkpointData = (Checkpoints::CCheckpointData){
             boost::assign::map_list_of
-            ( 0, uint256S("0xd9c5aac43b3d3b20ca9470a33da5511136e7b335db98821c28999ae2ea082e15")),
+            ( 0, uint256S("0x3488a04355c72d07471e13491068893ebe4595b2b3eba5f51089255ea44f0078")),
             0,
             0,
             0
