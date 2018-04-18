@@ -99,7 +99,7 @@ public:
          *     CTxOut(nValue=50.00000000, scriptPubKey=0x5F1DF16B2B704C8A578D0B)
          *   vMerkleTree: 4a5e1e
          */
-        const char* pszTimestamp = "NY Times 05/Oct/2011 Steve Jobs, Appleâ€™s Visionary, Dies at 56";
+        const char* pszTimestamp = "NY Times 05/Oct/2011 Steve Jobs, Apple¡¯s Visionary, Dies at 56";
         CMutableTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);

@@ -3,931 +3,931 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>é¼ æ ‡å³å‡»ç¼–è¾‘åœ°å€æˆ–æ ‡ç­¾</translation>
+        <translation>Êó±êÓÒ»÷±à¼­µØÖ·»ò±êÇ©</translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>åˆ›å»ºæ–°åœ°å€</translation>
+        <translation>´´½¨ĞÂµØÖ·</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>æ–°å»º(&amp;N)</translation>
+        <translation>ĞÂ½¨(&amp;N)</translation>
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>å¤åˆ¶å½“å‰é€‰ä¸­çš„åœ°å€åˆ°ç³»ç»Ÿå‰ªè´´æ¿</translation>
+        <translation>¸´ÖÆµ±Ç°Ñ¡ÖĞµÄµØÖ·µ½ÏµÍ³¼ôÌù°å</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>å¤åˆ¶(&amp;C)</translation>
+        <translation>¸´ÖÆ(&amp;C)</translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>å…³é—­(&amp;C)</translation>
+        <translation>¹Ø±Õ(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
-        <translation>å¤åˆ¶åœ°å€(&amp;C)</translation>
+        <translation>¸´ÖÆµØÖ·(&amp;C)</translation>
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>ä»åˆ—è¡¨ä¸­åˆ é™¤é€‰ä¸­çš„åœ°å€</translation>
+        <translation>´ÓÁĞ±íÖĞÉ¾³ıÑ¡ÖĞµÄµØÖ·</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>å¯¼å‡ºå½“å‰æ•°æ®åˆ°æ–‡ä»¶</translation>
+        <translation>µ¼³öµ±Ç°Êı¾İµ½ÎÄ¼ş</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>å¯¼å‡º(&amp;E)</translation>
+        <translation>µ¼³ö(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>åˆ é™¤(&amp;D)</translation>
+        <translation>É¾³ı(&amp;D)</translation>
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>é€‰æ‹©å‘æ¬¾åœ°å€</translation>
+        <translation>Ñ¡Ôñ·¢¿îµØÖ·</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>é€‰æ‹©æ”¶æ¬¾åœ°å€</translation>
+        <translation>Ñ¡ÔñÊÕ¿îµØÖ·</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
-        <translation>é€‰æ‹©(&amp;H)</translation>
+        <translation>Ñ¡Ôñ(&amp;H)</translation>
     </message>
     <message>
         <source>Such sending addresses</source>
-        <translation>æ­£åœ¨å‘é€åœ°å€</translation>
+        <translation>ÕıÔÚ·¢ËÍµØÖ·</translation>
     </message>
     <message>
         <source>Much receiving addresses</source>
-        <translation>æ­£åœ¨æ¥æ”¶åœ°å€</translation>
+        <translation>ÕıÔÚ½ÓÊÕµØÖ·</translation>
     </message>
     <message>
         <source>These are your Foxcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>è¿™æ˜¯æ‚¨ç”¨æ¥ä»˜æ¬¾çš„å°ç‹¸å¸åœ°å€ã€‚åœ¨ä»˜æ¬¾å‰ï¼Œè¯·æ€»æ˜¯æ ¸å®ä»˜æ¬¾é‡‘é¢å’Œæ”¶æ¬¾åœ°å€ã€‚</translation>
+        <translation>ÕâÊÇÄúÓÃÀ´¸¶¿îµÄĞ¡Àê±ÒµØÖ·¡£ÔÚ¸¶¿îÇ°£¬Çë×ÜÊÇºËÊµ¸¶¿î½ğ¶îºÍÊÕ¿îµØÖ·¡£</translation>
     </message>
     <message>
         <source>These are your Foxcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>è¿™äº›éƒ½æ˜¯æ‚¨çš„å°ç‹¸å¸åœ°å€ï¼Œå¯ç”¨äºæ”¶æ¬¾ã€‚å»ºè®®å¯¹æ¯ç¬”äº¤æ˜“éƒ½ä½¿ç”¨ä¸€ä¸ªæ–°çš„åœ°å€ã€‚</translation>
+        <translation>ÕâĞ©¶¼ÊÇÄúµÄĞ¡Àê±ÒµØÖ·£¬¿ÉÓÃÓÚÊÕ¿î¡£½¨Òé¶ÔÃ¿±Ê½»Ò×¶¼Ê¹ÓÃÒ»¸öĞÂµÄµØÖ·¡£</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
-        <translation>å¤åˆ¶æ ‡ç­¾(&amp;L)</translation>
+        <translation>¸´ÖÆ±êÇ©(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>ç¼–è¾‘(&amp;E)</translation>
+        <translation>±à¼­(&amp;E)</translation>
     </message>
     <message>
         <source>Export Address List</source>
-        <translation>å¯¼å‡ºåœ°å€åˆ—è¡¨</translation>
+        <translation>µ¼³öµØÖ·ÁĞ±í</translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>é€—å·åˆ†éš”æ–‡ä»¶ (*.csv)</translation>
+        <translation>¶ººÅ·Ö¸ôÎÄ¼ş (*.csv)</translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>å¯¼å‡ºå¤±è´¥</translation>
+        <translation>µ¼³öÊ§°Ü</translation>
     </message>
     <message>
         <source>There was an error trying to save the address list to %1. Please try again.</source>
-        <translation>ä¿å­˜åœ°å€åˆ—è¡¨å‡ºç° %1é”™è¯¯ã€‚è¯·é‡è¯•ã€‚</translation>
+        <translation>±£´æµØÖ·ÁĞ±í³öÏÖ %1´íÎó¡£ÇëÖØÊÔ¡£</translation>
     </message>
 </context>
 <context>
     <name>AddressTableModel</name>
     <message>
         <source>Label</source>
-        <translation>æ ‡ç­¾</translation>
+        <translation>±êÇ©</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>åœ°å€</translation>
+        <translation>µØÖ·</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(æ²¡æœ‰æ ‡ç­¾)</translation>
+        <translation>(Ã»ÓĞ±êÇ©)</translation>
     </message>
 </context>
 <context>
     <name>AskPassphraseDialog</name>
     <message>
         <source>Passphrase Dialog</source>
-        <translation>å¯†ç å¯¹è¯æ¡†</translation>
+        <translation>ÃÜÂë¶Ô»°¿ò</translation>
     </message>
     <message>
         <source>Enter passphrase</source>
-        <translation>è¾“å…¥å¯†ç </translation>
+        <translation>ÊäÈëÃÜÂë</translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>æ–°å¯†ç </translation>
+        <translation>ĞÂÃÜÂë</translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>é‡å¤æ–°å¯†ç </translation>
+        <translation>ÖØ¸´ĞÂÃÜÂë</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>é’±åŒ…åŠ å¯†</translation>
+        <translation>Ç®°ü¼ÓÃÜ</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>æ­¤æ“ä½œéœ€è¦æ‚¨é¦–å…ˆä½¿ç”¨å¯†ç è§£é”è¯¥é’±åŒ…ã€‚</translation>
+        <translation>´Ë²Ù×÷ĞèÒªÄúÊ×ÏÈÊ¹ÓÃÃÜÂë½âËø¸ÃÇ®°ü¡£</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
-        <translation>è§£é”é’±åŒ…</translation>
+        <translation>½âËøÇ®°ü</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>è¯¥æ“ä½œéœ€è¦æ‚¨é¦–å…ˆä½¿ç”¨å¯†ç è§£å¯†é’±åŒ…ã€‚</translation>
+        <translation>¸Ã²Ù×÷ĞèÒªÄúÊ×ÏÈÊ¹ÓÃÃÜÂë½âÃÜÇ®°ü¡£</translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>è§£å¯†é’±åŒ…</translation>
+        <translation>½âÃÜÇ®°ü</translation>
     </message>
     <message>
         <source>Change passphrase</source>
-        <translation>æ›´æ”¹å¯†ç </translation>
+        <translation>¸ü¸ÄÃÜÂë</translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
-        <translation>ç¡®è®¤åŠ å¯†é’±åŒ…</translation>
+        <translation>È·ÈÏ¼ÓÃÜÇ®°ü</translation>
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FOXCOINS&lt;/b&gt;!</source>
-        <translation>è­¦å‘Šï¼šå¦‚æœæ‚¨åŠ å¯†äº†æ‚¨çš„é’±åŒ…ï¼Œä½†æ˜¯å¿˜è®°äº†å¯†ç ï¼Œä½ å°†ä¼š&lt;b&gt;ä¸¢å¤±æ‰€æœ‰çš„å°ç‹¸å¸&lt;/b&gt;ï¼</translation>
+        <translation>¾¯¸æ£ºÈç¹ûÄú¼ÓÃÜÁËÄúµÄÇ®°ü£¬µ«ÊÇÍü¼ÇÁËÃÜÂë£¬Äã½«»á&lt;b&gt;¶ªÊ§ËùÓĞµÄĞ¡Àê±Ò&lt;/b&gt;£¡</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>æ‚¨ç¡®å®šéœ€è¦ä¸ºé’±åŒ…åŠ å¯†å—ï¼Ÿ</translation>
+        <translation>ÄúÈ·¶¨ĞèÒªÎªÇ®°ü¼ÓÃÜÂğ£¿</translation>
     </message>
     <message>
         <source>Foxcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your foxcoins from being stolen by malware infecting your computer.</source>
-        <translation>æ¯”ç‰¹å¸æ ¸å¿ƒç°åœ¨å°†å…³é—­ä»¥å®ŒæˆåŠ å¯†è¿‡ç¨‹ã€‚è¯·è®°ä½ï¼Œåœ¨æ‚¨çš„è®¡ç®—æœºè¢«æ¶æ„è½¯ä»¶æ„ŸæŸ“çš„æƒ…å†µä¸‹ï¼ŒåŠ å¯†ä¸èƒ½å®Œå…¨ä¿æŠ¤æ‚¨çš„æ¯”ç‰¹å¸å…äºè¢«ç›—ã€‚</translation>
+        <translation>±ÈÌØ±ÒºËĞÄÏÖÔÚ½«¹Ø±ÕÒÔÍê³É¼ÓÃÜ¹ı³Ì¡£Çë¼Ç×¡£¬ÔÚÄúµÄ¼ÆËã»ú±»¶ñÒâÈí¼ş¸ĞÈ¾µÄÇé¿öÏÂ£¬¼ÓÃÜ²»ÄÜÍêÈ«±£»¤ÄúµÄ±ÈÌØ±ÒÃâÓÚ±»µÁ¡£</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>é‡è¦æç¤ºï¼šæ‚¨ä»¥å‰å¤‡ä»½çš„é’±åŒ…æ–‡ä»¶åº”è¯¥æ›¿æ¢æˆæœ€æ–°ç”Ÿæˆçš„åŠ å¯†é’±åŒ…æ–‡ä»¶ï¼ˆé‡æ–°å¤‡ä»½ï¼‰ã€‚ä»å®‰å…¨æ€§ä¸Šè€ƒè™‘ï¼Œæ‚¨ä»¥å‰å¤‡ä»½çš„æœªåŠ å¯†çš„é’±åŒ…æ–‡ä»¶ï¼Œåœ¨æ‚¨ä½¿ç”¨æ–°çš„åŠ å¯†é’±åŒ…åå°†æ— æ•ˆï¼Œè¯·é‡æ–°å¤‡ä»½ã€‚</translation>
+        <translation>ÖØÒªÌáÊ¾£ºÄúÒÔÇ°±¸·İµÄÇ®°üÎÄ¼şÓ¦¸ÃÌæ»»³É×îĞÂÉú³ÉµÄ¼ÓÃÜÇ®°üÎÄ¼ş£¨ÖØĞÂ±¸·İ£©¡£´Ó°²È«ĞÔÉÏ¿¼ÂÇ£¬ÄúÒÔÇ°±¸·İµÄÎ´¼ÓÃÜµÄÇ®°üÎÄ¼ş£¬ÔÚÄúÊ¹ÓÃĞÂµÄ¼ÓÃÜÇ®°üºó½«ÎŞĞ§£¬ÇëÖØĞÂ±¸·İ¡£</translation>
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>è­¦å‘Šï¼šå¤§å†™é”å®šé”®å¤„äºæ‰“å¼€çŠ¶æ€ï¼</translation>
+        <translation>¾¯¸æ£º´óĞ´Ëø¶¨¼ü´¦ÓÚ´ò¿ª×´Ì¬£¡</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
-        <translation>é’±åŒ…å·²åŠ å¯†</translation>
+        <translation>Ç®°üÒÑ¼ÓÃÜ</translation>
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>è¯·è¾“å…¥æ–°çš„é’±åŒ…å¯†ç . &lt;br/&gt;å¯†ç é¡»åŒ…å«&lt;b&gt;10ä¸ªä»¥ä¸Šå­—ç¬¦&lt;/b&gt;,æˆ–&lt;b&gt;8ä¸ªä»¥ä¸Šå•è¯&lt;/b&gt;.</translation>
+        <translation>ÇëÊäÈëĞÂµÄÇ®°üÃÜÂë. &lt;br/&gt;ÃÜÂëĞë°üº¬&lt;b&gt;10¸öÒÔÉÏ×Ö·û&lt;/b&gt;,»ò&lt;b&gt;8¸öÒÔÉÏµ¥´Ê&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Enter the old passphrase and new passphrase to the wallet.</source>
-        <translation>è¯·è¾“å…¥é’±åŒ…çš„æ—§å¯†ç ä¸æ–°å¯†ç ã€‚</translation>
+        <translation>ÇëÊäÈëÇ®°üµÄ¾ÉÃÜÂëÓëĞÂÃÜÂë¡£</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
-        <translation>é’±åŒ…åŠ å¯†å¤±è´¥</translation>
+        <translation>Ç®°ü¼ÓÃÜÊ§°Ü</translation>
     </message>
     <message>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>ç”±äºä¸€ä¸ªæœ¬åœ°é”™è¯¯ï¼ŒåŠ å¯†é’±åŒ…çš„æ“ä½œå·²ç»å¤±è´¥ã€‚æ‚¨çš„é’±åŒ…æ²¡èƒ½è¢«åŠ å¯†ã€‚</translation>
+        <translation>ÓÉÓÚÒ»¸ö±¾µØ´íÎó£¬¼ÓÃÜÇ®°üµÄ²Ù×÷ÒÑ¾­Ê§°Ü¡£ÄúµÄÇ®°üÃ»ÄÜ±»¼ÓÃÜ¡£</translation>
     </message>
     <message>
         <source>The supplied passphrases do not match.</source>
-        <translation>å¯†ç ä¸åŒ¹é…ã€‚</translation>
+        <translation>ÃÜÂë²»Æ¥Åä¡£</translation>
     </message>
     <message>
         <source>Wallet unlock failed</source>
-        <translation>é’±åŒ…è§£é”å¤±è´¥</translation>
+        <translation>Ç®°ü½âËøÊ§°Ü</translation>
     </message>
     <message>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>ç”¨äºè§£å¯†é’±åŒ…çš„å¯†ç ä¸æ­£ç¡®ã€‚</translation>
+        <translation>ÓÃÓÚ½âÃÜÇ®°üµÄÃÜÂë²»ÕıÈ·¡£</translation>
     </message>
     <message>
         <source>Wallet decryption failed</source>
-        <translation>é’±åŒ…è§£å¯†å¤±è´¥ã€‚</translation>
+        <translation>Ç®°ü½âÃÜÊ§°Ü¡£</translation>
     </message>
     <message>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>ä¿®æ”¹é’±åŒ…å¯†ç æˆåŠŸã€‚</translation>
+        <translation>ĞŞ¸ÄÇ®°üÃÜÂë³É¹¦¡£</translation>
     </message>
 </context>
 <context>
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>æ¶ˆæ¯ç­¾å(&amp;M)...</translation>
+        <translation>ÏûÏ¢Ç©Ãû(&amp;M)...</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>æ­£åœ¨ä¸ç½‘ç»œåŒæ­¥...</translation>
+        <translation>ÕıÔÚÓëÍøÂçÍ¬²½...</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
-        <translation>æ¦‚å†µ(&amp;O)</translation>
+        <translation>¸Å¿ö(&amp;O)</translation>
     </message>
     <message>
         <source>Node</source>
-        <translation>èŠ‚ç‚¹</translation>
+        <translation>½Úµã</translation>
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>æ˜¾ç¤ºé’±åŒ…æ¦‚å†µ</translation>
+        <translation>ÏÔÊ¾Ç®°ü¸Å¿ö</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
-        <translation>äº¤æ˜“è®°å½•(&amp;T)</translation>
+        <translation>½»Ò×¼ÇÂ¼(&amp;T)</translation>
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>æŸ¥çœ‹äº¤æ˜“å†å²</translation>
+        <translation>²é¿´½»Ò×ÀúÊ·</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation>é€€å‡º(&amp;X)</translation>
+        <translation>ÍË³ö(&amp;X)</translation>
     </message>
     <message>
         <source>Quit application</source>
-        <translation>é€€å‡ºç¨‹åº</translation>
+        <translation>ÍË³ö³ÌĞò</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>å…³äº &amp;Qt</translation>
+        <translation>¹ØÓÚ &amp;Qt</translation>
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>æ˜¾ç¤º Qt ç›¸å…³ä¿¡æ¯</translation>
+        <translation>ÏÔÊ¾ Qt Ïà¹ØĞÅÏ¢</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation>é€‰é¡¹(&amp;O)...</translation>
+        <translation>Ñ¡Ïî(&amp;O)...</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>åŠ å¯†é’±åŒ…(&amp;E)...</translation>
+        <translation>¼ÓÃÜÇ®°ü(&amp;E)...</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>å¤‡ä»½é’±åŒ…(&amp;B)...</translation>
+        <translation>±¸·İÇ®°ü(&amp;B)...</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>æ›´æ”¹å¯†ç (&amp;C)...</translation>
+        <translation>¸ü¸ÄÃÜÂë(&amp;C)...</translation>
     </message>
     <message>
         <source>Such &amp;sending addresses...</source>
-        <translation>æ­£åœ¨å‘é€åœ°å€(&amp;S)...</translation>
+        <translation>ÕıÔÚ·¢ËÍµØÖ·(&amp;S)...</translation>
     </message>
     <message>
         <source>Much &amp;receiving addresses...</source>
-        <translation>æ­£åœ¨æ¥æ”¶åœ°å€(&amp;R)...</translation>
+        <translation>ÕıÔÚ½ÓÊÕµØÖ·(&amp;R)...</translation>
     </message>
     <message>
         <source>Open &amp;URI...</source>
-        <translation>æ‰“å¼€ &amp;URI...</translation>
+        <translation>´ò¿ª &amp;URI...</translation>
     </message>
     <message>
         <source>Foxcoin Core client</source>
-        <translation>æ¯”ç‰¹å¸æ ¸å¿ƒé’±åŒ…</translation>
+        <translation>±ÈÌØ±ÒºËĞÄÇ®°ü</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
-        <translation>æ­£åœ¨ä»ç£ç›˜å¯¼å…¥æ•°æ®å—...</translation>
+        <translation>ÕıÔÚ´Ó´ÅÅÌµ¼ÈëÊı¾İ¿é...</translation>
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>æ­£åœ¨ä¸ºæ•°æ®å—å»ºç«‹ç´¢å¼•...</translation>
+        <translation>ÕıÔÚÎªÊı¾İ¿é½¨Á¢Ë÷Òı...</translation>
     </message>
     <message>
         <source>Send coins to a Foxcoin address</source>
-        <translation>å‘ä¸€ä¸ªå°ç‹¸å¸åœ°å€å‘é€å°ç‹¸å¸</translation>
+        <translation>ÏòÒ»¸öĞ¡Àê±ÒµØÖ··¢ËÍĞ¡Àê±Ò</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>å¤‡ä»½é’±åŒ…åˆ°å…¶ä»–æ–‡ä»¶å¤¹</translation>
+        <translation>±¸·İÇ®°üµ½ÆäËûÎÄ¼ş¼Ğ</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>æ›´æ”¹é’±åŒ…åŠ å¯†å£ä»¤</translation>
+        <translation>¸ü¸ÄÇ®°ü¼ÓÃÜ¿ÚÁî</translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
-        <translation>è°ƒè¯•çª—å£(&amp;D)</translation>
+        <translation>µ÷ÊÔ´°¿Ú(&amp;D)</translation>
     </message>
     <message>
         <source>Open debugging and diagnostic console</source>
-        <translation>æ‰“å¼€è°ƒè¯•å’Œè¯Šæ–­æ§åˆ¶å°</translation>
+        <translation>´ò¿ªµ÷ÊÔºÍÕï¶Ï¿ØÖÆÌ¨</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
-        <translation>éªŒè¯æ¶ˆæ¯(&amp;V)...</translation>
+        <translation>ÑéÖ¤ÏûÏ¢(&amp;V)...</translation>
     </message>
     <message>
         <source>Foxcoin</source>
-        <translation>å°ç‹¸å¸</translation>
+        <translation>Ğ¡Àê±Ò</translation>
     </message>
     <message>
         <source>Wallet</source>
-        <translation>é’±åŒ…</translation>
+        <translation>Ç®°ü</translation>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>å‘é€(&amp;S)</translation>
+        <translation>·¢ËÍ(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
-        <translation>æ¥æ”¶(&amp;R)</translation>
+        <translation>½ÓÊÕ(&amp;R)</translation>
     </message>
     <message>
         <source>Show information about Foxcoin Core</source>
-        <translation>æ˜¾ç¤ºæœ‰å…³æ¯”ç‰¹å¸æ ¸å¿ƒé’±åŒ…ä¿¡æ¯</translation>
+        <translation>ÏÔÊ¾ÓĞ¹Ø±ÈÌØ±ÒºËĞÄÇ®°üĞÅÏ¢</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
-        <translation>æ˜¾ç¤º / éšè—(&amp;S)</translation>
+        <translation>ÏÔÊ¾ / Òş²Ø(&amp;S)</translation>
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>æ˜¾ç¤ºæˆ–éšè—ä¸»çª—å£</translation>
+        <translation>ÏÔÊ¾»òÒş²ØÖ÷´°¿Ú</translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
-        <translation>å¯¹é’±åŒ…ä¸­çš„ç§é’¥åŠ å¯†</translation>
+        <translation>¶ÔÇ®°üÖĞµÄË½Ô¿¼ÓÃÜ</translation>
     </message>
     <message>
         <source>Sign messages with your Foxcoin addresses to prove you own them</source>
-        <translation>ç”¨å°ç‹¸å¸åœ°å€å…³è”çš„ç§é’¥ä¸ºæ¶ˆæ¯ç­¾åï¼Œä»¥è¯æ˜æ‚¨æ‹¥æœ‰è¿™ä¸ªå°ç‹¸å¸åœ°å€</translation>
+        <translation>ÓÃĞ¡Àê±ÒµØÖ·¹ØÁªµÄË½Ô¿ÎªÏûÏ¢Ç©Ãû£¬ÒÔÖ¤Ã÷ÄúÓµÓĞÕâ¸öĞ¡Àê±ÒµØÖ·</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Foxcoin addresses</source>
-        <translation>æ ¡éªŒæ¶ˆæ¯ï¼Œç¡®ä¿è¯¥æ¶ˆæ¯æ˜¯ç”±æŒ‡å®šçš„å°ç‹¸å¸åœ°å€æ‰€æœ‰è€…ç­¾åçš„</translation>
+        <translation>Ğ£ÑéÏûÏ¢£¬È·±£¸ÃÏûÏ¢ÊÇÓÉÖ¸¶¨µÄĞ¡Àê±ÒµØÖ·ËùÓĞÕßÇ©ÃûµÄ</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>æ–‡ä»¶(&amp;F)</translation>
+        <translation>ÎÄ¼ş(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>è®¾ç½®(&amp;S)</translation>
+        <translation>ÉèÖÃ(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>å¸®åŠ©(&amp;H)</translation>
+        <translation>°ïÖú(&amp;H)</translation>
     </message>
     <message>
         <source>Tabs toolbar</source>
-        <translation>åˆ†é¡µå·¥å…·æ </translation>
+        <translation>·ÖÒ³¹¤¾ßÀ¸</translation>
     </message>
     <message>
         <source>Foxcoin Core</source>
-        <translation>å°ç‹¸å¸æ ¸å¿ƒ</translation>
+        <translation>Ğ¡Àê±ÒºËĞÄ</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and foxcoin: URIs)</source>
-        <translation>è¯·æ±‚æ”¯ä»˜ï¼ˆç”ŸæˆäºŒç»´ç å’Œ foxcoin: URIï¼‰</translation>
+        <translation>ÇëÇóÖ§¸¶£¨Éú³É¶şÎ¬ÂëºÍ foxcoin: URI£©</translation>
     </message>
     <message>
         <source>&amp;About Foxcoin Core</source>
-        <translation>å…³äºå°ç‹¸å¸æ ¸å¿ƒ(&amp;A)</translation>
+        <translation>¹ØÓÚĞ¡Àê±ÒºËĞÄ(&amp;A)</translation>
     </message>
     <message>
         <source>Modify configuration options for Foxcoin Core</source>
-        <translation>è®¾ç½®é€‰é¡¹</translation>
+        <translation>ÉèÖÃÑ¡Ïî</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
-        <translation>æ˜¾ç¤ºç”¨è¿‡çš„å‘é€åœ°å€å’Œæ ‡ç­¾çš„åˆ—è¡¨</translation>
+        <translation>ÏÔÊ¾ÓÃ¹ıµÄ·¢ËÍµØÖ·ºÍ±êÇ©µÄÁĞ±í</translation>
     </message>
     <message>
         <source>Show the list of used receiving addresses and labels</source>
-        <translation>æ˜¾ç¤ºç”¨è¿‡çš„æ¥æ”¶åœ°å€å’Œæ ‡ç­¾çš„åˆ—è¡¨</translation>
+        <translation>ÏÔÊ¾ÓÃ¹ıµÄ½ÓÊÕµØÖ·ºÍ±êÇ©µÄÁĞ±í</translation>
     </message>
     <message>
         <source>Open a foxcoin: URI or payment request</source>
-        <translation>æ‰“å¼€ä¸€ä¸ªå°ç‹¸å¸ï¼šURI æˆ–æ”¯ä»˜è¯·æ±‚</translation>
+        <translation>´ò¿ªÒ»¸öĞ¡Àê±Ò£ºURI »òÖ§¸¶ÇëÇó</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
-        <translation>å‘½ä»¤è¡Œé€‰é¡¹(&amp;C)</translation>
+        <translation>ÃüÁîĞĞÑ¡Ïî(&amp;C)</translation>
     </message>
     <message>
         <source>Show the Foxcoin Core help message to get a list with possible Foxcoin command-line options</source>
-        <translation>æ˜¾ç¤ºæ¯”ç‰¹å¸æ ¸å¿ƒ ç¨‹åºå¸®åŠ©ä¿¡æ¯ï¼Œè·å–å¯ç”¨çš„å‘½ä»¤è¡Œé€‰é¡¹ </translation>
+        <translation>ÏÔÊ¾±ÈÌØ±ÒºËĞÄ ³ÌĞò°ïÖúĞÅÏ¢£¬»ñÈ¡¿ÉÓÃµÄÃüÁîĞĞÑ¡Ïî </translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Foxcoin network</source>
-        <translation><numerusform>%næ¡åˆ°å°ç‹¸å¸ç½‘ç»œçš„æ´»åŠ¨è¿æ¥</numerusform></translation>
+        <translation><numerusform>%nÌõµ½Ğ¡Àê±ÒÍøÂçµÄ»î¶¯Á¬½Ó</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
-        <translation>æ²’æœ‰å¯ç”¨çš„åŒºå—æ¥æº...</translation>
+        <translation>›]ÓĞ¿ÉÓÃµÄÇø¿éÀ´Ô´...</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
-        <translation><numerusform>å·²å¤„ç† %n ä¸ªäº¤æ˜“å†å²æ•°æ®å—ã€‚</numerusform></translation>
+        <translation><numerusform>ÒÑ´¦Àí %n ¸ö½»Ò×ÀúÊ·Êı¾İ¿é¡£</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
-        <translation><numerusform>%n å°æ—¶</numerusform></translation>
+        <translation><numerusform>%n Ğ¡Ê±</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n day(s)</source>
-        <translation><numerusform>%n å¤©</numerusform></translation>
+        <translation><numerusform>%n Ìì</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n week(s)</source>
-        <translation><numerusform>%n å‘¨</numerusform></translation>
+        <translation><numerusform>%n ÖÜ</numerusform></translation>
     </message>
     <message>
         <source>%1 and %2</source>
-        <translation>%1 å’Œ %2</translation>
+        <translation>%1 ºÍ %2</translation>
     </message>
     <message numerus="yes">
         <source>%n year(s)</source>
-        <translation><numerusform>%n å¹´</numerusform></translation>
+        <translation><numerusform>%n Äê</numerusform></translation>
     </message>
     <message>
         <source>%1 behind</source>
-        <translation>è½å %1 </translation>
+        <translation>Âäºó %1 </translation>
     </message>
     <message>
         <source>Last received block was generated %1 ago.</source>
-        <translation>æœ€æ–°æ”¶åˆ°çš„åŒºå—äº§ç”Ÿäº %1ã€‚</translation>
+        <translation>×îĞÂÊÕµ½µÄÇø¿é²úÉúÓÚ %1¡£</translation>
     </message>
     <message>
         <source>Transactions after this will not yet be visible.</source>
-        <translation>åœ¨æ­¤ä¹‹åçš„äº¤æ˜“å°šæœªå¯è§</translation>
+        <translation>ÔÚ´ËÖ®ºóµÄ½»Ò×ÉĞÎ´¿É¼û</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>é”™è¯¯</translation>
+        <translation>´íÎó</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>è­¦å‘Š</translation>
+        <translation>¾¯¸æ</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>ä¿¡æ¯</translation>
+        <translation>ĞÅÏ¢</translation>
     </message>
     <message>
         <source>Up to date</source>
-        <translation>å·²æ˜¯æœ€æ–°</translation>
+        <translation>ÒÑÊÇ×îĞÂ</translation>
     </message>
     <message>
         <source>Catching up...</source>
-        <translation>æ›´æ–°ä¸­...</translation>
+        <translation>¸üĞÂÖĞ...</translation>
     </message>
     <message>
         <source>Date: %1
 </source>
-        <translation>æ—¥æœŸ: %1
+        <translation>ÈÕÆÚ: %1
 </translation>
     </message>
     <message>
         <source>Amount: %1
 </source>
-        <translation>é‡‘é¢: %1
+        <translation>½ğ¶î: %1
 </translation>
     </message>
     <message>
         <source>Type: %1
 </source>
-        <translation>ç±»å‹: %1
+        <translation>ÀàĞÍ: %1
 </translation>
     </message>
     <message>
         <source>Label: %1
 </source>
-        <translation>æ ‡ç­¾: %1
+        <translation>±êÇ©: %1
 </translation>
     </message>
     <message>
         <source>Address: %1
 </source>
-        <translation>åœ°å€: %1
+        <translation>µØÖ·: %1
 </translation>
     </message>
     <message>
         <source>Sent transaction</source>
-        <translation>å‘é€äº¤æ˜“</translation>
+        <translation>·¢ËÍ½»Ò×</translation>
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>æµå…¥äº¤æ˜“</translation>
+        <translation>Á÷Èë½»Ò×</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>é’±åŒ…å·²è¢«&lt;b&gt;åŠ å¯†&lt;/b&gt;ï¼Œå½“å‰ä¸º&lt;b&gt;è§£é”&lt;/b&gt;çŠ¶æ€</translation>
+        <translation>Ç®°üÒÑ±»&lt;b&gt;¼ÓÃÜ&lt;/b&gt;£¬µ±Ç°Îª&lt;b&gt;½âËø&lt;/b&gt;×´Ì¬</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>é’±åŒ…å·²è¢«&lt;b&gt;åŠ å¯†&lt;/b&gt;ï¼Œå½“å‰ä¸º&lt;b&gt;é”å®š&lt;/b&gt;çŠ¶æ€</translation>
+        <translation>Ç®°üÒÑ±»&lt;b&gt;¼ÓÃÜ&lt;/b&gt;£¬µ±Ç°Îª&lt;b&gt;Ëø¶¨&lt;/b&gt;×´Ì¬</translation>
     </message>
 </context>
 <context>
     <name>ClientModel</name>
     <message>
         <source>Network Alert</source>
-        <translation>ç½‘ç»œè­¦æŠ¥</translation>
+        <translation>ÍøÂç¾¯±¨</translation>
     </message>
 </context>
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Selection</source>
-        <translation>å¸æºé€‰æ‹©(Coin Selection)</translation>
+        <translation>±ÒÔ´Ñ¡Ôñ(Coin Selection)</translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>æ€»é‡ï¼š</translation>
+        <translation>×ÜÁ¿£º</translation>
     </message>
     <message>
         <source>Bytes:</source>
-        <translation>å­—èŠ‚ï¼š</translation>
+        <translation>×Ö½Ú£º</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>é‡‘é¢ï¼š</translation>
+        <translation>½ğ¶î£º</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation>ä¼˜å…ˆçº§ï¼š</translation>
+        <translation>ÓÅÏÈ¼¶£º</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>è´¹ç”¨ï¼š</translation>
+        <translation>·ÑÓÃ£º</translation>
     </message>
     <message>
         <source>Dust:</source>
-        <translation>å°é¢ï¼š</translation>
+        <translation>Ğ¡¶î£º</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>åŠ ä¸Šäº¤æ˜“è´¹ç”¨å:</translation>
+        <translation>¼ÓÉÏ½»Ò×·ÑÓÃºó:</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation>å˜æ›´ : </translation>
+        <translation>±ä¸ü : </translation>
     </message>
     <message>
         <source>(un)select all</source>
-        <translation>(ä¸)å…¨é€‰</translation>
+        <translation>(²»)È«Ñ¡</translation>
     </message>
     <message>
         <source>Tree mode</source>
-        <translation>æ ‘çŠ¶æ¨¡å¼</translation>
+        <translation>Ê÷×´Ä£Ê½</translation>
     </message>
     <message>
         <source>List mode</source>
-        <translation>åˆ—è¡¨æ¨¡å¼</translation>
+        <translation>ÁĞ±íÄ£Ê½</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>é‡‘é¢</translation>
+        <translation>½ğ¶î</translation>
     </message>
     <message>
         <source>Received with label</source>
-        <translation>æŒ‰æ ‡ç­¾æ”¶æ¬¾</translation>
+        <translation>°´±êÇ©ÊÕ¿î</translation>
     </message>
     <message>
         <source>Received with address</source>
-        <translation>æŒ‰åœ°å€æ”¶æ¬¾</translation>
+        <translation>°´µØÖ·ÊÕ¿î</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>æ—¥æœŸ</translation>
+        <translation>ÈÕÆÚ</translation>
     </message>
     <message>
         <source>Confirmations</source>
-        <translation>ç¡®è®¤</translation>
+        <translation>È·ÈÏ</translation>
     </message>
     <message>
         <source>Confirmed</source>
-        <translation>å·²ç¡®è®¤</translation>
+        <translation>ÒÑÈ·ÈÏ</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation>ä¼˜å…ˆçº§</translation>
+        <translation>ÓÅÏÈ¼¶</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>å¤åˆ¶åœ°å€</translation>
+        <translation>¸´ÖÆµØÖ·</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>å¤åˆ¶æ ‡ç­¾</translation>
+        <translation>¸´ÖÆ±êÇ©</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>å¤åˆ¶é‡‘é¢</translation>
+        <translation>¸´ÖÆ½ğ¶î</translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>å¤åˆ¶äº¤æ˜“ç¼–å·</translation>
+        <translation>¸´ÖÆ½»Ò×±àºÅ</translation>
     </message>
     <message>
         <source>Lock unspent</source>
-        <translation>é”å®šæœªèŠ±è´¹</translation>
+        <translation>Ëø¶¨Î´»¨·Ñ</translation>
     </message>
     <message>
         <source>Unlock unspent</source>
-        <translation>è§£é”æœªèŠ±è´¹</translation>
+        <translation>½âËøÎ´»¨·Ñ</translation>
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation>å¤åˆ¶é‡‘é¢</translation>
+        <translation>¸´ÖÆ½ğ¶î</translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>å¤åˆ¶äº¤æ˜“è´¹</translation>
+        <translation>¸´ÖÆ½»Ò×·Ñ</translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>å¤åˆ¶å«äº¤æ˜“è´¹çš„é‡‘é¢</translation>
+        <translation>¸´ÖÆº¬½»Ò×·ÑµÄ½ğ¶î</translation>
     </message>
     <message>
         <source>Copy bytes</source>
-        <translation>å¤åˆ¶å­—èŠ‚</translation>
+        <translation>¸´ÖÆ×Ö½Ú</translation>
     </message>
     <message>
         <source>Copy priority</source>
-        <translation>å¤åˆ¶ä¼˜å…ˆçº§</translation>
+        <translation>¸´ÖÆÓÅÏÈ¼¶</translation>
     </message>
     <message>
         <source>Copy dust</source>
-        <translation>å¤åˆ¶å°é¢</translation>
+        <translation>¸´ÖÆĞ¡¶î</translation>
     </message>
     <message>
         <source>Copy change</source>
-        <translation>å¤åˆ¶é›¶é’±</translation>
+        <translation>¸´ÖÆÁãÇ®</translation>
     </message>
     <message>
         <source>highest</source>
-        <translation>æœ€é«˜</translation>
+        <translation>×î¸ß</translation>
     </message>
     <message>
         <source>higher</source>
-        <translation>æ›´é«˜</translation>
+        <translation>¸ü¸ß</translation>
     </message>
     <message>
         <source>high</source>
-        <translation>é«˜</translation>
+        <translation>¸ß</translation>
     </message>
     <message>
         <source>medium-high</source>
-        <translation>ä¸­é«˜</translation>
+        <translation>ÖĞ¸ß</translation>
     </message>
     <message>
         <source>medium</source>
-        <translation>ä¸­ç­‰</translation>
+        <translation>ÖĞµÈ</translation>
     </message>
     <message>
         <source>low-medium</source>
-        <translation>ä¸­ä½</translation>
+        <translation>ÖĞµÍ</translation>
     </message>
     <message>
         <source>low</source>
-        <translation>ä½</translation>
+        <translation>µÍ</translation>
     </message>
     <message>
         <source>lower</source>
-        <translation>æ›´ä½</translation>
+        <translation>¸üµÍ</translation>
     </message>
     <message>
         <source>lowest</source>
-        <translation>æœ€ä½</translation>
+        <translation>×îµÍ</translation>
     </message>
     <message>
         <source>(%1 locked)</source>
-        <translation>(%1 é”å®š)</translation>
+        <translation>(%1 Ëø¶¨)</translation>
     </message>
     <message>
         <source>none</source>
-        <translation>æ— </translation>
+        <translation>ÎŞ</translation>
     </message>
     <message>
         <source>This label turns red if the transaction size is greater than 1000 bytes.</source>
-        <translation>å¦‚æœäº¤æ˜“è§„æ¨¡å¤§äº 1000 å­—èŠ‚ï¼Œæ­¤æ ‡ç­¾å°†å˜ä¸ºçº¢è‰²ã€‚</translation>
+        <translation>Èç¹û½»Ò×¹æÄ£´óÓÚ 1000 ×Ö½Ú£¬´Ë±êÇ©½«±äÎªºìÉ«¡£</translation>
     </message>
     <message>
         <source>This label turns red if the priority is smaller than "medium".</source>
-        <translation>å¦‚æœä¼˜å…ˆçº§å°äºâ€œä¸­ç­‰â€ï¼Œæ­¤æ ‡ç­¾å°†å˜ä¸ºçº¢è‰²ã€‚</translation>
+        <translation>Èç¹ûÓÅÏÈ¼¶Ğ¡ÓÚ¡°ÖĞµÈ¡±£¬´Ë±êÇ©½«±äÎªºìÉ«¡£</translation>
     </message>
     <message>
         <source>This label turns red if any recipient receives an amount smaller than %1.</source>
-        <translation>å¦‚æœä»»ä½•æ¥æ”¶äººæ”¶åˆ°çš„é‡‘é¢å°äº %1ï¼Œæ­¤æ ‡ç­¾å°†å˜ä¸ºçº¢è‰²ã€‚</translation>
+        <translation>Èç¹ûÈÎºÎ½ÓÊÕÈËÊÕµ½µÄ½ğ¶îĞ¡ÓÚ %1£¬´Ë±êÇ©½«±äÎªºìÉ«¡£</translation>
     </message>
     <message>
         <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>å¯èƒ½ä¼šæœ‰ æ­£è´Ÿ %1 èª(satoshi)çš„åå·® </translation>
+        <translation>¿ÉÄÜ»áÓĞ Õı¸º %1 ´Ï(satoshi)µÄÆ«²î </translation>
     </message>
     <message>
         <source>yes</source>
-        <translation>æ˜¯</translation>
+        <translation>ÊÇ</translation>
     </message>
     <message>
         <source>no</source>
-        <translation>å¦</translation>
+        <translation>·ñ</translation>
     </message>
     <message>
         <source>This means a fee of at least %1 per kB is required.</source>
-        <translation>è¿™æ„å‘³ç€å°†å¯¹äº¤æ˜“æ”¶å– %1/åƒå­—èŠ‚ çš„äº¤æ˜“è´¹ã€‚</translation>
+        <translation>ÕâÒâÎ¶×Å½«¶Ô½»Ò×ÊÕÈ¡ %1/Ç§×Ö½Ú µÄ½»Ò×·Ñ¡£</translation>
     </message>
     <message>
         <source>Can vary +/- 1 byte per input.</source>
-        <translation>æ¯ç¬”è¾“å…¥å¯èƒ½ä¼šæœ‰ æ­£è´Ÿ1å­—èŠ‚çš„åå·®ã€‚</translation>
+        <translation>Ã¿±ÊÊäÈë¿ÉÄÜ»áÓĞ Õı¸º1×Ö½ÚµÄÆ«²î¡£</translation>
     </message>
     <message>
         <source>Transactions with higher priority are more likely to get included into a block.</source>
-        <translation>äº¤æ˜“çš„ä¼˜å…ˆçº§è¶Šé«˜ï¼Œè¢«çŸ¿å·¥æ”¶å…¥æ•°æ®å—çš„é€Ÿåº¦ä¹Ÿè¶Šå¿«ã€‚</translation>
+        <translation>½»Ò×µÄÓÅÏÈ¼¶Ô½¸ß£¬±»¿ó¹¤ÊÕÈëÊı¾İ¿éµÄËÙ¶ÈÒ²Ô½¿ì¡£</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(æ²¡æœ‰æ ‡ç­¾)</translation>
+        <translation>(Ã»ÓĞ±êÇ©)</translation>
     </message>
     <message>
         <source>change from %1 (%2)</source>
-        <translation>æ¥è‡ª%1çš„é›¶é’± (%2)</translation>
+        <translation>À´×Ô%1µÄÁãÇ® (%2)</translation>
     </message>
     <message>
         <source>(change)</source>
-        <translation>(é›¶é’±)</translation>
+        <translation>(ÁãÇ®)</translation>
     </message>
 </context>
 <context>
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>ç¼–è¾‘åœ°å€</translation>
+        <translation>±à¼­µØÖ·</translation>
     </message>
     <message>
         <source>&amp;Label</source>
-        <translation>æ ‡ç­¾(&amp;L)</translation>
+        <translation>±êÇ©(&amp;L)</translation>
     </message>
     <message>
         <source>The label associated with this address list entry</source>
-        <translation>ä¸æ­¤åœ°å€ç›¸å…³çš„æ ‡ç­¾é¡¹</translation>
+        <translation>Óë´ËµØÖ·Ïà¹ØµÄ±êÇ©Ïî</translation>
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>è¯¥åœ°å€å·²ä¸åœ°å€åˆ—è¡¨ä¸­çš„æ¡ç›®å…³è”ï¼Œåªèƒ½è¢«å‘é€åœ°å€ä¿®æ”¹ã€‚</translation>
+        <translation>¸ÃµØÖ·ÒÑÓëµØÖ·ÁĞ±íÖĞµÄÌõÄ¿¹ØÁª£¬Ö»ÄÜ±»·¢ËÍµØÖ·ĞŞ¸Ä¡£</translation>
     </message>
     <message>
         <source>&amp;Address</source>
-        <translation>åœ°å€(&amp;A)</translation>
+        <translation>µØÖ·(&amp;A)</translation>
     </message>
     <message>
         <source>New receiving address</source>
-        <translation>æ–°å»ºæ¥æ”¶åœ°å€</translation>
+        <translation>ĞÂ½¨½ÓÊÕµØÖ·</translation>
     </message>
     <message>
         <source>New sending address</source>
-        <translation>æ–°å»ºå‘é€åœ°å€</translation>
+        <translation>ĞÂ½¨·¢ËÍµØÖ·</translation>
     </message>
     <message>
         <source>Edit receiving address</source>
-        <translation>ç¼–è¾‘æ¥æ”¶åœ°å€</translation>
+        <translation>±à¼­½ÓÊÕµØÖ·</translation>
     </message>
     <message>
         <source>Edit sending address</source>
-        <translation>ç¼–è¾‘å‘é€åœ°å€</translation>
+        <translation>±à¼­·¢ËÍµØÖ·</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
-        <translation>è¾“å…¥çš„åœ°å€â€œ%1â€å·²ç»å­˜åœ¨äºåœ°å€ç°¿ä¸­ã€‚</translation>
+        <translation>ÊäÈëµÄµØÖ·¡°%1¡±ÒÑ¾­´æÔÚÓÚµØÖ·²¾ÖĞ¡£</translation>
     </message>
     <message>
         <source>The entered address "%1" is not a valid Foxcoin address.</source>
-        <translation>æ‚¨è¾“å…¥çš„â€œ%1â€ä¸æ˜¯æœ‰æ•ˆçš„å°ç‹¸å¸åœ°å€ã€‚</translation>
+        <translation>ÄúÊäÈëµÄ¡°%1¡±²»ÊÇÓĞĞ§µÄĞ¡Àê±ÒµØÖ·¡£</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
-        <translation>æ— æ³•è§£é”é’±åŒ…</translation>
+        <translation>ÎŞ·¨½âËøÇ®°ü</translation>
     </message>
     <message>
         <source>New key generation failed.</source>
-        <translation>æ–°çš„å¯†é’¥ç”Ÿæˆå¤±è´¥ã€‚</translation>
+        <translation>ĞÂµÄÃÜÔ¿Éú³ÉÊ§°Ü¡£</translation>
     </message>
 </context>
 <context>
     <name>FreespaceChecker</name>
     <message>
         <source>A new data directory will be created.</source>
-        <translation>ä¸€ä¸ªæ–°çš„æ•°æ®ç›®å½•å°†è¢«åˆ›å»ºã€‚</translation>
+        <translation>Ò»¸öĞÂµÄÊı¾İÄ¿Â¼½«±»´´½¨¡£</translation>
     </message>
     <message>
         <source>name</source>
-        <translation>åç§°</translation>
+        <translation>Ãû³Æ</translation>
     </message>
     <message>
         <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
-        <translation>ç›®å½•å·²å­˜åœ¨ã€‚å¦‚æœæ‚¨æ‰“ç®—åœ¨è¿™é‡Œåˆ›å»ºä¸€ä¸ªæ–°ç›®å½•ï¼Œæ·»åŠ  %1ã€‚</translation>
+        <translation>Ä¿Â¼ÒÑ´æÔÚ¡£Èç¹ûÄú´òËãÔÚÕâÀï´´½¨Ò»¸öĞÂÄ¿Â¼£¬Ìí¼Ó %1¡£</translation>
     </message>
     <message>
         <source>Path already exists, and is not a directory.</source>
-        <translation>è·¯å¾„å·²å­˜åœ¨ï¼Œå¹¶ä¸”ä¸æ˜¯ä¸€ä¸ªç›®å½•ã€‚</translation>
+        <translation>Â·¾¶ÒÑ´æÔÚ£¬²¢ÇÒ²»ÊÇÒ»¸öÄ¿Â¼¡£</translation>
     </message>
     <message>
         <source>Cannot create data directory here.</source>
-        <translation>æ— æ³•åœ¨æ­¤åˆ›å»ºæ•°æ®ç›®å½•ã€‚</translation>
+        <translation>ÎŞ·¨ÔÚ´Ë´´½¨Êı¾İÄ¿Â¼¡£</translation>
     </message>
 </context>
 <context>
     <name>HelpMessageDialog</name>
     <message>
         <source>Foxcoin Core</source>
-        <translation>å°ç‹¸å¸æ ¸å¿ƒ</translation>
+        <translation>Ğ¡Àê±ÒºËĞÄ</translation>
     </message>
     <message>
         <source>version</source>
-        <translation>ç‰ˆæœ¬</translation>
+        <translation>°æ±¾</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
-        <translation>(%1 ä½)</translation>
+        <translation>(%1 Î»)</translation>
     </message>
     <message>
         <source>About Foxcoin Core</source>
-        <translation>å…³äºå°ç‹¸å¸æ ¸å¿ƒ</translation>
+        <translation>¹ØÓÚĞ¡Àê±ÒºËĞÄ</translation>
     </message>
     <message>
         <source>Command-line options</source>
-        <translation>å‘½ä»¤è¡Œé€‰é¡¹</translation>
+        <translation>ÃüÁîĞĞÑ¡Ïî</translation>
     </message>
     <message>
         <source>Usage:</source>
-        <translation>ä½¿ç”¨ï¼š</translation>
+        <translation>Ê¹ÓÃ£º</translation>
     </message>
     <message>
         <source>command-line options</source>
-        <translation>å‘½ä»¤è¡Œé€‰é¡¹</translation>
+        <translation>ÃüÁîĞĞÑ¡Ïî</translation>
     </message>
 </context>
 <context>
     <name>Intro</name>
     <message>
         <source>Welcome</source>
-        <translation>æ¬¢è¿</translation>
+        <translation>»¶Ó­</translation>
     </message>
     <message>
         <source>Welcome to Foxcoin Core.</source>
-        <translation>æ¬¢è¿ä½¿ç”¨ å°ç‹¸å¸æ ¸å¿ƒ ç¨‹åºã€‚</translation>
+        <translation>»¶Ó­Ê¹ÓÃ Ğ¡Àê±ÒºËĞÄ ³ÌĞò¡£</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where Foxcoin Core will store its data.</source>
-        <translation>ç”±äºè¿™æ˜¯ç¬¬ä¸€æ¬¡è¿è¡Œ å°ç‹¸å¸æ ¸å¿ƒ ç¨‹åºï¼Œæ‚¨å¯ä»¥é€‰æ‹©æ•°æ®å­˜å‚¨ç›®å½•ã€‚</translation>
+        <translation>ÓÉÓÚÕâÊÇµÚÒ»´ÎÔËĞĞ Ğ¡Àê±ÒºËĞÄ ³ÌĞò£¬Äú¿ÉÒÔÑ¡ÔñÊı¾İ´æ´¢Ä¿Â¼¡£</translation>
     </message>
     <message>
         <source>Foxcoin Core will download and store a copy of the Foxcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>å°ç‹¸å¸æ ¸å¿ƒ ç¨‹åºä¼šä¸‹è½½å‚¨å­˜ä¸€ä»½æ•°æ®å—é“¾(blockchain)ã€‚è‡³å°‘éœ€è¦ %1 GBçš„å­˜å‚¨ç©ºé—´ï¼Œéšç€æ—¶é—´æ¨ç§»ä¼šéœ€è¦æ›´å¤šçš„å­˜å‚¨ç©ºé—´ã€‚é’±åŒ…æ–‡ä»¶ä¹Ÿå‚¨å­˜åœ¨è¯¥ç›®å½•ã€‚</translation>
+        <translation>Ğ¡Àê±ÒºËĞÄ ³ÌĞò»áÏÂÔØ´¢´æÒ»·İÊı¾İ¿éÁ´(blockchain)¡£ÖÁÉÙĞèÒª %1 GBµÄ´æ´¢¿Õ¼ä£¬Ëæ×ÅÊ±¼äÍÆÒÆ»áĞèÒª¸ü¶àµÄ´æ´¢¿Õ¼ä¡£Ç®°üÎÄ¼şÒ²´¢´æÔÚ¸ÃÄ¿Â¼¡£</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
-        <translation>ä½¿ç”¨é»˜è®¤çš„æ•°æ®ç›®å½•</translation>
+        <translation>Ê¹ÓÃÄ¬ÈÏµÄÊı¾İÄ¿Â¼</translation>
     </message>
     <message>
         <source>Use a custom data directory:</source>
-        <translation>ä½¿ç”¨è‡ªå®šä¹‰çš„æ•°æ®ç›®å½•ï¼š</translation>
+        <translation>Ê¹ÓÃ×Ô¶¨ÒåµÄÊı¾İÄ¿Â¼£º</translation>
     </message>
     <message>
         <source>Foxcoin Core</source>
-        <translation>å°ç‹¸å¸æ ¸å¿ƒ</translation>
+        <translation>Ğ¡Àê±ÒºËĞÄ</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
-        <translation>é”™è¯¯ï¼šæ— æ³•åˆ›å»º æŒ‡å®šçš„æ•°æ®ç›®å½• "%1" </translation>
+        <translation>´íÎó£ºÎŞ·¨´´½¨ Ö¸¶¨µÄÊı¾İÄ¿Â¼ "%1" </translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>é”™è¯¯</translation>
+        <translation>´íÎó</translation>
     </message>
     <message numerus="yes">
         <source>%n GB of free space available</source>
-        <translation><numerusform>æœ‰ %n GB ç©ºé—²ç©ºé—´</numerusform></translation>
+        <translation><numerusform>ÓĞ %n GB ¿ÕÏĞ¿Õ¼ä</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>(of %n GB needed)</source>
-        <translation><numerusform>(éœ€è¦%n GBç©ºé—´)</numerusform></translation>
+        <translation><numerusform>(ĞèÒª%n GB¿Õ¼ä)</numerusform></translation>
     </message>
 </context>
 <context>
     <name>OpenURIDialog</name>
     <message>
         <source>Open URI</source>
-        <translation>æ‰“å¼€ URI</translation>
+        <translation>´ò¿ª URI</translation>
     </message>
     <message>
         <source>Open payment request from URI or file</source>
-        <translation>æ‰“å¼€æ¥è‡ªURIæˆ–æ–‡ä»¶çš„ä»˜æ¬¾è¯·æ±‚ </translation>
+        <translation>´ò¿ªÀ´×ÔURI»òÎÄ¼şµÄ¸¶¿îÇëÇó </translation>
     </message>
     <message>
         <source>URI:</source>
@@ -935,26 +935,26 @@
     </message>
     <message>
         <source>Select payment request file</source>
-        <translation>é€‰æ‹©ä»˜æ¬¾è¯·æ±‚æ–‡ä»¶ </translation>
+        <translation>Ñ¡Ôñ¸¶¿îÇëÇóÎÄ¼ş </translation>
     </message>
     <message>
         <source>Select payment request file to open</source>
-        <translation>é€‰æ‹©éœ€è¦æ‰“å¼€çš„ä»˜æ¬¾è¯·æ±‚æ–‡ä»¶ </translation>
+        <translation>Ñ¡ÔñĞèÒª´ò¿ªµÄ¸¶¿îÇëÇóÎÄ¼ş </translation>
     </message>
 </context>
 <context>
     <name>OptionsDialog</name>
     <message>
         <source>Options</source>
-        <translation>é€‰é¡¹</translation>
+        <translation>Ñ¡Ïî</translation>
     </message>
     <message>
         <source>&amp;Main</source>
-        <translation>ä¸»è¦(&amp;M)</translation>
+        <translation>Ö÷Òª(&amp;M)</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
-        <translation>æ•°æ®åº“ç¼“å­˜å¤§å°(&amp;D)</translation>
+        <translation>Êı¾İ¿â»º´æ´óĞ¡(&amp;D)</translation>
     </message>
     <message>
         <source>MB</source>
@@ -962,621 +962,621 @@
     </message>
     <message>
         <source>Number of script &amp;verification threads</source>
-        <translation>è„šæœ¬éªŒè¯çº¿ç¨‹æ•°(&amp;V)</translation>
+        <translation>½Å±¾ÑéÖ¤Ïß³ÌÊı(&amp;V)</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
-        <translation>æ¥æ”¶å¤–éƒ¨è¿æ¥</translation>
+        <translation>½ÓÊÕÍâ²¿Á¬½Ó</translation>
     </message>
     <message>
         <source>Allow incoming connections</source>
-        <translation>å…è®¸æµå…¥è¿æ¥</translation>
+        <translation>ÔÊĞíÁ÷ÈëÁ¬½Ó</translation>
     </message>
     <message>
         <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
-        <translation>ä»£ç†çš„ IP åœ°å€ (ä¾‹å¦‚ IPv4: 127.0.0.1 / IPv6: ::1)</translation>
+        <translation>´úÀíµÄ IP µØÖ· (ÀıÈç IPv4: 127.0.0.1 / IPv6: ::1)</translation>
     </message>
     <message>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Exit in the menu.</source>
-        <translation>çª—å£è¢«å…³é—­æ—¶æœ€å°åŒ–è€Œä¸æ˜¯é€€å‡ºåº”ç”¨ç¨‹åºã€‚å½“æ­¤é€‰é¡¹å¯ç”¨æ—¶ï¼Œåº”ç”¨ç¨‹åºåªä¼šåœ¨èœå•ä¸­é€‰æ‹©é€€å‡ºæ—¶é€€å‡ºã€‚</translation>
+        <translation>´°¿Ú±»¹Ø±ÕÊ±×îĞ¡»¯¶ø²»ÊÇÍË³öÓ¦ÓÃ³ÌĞò¡£µ±´ËÑ¡ÏîÆôÓÃÊ±£¬Ó¦ÓÃ³ÌĞòÖ»»áÔÚ²Ëµ¥ÖĞÑ¡ÔñÍË³öÊ±ÍË³ö¡£</translation>
     </message>
     <message>
         <source>The user interface language can be set here. This setting will take effect after restarting Foxcoin Core.</source>
-        <translation>åœ¨è¿™é‡Œè®¾ç½®ç”¨æˆ·ç•Œé¢çš„è¯­è¨€ã€‚è®¾ç½®å°†åœ¨å®¢æˆ·ç«¯é‡å¯åç”Ÿæ•ˆã€‚</translation>
+        <translation>ÔÚÕâÀïÉèÖÃÓÃ»§½çÃæµÄÓïÑÔ¡£ÉèÖÃ½«ÔÚ¿Í»§¶ËÖØÆôºóÉúĞ§¡£</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
-        <translation>å‡ºç°åœ¨äº¤æ˜“çš„é€‰é¡¹å¡çš„ä¸Šä¸‹æ–‡èœå•é¡¹çš„ç¬¬ä¸‰æ–¹ç½‘å€ (ä¾‹å¦‚ï¼šåŒºå—é“¾æ¥æŸ¥è¯¢) ã€‚ %sçš„URLè¢«æ›¿æ¢ä¸ºäº¤æ˜“å“ˆå¸Œã€‚å¤šä¸ªçš„URLéœ€è¦ç«–çº¿ | åˆ†éš”ã€‚</translation>
+        <translation>³öÏÖÔÚ½»Ò×µÄÑ¡Ïî¿¨µÄÉÏÏÂÎÄ²Ëµ¥ÏîµÄµÚÈı·½ÍøÖ· (ÀıÈç£ºÇø¿éÁ´½Ó²éÑ¯) ¡£ %sµÄURL±»Ìæ»»Îª½»Ò×¹şÏ£¡£¶à¸öµÄURLĞèÒªÊúÏß | ·Ö¸ô¡£</translation>
     </message>
     <message>
         <source>Third party transaction URLs</source>
-        <translation>ç¬¬ä¸‰æ–¹äº¤æ˜“ç½‘å€</translation>
+        <translation>µÚÈı·½½»Ò×ÍøÖ·</translation>
     </message>
     <message>
         <source>Active command-line options that override above options:</source>
-        <translation>æœ‰æ•ˆçš„å‘½ä»¤è¡Œå‚æ•°è¦†ç›–ä¸Šè¿°é€‰é¡¹:</translation>
+        <translation>ÓĞĞ§µÄÃüÁîĞĞ²ÎÊı¸²¸ÇÉÏÊöÑ¡Ïî:</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
-        <translation>æ¢å¤å®¢æˆ·ç«¯çš„ç¼ºçœè®¾ç½®</translation>
+        <translation>»Ö¸´¿Í»§¶ËµÄÈ±Ê¡ÉèÖÃ</translation>
     </message>
     <message>
         <source>&amp;Reset Options</source>
-        <translation>æ¢å¤ç¼ºçœè®¾ç½®(&amp;R)</translation>
+        <translation>»Ö¸´È±Ê¡ÉèÖÃ(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Network</source>
-        <translation>ç½‘ç»œ(&amp;N)</translation>
+        <translation>ÍøÂç(&amp;N)</translation>
     </message>
     <message>
         <source>Automatically start Foxcoin Core after logging in to the system.</source>
-        <translation>ç™»å½•ç³»ç»Ÿåè‡ªåŠ¨å¼€å¯å°ç‹¸å¸å®¢æˆ·ç«¯</translation>
+        <translation>µÇÂ¼ÏµÍ³ºó×Ô¶¯¿ªÆôĞ¡Àê±Ò¿Í»§¶Ë</translation>
     </message>
     <message>
         <source>&amp;Start Foxcoin Core on system login</source>
-        <translation>ç³»ç»Ÿå¯åŠ¨æ—¶è¿è¡Œ(&amp;S)</translation>
+        <translation>ÏµÍ³Æô¶¯Ê±ÔËĞĞ(&amp;S)</translation>
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
-        <translation>(0 = è‡ªåŠ¨, &lt;0 = ç¦»å¼€å¾ˆå¤šå…è´¹çš„æ ¸å¿ƒ)</translation>
+        <translation>(0 = ×Ô¶¯, &lt;0 = Àë¿ªºÜ¶àÃâ·ÑµÄºËĞÄ)</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
-        <translation>é’±åŒ…(&amp;A)</translation>
+        <translation>Ç®°ü(&amp;A)</translation>
     </message>
     <message>
         <source>Expert</source>
-        <translation>ä¸“å®¶</translation>
+        <translation>×¨¼Ò</translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
-        <translation>å¯åŠ¨è´§å¸æ§åˆ¶åŠŸèƒ½(&amp;C)</translation>
+        <translation>Æô¶¯»õ±Ò¿ØÖÆ¹¦ÄÜ(&amp;C)</translation>
     </message>
     <message>
         <source>If you disable the spending of unconfirmed change, the change from a transaction cannot be used until that transaction has at least one confirmation. This also affects how your balance is computed.</source>
-        <translation>å¦‚æœç¦ç”¨æœªç¡®è®¤çš„é›¶é’±ï¼Œåˆ™é›¶é’±è‡³å°‘éœ€è¦1ä¸ªç¡®è®¤æ‰èƒ½ä½¿ç”¨ã€‚åŒæ—¶è´¦æˆ·ä½™é¢æ˜¾ç¤ºä¼šå—åˆ°å½±å“ã€‚</translation>
+        <translation>Èç¹û½ûÓÃÎ´È·ÈÏµÄÁãÇ®£¬ÔòÁãÇ®ÖÁÉÙĞèÒª1¸öÈ·ÈÏ²ÅÄÜÊ¹ÓÃ¡£Í¬Ê±ÕË»§Óà¶îÏÔÊ¾»áÊÜµ½Ó°Ïì¡£</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
-        <translation>ä½¿ç”¨æœªç»ç¡®è®¤çš„é›¶é’±(&amp;S)</translation>
+        <translation>Ê¹ÓÃÎ´¾­È·ÈÏµÄÁãÇ®(&amp;S)</translation>
     </message>
     <message>
         <source>Automatically open the Foxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>è‡ªåŠ¨åœ¨è·¯ç”±å™¨ä¸­æ‰“å¼€å°ç‹¸å¸ç«¯å£ã€‚åªæœ‰å½“æ‚¨çš„è·¯ç”±å™¨å¼€å¯äº† UPnP é€‰é¡¹æ—¶æ­¤åŠŸèƒ½æ‰æœ‰æ•ˆã€‚</translation>
+        <translation>×Ô¶¯ÔÚÂ·ÓÉÆ÷ÖĞ´ò¿ªĞ¡Àê±Ò¶Ë¿Ú¡£Ö»ÓĞµ±ÄúµÄÂ·ÓÉÆ÷¿ªÆôÁË UPnP Ñ¡ÏîÊ±´Ë¹¦ÄÜ²ÅÓĞĞ§¡£</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
-        <translation>ä½¿ç”¨ &amp;UPnP æ˜ å°„ç«¯å£</translation>
+        <translation>Ê¹ÓÃ &amp;UPnP Ó³Éä¶Ë¿Ú</translation>
     </message>
     <message>
         <source>Connect to the Foxcoin network through a SOCKS5 proxy.</source>
-        <translation>é€šè¿‡ SOCKS5 ä»£ç†è¿æ¥æ¯”ç‰¹å¸ç½‘ç»œã€‚</translation>
+        <translation>Í¨¹ı SOCKS5 ´úÀíÁ¬½Ó±ÈÌØ±ÒÍøÂç¡£</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
-        <translation>é€šè¿‡ SO&amp;CKS5 ä»£ç†è¿æ¥(é»˜è®¤ä»£ç†)ï¼š</translation>
+        <translation>Í¨¹ı SO&amp;CKS5 ´úÀíÁ¬½Ó(Ä¬ÈÏ´úÀí)£º</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
-        <translation>ä»£ç†æœåŠ¡å™¨ &amp;IPï¼š</translation>
+        <translation>´úÀí·şÎñÆ÷ &amp;IP£º</translation>
     </message>
     <message>
         <source>&amp;Port:</source>
-        <translation>ç«¯å£(&amp;P)ï¼š</translation>
+        <translation>¶Ë¿Ú(&amp;P)£º</translation>
     </message>
     <message>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>ä»£ç†ç«¯å£ï¼ˆä¾‹å¦‚ 9050ï¼‰</translation>
+        <translation>´úÀí¶Ë¿Ú£¨ÀıÈç 9050£©</translation>
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation>çª—å£(&amp;W)</translation>
+        <translation>´°¿Ú(&amp;W)</translation>
     </message>
     <message>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>æœ€å°åŒ–çª—å£åä»…æ˜¾ç¤ºæ‰˜ç›˜å›¾æ ‡</translation>
+        <translation>×îĞ¡»¯´°¿Úºó½öÏÔÊ¾ÍĞÅÌÍ¼±ê</translation>
     </message>
     <message>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>æœ€å°åŒ–åˆ°æ‰˜ç›˜(&amp;M)</translation>
+        <translation>×îĞ¡»¯µ½ÍĞÅÌ(&amp;M)</translation>
     </message>
     <message>
         <source>M&amp;inimize on close</source>
-        <translation>å•å‡»å…³é—­æŒ‰é’®æœ€å°åŒ–(&amp;I)</translation>
+        <translation>µ¥»÷¹Ø±Õ°´Å¥×îĞ¡»¯(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Display</source>
-        <translation>æ˜¾ç¤º(&amp;D)</translation>
+        <translation>ÏÔÊ¾(&amp;D)</translation>
     </message>
     <message>
         <source>User Interface &amp;language:</source>
-        <translation>ç”¨æˆ·ç•Œé¢è¯­è¨€(&amp;L)ï¼š</translation>
+        <translation>ÓÃ»§½çÃæÓïÑÔ(&amp;L)£º</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>æ¯”ç‰¹å¸é‡‘é¢å•ä½(&amp;U)ï¼š</translation>
+        <translation>±ÈÌØ±Ò½ğ¶îµ¥Î»(&amp;U)£º</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>é€‰æ‹©æ¯”ç‰¹å¸å•ä½ã€‚</translation>
+        <translation>Ñ¡Ôñ±ÈÌØ±Òµ¥Î»¡£</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>æ˜¯å¦éœ€è¦äº¤æ˜“æºåœ°å€æ§åˆ¶åŠŸèƒ½ã€‚</translation>
+        <translation>ÊÇ·ñĞèÒª½»Ò×Ô´µØÖ·¿ØÖÆ¹¦ÄÜ¡£</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>ç¡®å®š(&amp;O)</translation>
+        <translation>È·¶¨(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>å–æ¶ˆ(&amp;C)</translation>
+        <translation>È¡Ïû(&amp;C)</translation>
     </message>
     <message>
         <source>default</source>
-        <translation>é»˜è®¤</translation>
+        <translation>Ä¬ÈÏ</translation>
     </message>
     <message>
         <source>none</source>
-        <translation>æ— </translation>
+        <translation>ÎŞ</translation>
     </message>
     <message>
         <source>Confirm options reset</source>
-        <translation>ç¡®è®¤æ¢å¤ç¼ºçœè®¾ç½®</translation>
+        <translation>È·ÈÏ»Ö¸´È±Ê¡ÉèÖÃ</translation>
     </message>
     <message>
         <source>Client restart required to activate changes.</source>
-        <translation>æ›´æ”¹ç”Ÿæ•ˆéœ€è¦é‡å¯å®¢æˆ·ç«¯ã€‚</translation>
+        <translation>¸ü¸ÄÉúĞ§ĞèÒªÖØÆô¿Í»§¶Ë¡£</translation>
     </message>
     <message>
         <source>Client will be shut down. Do you want to proceed?</source>
-        <translation>å®¢æˆ·ç«¯å³å°†å…³é—­ï¼Œæ‚¨æƒ³ç»§ç»­å—ï¼Ÿ</translation>
+        <translation>¿Í»§¶Ë¼´½«¹Ø±Õ£¬ÄúÏë¼ÌĞøÂğ£¿</translation>
     </message>
     <message>
         <source>This change would require a client restart.</source>
-        <translation>æ­¤æ›´æ”¹éœ€è¦é‡å¯å®¢æˆ·ç«¯ã€‚</translation>
+        <translation>´Ë¸ü¸ÄĞèÒªÖØÆô¿Í»§¶Ë¡£</translation>
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
-        <translation>æä¾›çš„ä»£ç†æœåŠ¡å™¨åœ°å€æ— æ•ˆã€‚</translation>
+        <translation>Ìá¹©µÄ´úÀí·şÎñÆ÷µØÖ·ÎŞĞ§¡£</translation>
     </message>
 </context>
 <context>
     <name>OverviewPage</name>
     <message>
         <source>Form</source>
-        <translation>è¡¨å•</translation>
+        <translation>±íµ¥</translation>
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Foxcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>ç°åœ¨æ˜¾ç¤ºçš„æ¶ˆæ¯å¯èƒ½æ˜¯è¿‡æœŸçš„. åœ¨è¿æ¥ä¸Šå°ç‹¸å¸ç½‘ç»œèŠ‚ç‚¹åï¼Œæ‚¨çš„é’±åŒ…å°†è‡ªåŠ¨ä¸ç½‘ç»œåŒæ­¥ï¼Œä½†æ˜¯è¿™ä¸ªè¿‡ç¨‹è¿˜æ²¡æœ‰å®Œæˆã€‚</translation>
+        <translation>ÏÖÔÚÏÔÊ¾µÄÏûÏ¢¿ÉÄÜÊÇ¹ıÆÚµÄ. ÔÚÁ¬½ÓÉÏĞ¡Àê±ÒÍøÂç½Úµãºó£¬ÄúµÄÇ®°ü½«×Ô¶¯ÓëÍøÂçÍ¬²½£¬µ«ÊÇÕâ¸ö¹ı³Ì»¹Ã»ÓĞÍê³É¡£</translation>
     </message>
     <message>
         <source>Watch-only:</source>
-        <translation>æŸ¥çœ‹-åªæœ‰:</translation>
+        <translation>²é¿´-Ö»ÓĞ:</translation>
     </message>
     <message>
         <source>Available:</source>
-        <translation>å¯ä½¿ç”¨çš„ä½™é¢ï¼š</translation>
+        <translation>¿ÉÊ¹ÓÃµÄÓà¶î£º</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
-        <translation>æ‚¨å½“å‰å¯ä½¿ç”¨çš„ä½™é¢</translation>
+        <translation>Äúµ±Ç°¿ÉÊ¹ÓÃµÄÓà¶î</translation>
     </message>
     <message>
         <source>Pending:</source>
-        <translation>ç­‰å¾…ä¸­çš„ä½™é¢ï¼š</translation>
+        <translation>µÈ´ıÖĞµÄÓà¶î£º</translation>
     </message>
     <message>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
-        <translation>å°šæœªç¡®è®¤çš„äº¤æ˜“æ€»é¢ï¼Œæœªè®¡å…¥å½“å‰ä½™é¢</translation>
+        <translation>ÉĞÎ´È·ÈÏµÄ½»Ò××Ü¶î£¬Î´¼ÆÈëµ±Ç°Óà¶î</translation>
     </message>
     <message>
         <source>Immature:</source>
-        <translation>æœªæˆç†Ÿçš„ï¼š</translation>
+        <translation>Î´³ÉÊìµÄ£º</translation>
     </message>
     <message>
         <source>Mined balance that has not yet matured</source>
-        <translation>å°šæœªæˆç†Ÿçš„æŒ–çŸ¿æ”¶å…¥ä½™é¢</translation>
+        <translation>ÉĞÎ´³ÉÊìµÄÍÚ¿óÊÕÈëÓà¶î</translation>
     </message>
     <message>
         <source>Balances</source>
-        <translation>ä½™é¢</translation>
+        <translation>Óà¶î</translation>
     </message>
     <message>
         <source>Total:</source>
-        <translation>æ€»é¢ï¼š</translation>
+        <translation>×Ü¶î£º</translation>
     </message>
     <message>
         <source>Your current total balance</source>
-        <translation>æ‚¨å½“å‰çš„æ€»ä½™é¢</translation>
+        <translation>Äúµ±Ç°µÄ×ÜÓà¶î</translation>
     </message>
     <message>
         <source>Your current balance in watch-only addresses</source>
-        <translation>æ‚¨å½“å‰ è§‚å¯Ÿåœ°å€(watch-only address)çš„ä½™é¢ </translation>
+        <translation>Äúµ±Ç° ¹Û²ìµØÖ·(watch-only address)µÄÓà¶î </translation>
     </message>
     <message>
         <source>Spendable:</source>
-        <translation>å¯ä½¿ç”¨ï¼š</translation>
+        <translation>¿ÉÊ¹ÓÃ£º</translation>
     </message>
     <message>
         <source>Recent transactions</source>
-        <translation>æœ€è¿‘äº¤æ˜“è®°å½•</translation>
+        <translation>×î½ü½»Ò×¼ÇÂ¼</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
-        <translation>è§‚å¯Ÿåœ°å€(watch-only address)çš„æœªç¡®è®¤äº¤æ˜“è®°å½• </translation>
+        <translation>¹Û²ìµØÖ·(watch-only address)µÄÎ´È·ÈÏ½»Ò×¼ÇÂ¼ </translation>
     </message>
     <message>
         <source>Mined balance in watch-only addresses that has not yet matured</source>
-        <translation>è§‚å¯Ÿåœ°å€(watch-only address)ä¸­å°šæœªæˆç†Ÿ(matured)çš„æŒ–çŸ¿æ”¶å…¥ä½™é¢ï¼š</translation>
+        <translation>¹Û²ìµØÖ·(watch-only address)ÖĞÉĞÎ´³ÉÊì(matured)µÄÍÚ¿óÊÕÈëÓà¶î£º</translation>
     </message>
     <message>
         <source>Current total balance in watch-only addresses</source>
-        <translation>è§‚å¯Ÿåœ°å€(watch-only address)ä¸­çš„å½“å‰æ€»ä½™é¢ </translation>
+        <translation>¹Û²ìµØÖ·(watch-only address)ÖĞµÄµ±Ç°×ÜÓà¶î </translation>
     </message>
 </context>
 <context>
     <name>PaymentServer</name>
     <message>
         <source>URI handling</source>
-        <translation>URI å¤„ç†</translation>
+        <translation>URI ´¦Àí</translation>
     </message>
     <message>
         <source>Invalid payment address %1</source>
-        <translation>æ— æ•ˆçš„ä»˜æ¬¾åœ°å€ %1</translation>
+        <translation>ÎŞĞ§µÄ¸¶¿îµØÖ· %1</translation>
     </message>
     <message>
         <source>Payment request rejected</source>
-        <translation>æ”¯ä»˜è¯·æ±‚è¢«æ‹’ç»</translation>
+        <translation>Ö§¸¶ÇëÇó±»¾Ü¾ø</translation>
     </message>
     <message>
         <source>Payment request network doesn't match client network.</source>
-        <translation>ä»˜æ¬¾è¯·æ±‚æ‰€åœ¨çš„ç½‘ç»œä¸å½“å‰å®¢æˆ·ç«¯æ‰€åœ¨çš„ç½‘ç»œä¸åŒ¹é…ã€‚</translation>
+        <translation>¸¶¿îÇëÇóËùÔÚµÄÍøÂçÓëµ±Ç°¿Í»§¶ËËùÔÚµÄÍøÂç²»Æ¥Åä¡£</translation>
     </message>
     <message>
         <source>Payment request is not initialized.</source>
-        <translation>æ”¯ä»˜è¯·æ±‚æœªæˆå½¢ã€‚</translation>
+        <translation>Ö§¸¶ÇëÇóÎ´³ÉĞÎ¡£</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
-        <translation>è¯·æ±‚æ”¯ä»˜çš„é‡‘é¢ %1 å¤ªå°ï¼ˆå°±åƒå°˜åŸƒï¼‰ã€‚</translation>
+        <translation>ÇëÇóÖ§¸¶µÄ½ğ¶î %1 Ì«Ğ¡£¨¾ÍÏñ³¾°££©¡£</translation>
     </message>
     <message>
         <source>Payment request error</source>
-        <translation>æ”¯ä»˜è¯·æ±‚å‡ºé”™</translation>
+        <translation>Ö§¸¶ÇëÇó³ö´í</translation>
     </message>
     <message>
         <source>Cannot start foxcoin: click-to-pay handler</source>
-        <translation>æš‚æ—¶æ— æ³•å¯åŠ¨å°ç‹¸å¸ï¼šç‚¹å‡»æ”¯ä»˜åŠŸèƒ½</translation>
+        <translation>ÔİÊ±ÎŞ·¨Æô¶¯Ğ¡Àê±Ò£ºµã»÷Ö§¸¶¹¦ÄÜ</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
-        <translation>ä»˜æ¬¾è¯·æ±‚URIé“¾æ¥éæ³•: %1</translation>
+        <translation>¸¶¿îÇëÇóURIÁ´½Ó·Ç·¨: %1</translation>
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an invalid Foxcoin address or malformed URI parameters.</source>
-        <translation>URIæ— æ³•è§£æï¼åŸå› å¯èƒ½æ˜¯æ¯”ç‰¹å¸åœ°å€ä¸æ­£ç¡®ï¼Œæˆ–è€…URIå‚æ•°é”™è¯¯ã€‚</translation>
+        <translation>URIÎŞ·¨½âÎö£¡Ô­Òò¿ÉÄÜÊÇ±ÈÌØ±ÒµØÖ·²»ÕıÈ·£¬»òÕßURI²ÎÊı´íÎó¡£</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
-        <translation>ä»˜æ¬¾è¯·æ±‚æ–‡ä»¶å¤„ç† </translation>
+        <translation>¸¶¿îÇëÇóÎÄ¼ş´¦Àí </translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
-        <translation>ä»˜æ¬¾è¯·æ±‚æ–‡ä»¶æ— æ³•è¯»å–ï¼å¯èƒ½æ˜¯ä»˜æ¬¾è¯·æ±‚æ–‡ä»¶ä¸åˆæ ¼ã€‚</translation>
+        <translation>¸¶¿îÇëÇóÎÄ¼şÎŞ·¨¶ÁÈ¡£¡¿ÉÄÜÊÇ¸¶¿îÇëÇóÎÄ¼ş²»ºÏ¸ñ¡£</translation>
     </message>
     <message>
         <source>Payment request expired.</source>
-        <translation>æ”¯ä»˜è¯·æ±‚å·²è¿‡æœŸã€‚</translation>
+        <translation>Ö§¸¶ÇëÇóÒÑ¹ıÆÚ¡£</translation>
     </message>
     <message>
         <source>Unverified payment requests to custom payment scripts are unsupported.</source>
-        <translation>ä¸æ”¯æŒåˆ°è‡ªå®šä¹‰ä»˜æ¬¾è„šæœ¬çš„æœªéªŒè¯ä»˜æ¬¾è¯·æ±‚ã€‚</translation>
+        <translation>²»Ö§³Öµ½×Ô¶¨Òå¸¶¿î½Å±¾µÄÎ´ÑéÖ¤¸¶¿îÇëÇó¡£</translation>
     </message>
     <message>
         <source>Invalid payment request.</source>
-        <translation>æ— æ•ˆçš„æ”¯ä»˜è¯·æ±‚ã€‚</translation>
+        <translation>ÎŞĞ§µÄÖ§¸¶ÇëÇó¡£</translation>
     </message>
     <message>
         <source>Refund from %1</source>
-        <translation>é€€æ¬¾æ¥è‡ª %1</translation>
+        <translation>ÍË¿îÀ´×Ô %1</translation>
     </message>
     <message>
         <source>Payment request %1 is too large (%2 bytes, allowed %3 bytes).</source>
-        <translation>æ”¯ä»˜è¯·æ±‚ %1 å¤ªå¤§ (%2 å­—èŠ‚ã€‚åªå…è®¸ %3 å­—èŠ‚)ã€‚</translation>
+        <translation>Ö§¸¶ÇëÇó %1 Ì«´ó (%2 ×Ö½Ú¡£Ö»ÔÊĞí %3 ×Ö½Ú)¡£</translation>
     </message>
     <message>
         <source>Payment request DoS protection</source>
-        <translation>æ”¯ä»˜è¯·æ±‚é˜²æ»¥ç”¨ä¿æŠ¤</translation>
+        <translation>Ö§¸¶ÇëÇó·ÀÀÄÓÃ±£»¤</translation>
     </message>
     <message>
         <source>Error communicating with %1: %2</source>
-        <translation>%1: %2 é€šè®¯å‡ºé”™</translation>
+        <translation>%1: %2 Í¨Ñ¶³ö´í</translation>
     </message>
     <message>
         <source>Payment request cannot be parsed!</source>
-        <translation>æ— æ³•è§£æ ä»˜æ¬¾è¯·æ±‚ï¼</translation>
+        <translation>ÎŞ·¨½âÎö ¸¶¿îÇëÇó£¡</translation>
     </message>
     <message>
         <source>Bad response from server %1</source>
-        <translation>æ¥è‡ª %1 æœåŠ¡å™¨çš„é”™è¯¯å“åº”</translation>
+        <translation>À´×Ô %1 ·şÎñÆ÷µÄ´íÎóÏìÓ¦</translation>
     </message>
     <message>
         <source>Payment acknowledged</source>
-        <translation>æ”¯ä»˜å·²åˆ°è´¦</translation>
+        <translation>Ö§¸¶ÒÑµ½ÕË</translation>
     </message>
     <message>
         <source>Network request error</source>
-        <translation>ç½‘ç»œè¯·æ±‚å‡ºé”™</translation>
+        <translation>ÍøÂçÇëÇó³ö´í</translation>
     </message>
 </context>
 <context>
     <name>PeerTableModel</name>
     <message>
         <source>User Agent</source>
-        <translation>ç”¨æˆ·ä»£ç†</translation>
+        <translation>ÓÃ»§´úÀí</translation>
     </message>
     <message>
         <source>Node/Service</source>
-        <translation>èŠ‚ç‚¹/æœåŠ¡</translation>
+        <translation>½Úµã/·şÎñ</translation>
     </message>
     <message>
         <source>Ping Time</source>
-        <translation>Ping æ—¶é—´</translation>
+        <translation>Ping Ê±¼ä</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Amount</source>
-        <translation>é‡‘é¢</translation>
+        <translation>½ğ¶î</translation>
     </message>
     <message>
         <source>Enter a Foxcoin address (e.g. %1)</source>
-        <translation>è¯·è¾“å…¥å°ç‹¸å¸åœ°å€ (ä¾‹å¦‚: %1)</translation>
+        <translation>ÇëÊäÈëĞ¡Àê±ÒµØÖ· (ÀıÈç: %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation>%1 å¤©</translation>
+        <translation>%1 Ìì</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation>%1 å°æ—¶</translation>
+        <translation>%1 Ğ¡Ê±</translation>
     </message>
     <message>
         <source>%1 m</source>
-        <translation>%1 åˆ†é’Ÿ</translation>
+        <translation>%1 ·ÖÖÓ</translation>
     </message>
     <message>
         <source>%1 s</source>
-        <translation>%1 ç§’</translation>
+        <translation>%1 Ãë</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>æ— </translation>
+        <translation>ÎŞ</translation>
     </message>
     <message>
         <source>N/A</source>
-        <translation>ä¸å¯ç”¨</translation>
+        <translation>²»¿ÉÓÃ</translation>
     </message>
     <message>
         <source>%1 ms</source>
-        <translation>%1 æ¯«ç§’</translation>
+        <translation>%1 ºÁÃë</translation>
     </message>
 </context>
 <context>
     <name>QRImageWidget</name>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>ä¿å­˜å›¾ç‰‡(&amp;S)...</translation>
+        <translation>±£´æÍ¼Æ¬(&amp;S)...</translation>
     </message>
     <message>
         <source>&amp;Copy Image</source>
-        <translation>å¤åˆ¶å›¾ç‰‡(&amp;C)</translation>
+        <translation>¸´ÖÆÍ¼Æ¬(&amp;C)</translation>
     </message>
     <message>
         <source>Save QR Code</source>
-        <translation>ä¿å­˜äºŒç»´ç </translation>
+        <translation>±£´æ¶şÎ¬Âë</translation>
     </message>
     <message>
         <source>PNG Image (*.png)</source>
-        <translation>PNGå›¾ç‰‡(*.png)</translation>
+        <translation>PNGÍ¼Æ¬(*.png)</translation>
     </message>
 </context>
 <context>
     <name>RPCConsole</name>
     <message>
         <source>Client name</source>
-        <translation>å®¢æˆ·ç«¯åç§°</translation>
+        <translation>¿Í»§¶ËÃû³Æ</translation>
     </message>
     <message>
         <source>N/A</source>
-        <translation>ä¸å¯ç”¨</translation>
+        <translation>²»¿ÉÓÃ</translation>
     </message>
     <message>
         <source>Client version</source>
-        <translation>å®¢æˆ·ç«¯ç‰ˆæœ¬</translation>
+        <translation>¿Í»§¶Ë°æ±¾</translation>
     </message>
     <message>
         <source>&amp;Information</source>
-        <translation>ä¿¡æ¯</translation>
+        <translation>ĞÅÏ¢</translation>
     </message>
     <message>
         <source>Debug window</source>
-        <translation>è°ƒè¯•çª—å£</translation>
+        <translation>µ÷ÊÔ´°¿Ú</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>å¸¸è§„</translation>
+        <translation>³£¹æ</translation>
     </message>
     <message>
         <source>Using OpenSSL version</source>
-        <translation>ä½¿ç”¨ OpenSSL ç‰ˆæœ¬</translation>
+        <translation>Ê¹ÓÃ OpenSSL °æ±¾</translation>
     </message>
     <message>
         <source>Using BerkeleyDB version</source>
-        <translation>ä½¿ç”¨çš„ BerkeleyDB ç‰ˆæœ¬</translation>
+        <translation>Ê¹ÓÃµÄ BerkeleyDB °æ±¾</translation>
     </message>
     <message>
         <source>Startup time</source>
-        <translation>å¯åŠ¨æ—¶é—´</translation>
+        <translation>Æô¶¯Ê±¼ä</translation>
     </message>
     <message>
         <source>Network</source>
-        <translation>ç½‘ç»œ</translation>
+        <translation>ÍøÂç</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>å§“å</translation>
+        <translation>ĞÕÃû</translation>
     </message>
     <message>
         <source>Number of connections</source>
-        <translation>è¿æ¥æ•°</translation>
+        <translation>Á¬½ÓÊı</translation>
     </message>
     <message>
         <source>Block chain</source>
-        <translation>æ•°æ®é“¾</translation>
+        <translation>Êı¾İÁ´</translation>
     </message>
     <message>
         <source>Current number of blocks</source>
-        <translation>å½“å‰æ•°æ®å—æ•°é‡</translation>
+        <translation>µ±Ç°Êı¾İ¿éÊıÁ¿</translation>
     </message>
     <message>
         <source>Open the Foxcoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>ä»å½“å‰çš„æ•°æ®ç›®å½•æ‰“å¼€æ¯”ç‰¹å¸æ ¸å¿ƒè°ƒè¯•æ—¥å¿—æ–‡ä»¶ã€‚å¯¹äºè¾ƒå¤§çš„æ—¥å¿—æ–‡ä»¶ï¼Œè¿™å¯èƒ½éœ€è¦å‡ ç§’é’Ÿã€‚</translation>
+        <translation>´Óµ±Ç°µÄÊı¾İÄ¿Â¼´ò¿ª±ÈÌØ±ÒºËĞÄµ÷ÊÔÈÕÖ¾ÎÄ¼ş¡£¶ÔÓÚ½Ï´óµÄÈÕÖ¾ÎÄ¼ş£¬Õâ¿ÉÄÜĞèÒª¼¸ÃëÖÓ¡£</translation>
     </message>
     <message>
         <source>Received</source>
-        <translation>æ”¶åˆ°</translation>
+        <translation>ÊÕµ½</translation>
     </message>
     <message>
         <source>Sent</source>
-        <translation>å‘é€</translation>
+        <translation>·¢ËÍ</translation>
     </message>
     <message>
         <source>&amp;Peers</source>
-        <translation>åŒä¼´(&amp;P)</translation>
+        <translation>Í¬°é(&amp;P)</translation>
     </message>
     <message>
         <source>Select a peer to view detailed information.</source>
-        <translation>é€‰æ‹©èŠ‚ç‚¹æŸ¥çœ‹è¯¦ç»†ä¿¡æ¯ã€‚</translation>
+        <translation>Ñ¡Ôñ½Úµã²é¿´ÏêÏ¸ĞÅÏ¢¡£</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>æ–¹å‘</translation>
+        <translation>·½Ïò</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation>ç‰ˆæœ¬</translation>
+        <translation>°æ±¾</translation>
     </message>
     <message>
         <source>User Agent</source>
-        <translation>ç”¨æˆ·ä»£ç†</translation>
+        <translation>ÓÃ»§´úÀí</translation>
     </message>
     <message>
         <source>Services</source>
-        <translation>æœåŠ¡</translation>
+        <translation>·şÎñ</translation>
     </message>
     <message>
         <source>Starting Height</source>
-        <translation>å¼€å§‹é«˜åº¦</translation>
+        <translation>¿ªÊ¼¸ß¶È</translation>
     </message>
     <message>
         <source>Sync Height</source>
-        <translation>åŒæ­¥é«˜åº¦</translation>
+        <translation>Í¬²½¸ß¶È</translation>
     </message>
     <message>
         <source>Ban Score</source>
-        <translation>ç¦æ­¢å¾—åˆ†</translation>
+        <translation>½ûÖ¹µÃ·Ö</translation>
     </message>
     <message>
         <source>Connection Time</source>
-        <translation>è¿æ¥æ—¶é—´</translation>
+        <translation>Á¬½ÓÊ±¼ä</translation>
     </message>
     <message>
         <source>Last Send</source>
-        <translation>æœ€åå‘é€</translation>
+        <translation>×îºó·¢ËÍ</translation>
     </message>
     <message>
         <source>Last Receive</source>
-        <translation>æœ€åæ¥æ”¶</translation>
+        <translation>×îºó½ÓÊÕ</translation>
     </message>
     <message>
         <source>Bytes Sent</source>
-        <translation>å‘é€å­—èŠ‚</translation>
+        <translation>·¢ËÍ×Ö½Ú</translation>
     </message>
     <message>
         <source>Bytes Received</source>
-        <translation>æ¥æ”¶å­—èŠ‚</translation>
+        <translation>½ÓÊÕ×Ö½Ú</translation>
     </message>
     <message>
         <source>Ping Time</source>
-        <translation>Ping æ—¶é—´</translation>
+        <translation>Ping Ê±¼ä</translation>
     </message>
     <message>
         <source>Time Offset</source>
-        <translation>æ—¶é—´åç§»</translation>
+        <translation>Ê±¼äÆ«ÒÆ</translation>
     </message>
     <message>
         <source>Last block time</source>
-        <translation>ä¸Šä¸€æ•°æ®å—æ—¶é—´</translation>
+        <translation>ÉÏÒ»Êı¾İ¿éÊ±¼ä</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>æ‰“å¼€(&amp;O)</translation>
+        <translation>´ò¿ª(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Console</source>
-        <translation>æ§åˆ¶å°(&amp;C)</translation>
+        <translation>¿ØÖÆÌ¨(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Network Traffic</source>
-        <translation>ç½‘ç»œæµé‡(&amp;N)</translation>
+        <translation>ÍøÂçÁ÷Á¿(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation>æ¸…é™¤(&amp;C)</translation>
+        <translation>Çå³ı(&amp;C)</translation>
     </message>
     <message>
         <source>Totals</source>
-        <translation>æ€»æ•°</translation>
+        <translation>×ÜÊı</translation>
     </message>
     <message>
         <source>In:</source>
-        <translation>è¾“å…¥ï¼š</translation>
+        <translation>ÊäÈë£º</translation>
     </message>
     <message>
         <source>Out:</source>
-        <translation>è¾“å‡ºï¼š</translation>
+        <translation>Êä³ö£º</translation>
     </message>
     <message>
         <source>Build date</source>
-        <translation>åˆ›å»ºæ—¶é—´</translation>
+        <translation>´´½¨Ê±¼ä</translation>
     </message>
     <message>
         <source>Debug log file</source>
-        <translation>è°ƒè¯•æ—¥å¿—æ–‡ä»¶</translation>
+        <translation>µ÷ÊÔÈÕÖ¾ÎÄ¼ş</translation>
     </message>
     <message>
         <source>Clear console</source>
-        <translation>æ¸…ç©ºæ§åˆ¶å°</translation>
+        <translation>Çå¿Õ¿ØÖÆÌ¨</translation>
     </message>
     <message>
         <source>Welcome to the Foxcoin Core RPC console.</source>
-        <translation>æ¬¢è¿ä½¿ç”¨ æ¯”ç‰¹å¸æ ¸å¿ƒ RPC æ§åˆ¶å°ã€‚</translation>
+        <translation>»¶Ó­Ê¹ÓÃ ±ÈÌØ±ÒºËĞÄ RPC ¿ØÖÆÌ¨¡£</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>ä½¿ç”¨ä¸Šä¸‹æ–¹å‘é”®æµè§ˆå†å²,  &lt;b&gt;Ctrl-L&lt;/b&gt;æ¸…é™¤å±å¹•ã€‚</translation>
+        <translation>Ê¹ÓÃÉÏÏÂ·½Ïò¼üä¯ÀÀÀúÊ·,  &lt;b&gt;Ctrl-L&lt;/b&gt;Çå³ıÆÁÄ»¡£</translation>
     </message>
     <message>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>ä½¿ç”¨ &lt;b&gt;help&lt;/b&gt; å‘½ä»¤æ˜¾ç¤ºå¸®åŠ©ä¿¡æ¯ã€‚</translation>
+        <translation>Ê¹ÓÃ &lt;b&gt;help&lt;/b&gt; ÃüÁîÏÔÊ¾°ïÖúĞÅÏ¢¡£</translation>
     </message>
     <message>
         <source>%1 B</source>
-        <translation>%1 å­—èŠ‚</translation>
+        <translation>%1 ×Ö½Ú</translation>
     </message>
     <message>
         <source>%1 KB</source>
@@ -1592,137 +1592,137 @@
     </message>
     <message>
         <source>via %1</source>
-        <translation>é€šè¿‡ %1</translation>
+        <translation>Í¨¹ı %1</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>ä»æœª</translation>
+        <translation>´ÓÎ´</translation>
     </message>
     <message>
         <source>Inbound</source>
-        <translation>ä¼ å…¥</translation>
+        <translation>´«Èë</translation>
     </message>
     <message>
         <source>Outbound</source>
-        <translation>ä¼ å‡º</translation>
+        <translation>´«³ö</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>æœªçŸ¥</translation>
+        <translation>Î´Öª</translation>
     </message>
     <message>
         <source>Fetching...</source>
-        <translation>è·å–ä¸­...</translation>
+        <translation>»ñÈ¡ÖĞ...</translation>
     </message>
 </context>
 <context>
     <name>ReceiveCoinsDialog</name>
     <message>
         <source>&amp;Amount:</source>
-        <translation>æ€»é¢(&amp;A)ï¼š</translation>
+        <translation>×Ü¶î(&amp;A)£º</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>æ ‡ç­¾(&amp;L)ï¼š</translation>
+        <translation>±êÇ©(&amp;L)£º</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
-        <translation>æ¶ˆæ¯(&amp;M)ï¼š</translation>
+        <translation>ÏûÏ¢(&amp;M)£º</translation>
     </message>
     <message>
         <source>Reuse one of the previously used receiving addresses. Reusing addresses has security and privacy issues. Do not use this unless re-generating a payment request made before.</source>
-        <translation>é‡å¤ä½¿ç”¨ä»¥å‰ç”¨è¿‡çš„æ¥æ”¶åœ°å€ã€‚é‡ç”¨åœ°å€æœ‰å®‰å…¨å’Œéšç§æ–¹é¢çš„éšæ‚£ã€‚é™¤éæ˜¯ä¸ºé‡å¤ç”ŸæˆåŒä¸€é¡¹æ”¯ä»˜è¯·æ±‚ï¼Œå¦åˆ™è¯·ä¸è¦è¿™æ ·åšã€‚</translation>
+        <translation>ÖØ¸´Ê¹ÓÃÒÔÇ°ÓÃ¹ıµÄ½ÓÊÕµØÖ·¡£ÖØÓÃµØÖ·ÓĞ°²È«ºÍÒşË½·½ÃæµÄÒş»¼¡£³ı·ÇÊÇÎªÖØ¸´Éú³ÉÍ¬Ò»ÏîÖ§¸¶ÇëÇó£¬·ñÔòÇë²»ÒªÕâÑù×ö¡£</translation>
     </message>
     <message>
         <source>R&amp;euse an existing receiving address (not recommended)</source>
-        <translation>é‡ç”¨ç°æœ‰çš„æ¥æ”¶åœ°å€ï¼ˆä¸æ¨èï¼‰</translation>
+        <translation>ÖØÓÃÏÖÓĞµÄ½ÓÊÕµØÖ·£¨²»ÍÆ¼ö£©</translation>
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Foxcoin network.</source>
-        <translation>å¯åœ¨ä»˜æ¬¾è¯·æ±‚ä¸Šå¤‡æ³¨ä¸€æ¡ä¿¡æ¯ï¼Œåœ¨æ‰“å¼€ä»˜æ¬¾è¯·æ±‚æ—¶å¯ä»¥çœ‹åˆ°ã€‚æ³¨æ„ï¼šè¯¥æ¶ˆæ¯ä¸æ˜¯é€šè¿‡å°ç‹¸å¸ç½‘ç»œä¼ é€ã€‚</translation>
+        <translation>¿ÉÔÚ¸¶¿îÇëÇóÉÏ±¸×¢Ò»ÌõĞÅÏ¢£¬ÔÚ´ò¿ª¸¶¿îÇëÇóÊ±¿ÉÒÔ¿´µ½¡£×¢Òâ£º¸ÃÏûÏ¢²»ÊÇÍ¨¹ıĞ¡Àê±ÒÍøÂç´«ËÍ¡£</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
-        <translation>å¯ä¸ºæ–°å»ºçš„æ”¶æ¬¾åœ°å€æ·»åŠ ä¸€ä¸ªæ ‡ç­¾ã€‚</translation>
+        <translation>¿ÉÎªĞÂ½¨µÄÊÕ¿îµØÖ·Ìí¼ÓÒ»¸ö±êÇ©¡£</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
-        <translation>ä½¿ç”¨æ­¤è¡¨å•è¦æ±‚ä»˜æ¬¾ã€‚æ‰€æœ‰å­—æ®µéƒ½æ˜¯&lt;b&gt;å¯é€‰&lt;/b&gt;ã€‚</translation>
+        <translation>Ê¹ÓÃ´Ë±íµ¥ÒªÇó¸¶¿î¡£ËùÓĞ×Ö¶Î¶¼ÊÇ&lt;b&gt;¿ÉÑ¡&lt;/b&gt;¡£</translation>
     </message>
     <message>
         <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
-        <translation>å¯é€‰çš„è¯·æ±‚é‡‘é¢ã€‚ç•™ç©ºæˆ–å¡«é›¶ä¸ºä¸è¦æ±‚å…·ä½“é‡‘é¢ã€‚</translation>
+        <translation>¿ÉÑ¡µÄÇëÇó½ğ¶î¡£Áô¿Õ»òÌîÁãÎª²»ÒªÇó¾ßÌå½ğ¶î¡£</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>æ¸…é™¤æ­¤è¡¨å•çš„æ‰€æœ‰å­—æ®µã€‚</translation>
+        <translation>Çå³ı´Ë±íµ¥µÄËùÓĞ×Ö¶Î¡£</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>æ¸…é™¤</translation>
+        <translation>Çå³ı</translation>
     </message>
     <message>
         <source>Requested payments history</source>
-        <translation>è¯·æ±‚ä»˜æ¬¾çš„å†å²</translation>
+        <translation>ÇëÇó¸¶¿îµÄÀúÊ·</translation>
     </message>
     <message>
         <source>&amp;Request payment</source>
-        <translation>è¯·æ±‚ä»˜æ¬¾(&amp;R)</translation>
+        <translation>ÇëÇó¸¶¿î(&amp;R)</translation>
     </message>
     <message>
         <source>Show the selected request (does the same as double clicking an entry)</source>
-        <translation>æ˜¾ç¤ºé€‰ä¸­çš„è¯·æ±‚ (åŒå‡»ä¹Ÿå¯ä»¥æ˜¾ç¤º)</translation>
+        <translation>ÏÔÊ¾Ñ¡ÖĞµÄÇëÇó (Ë«»÷Ò²¿ÉÒÔÏÔÊ¾)</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>æ˜¾ç¤º</translation>
+        <translation>ÏÔÊ¾</translation>
     </message>
     <message>
         <source>Remove the selected entries from the list</source>
-        <translation>ä»åˆ—è¡¨ä¸­ç§»é™¤é€‰ä¸­çš„æ¡ç›®</translation>
+        <translation>´ÓÁĞ±íÖĞÒÆ³ıÑ¡ÖĞµÄÌõÄ¿</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>ç§»é™¤</translation>
+        <translation>ÒÆ³ı</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>å¤åˆ¶æ ‡ç­¾</translation>
+        <translation>¸´ÖÆ±êÇ©</translation>
     </message>
     <message>
         <source>Copy message</source>
-        <translation>å¤åˆ¶æ¶ˆæ¯ </translation>
+        <translation>¸´ÖÆÏûÏ¢ </translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>å¤åˆ¶é‡‘é¢</translation>
+        <translation>¸´ÖÆ½ğ¶î</translation>
     </message>
 </context>
 <context>
     <name>ReceiveRequestDialog</name>
     <message>
         <source>QR Code</source>
-        <translation>äºŒç»´ç </translation>
+        <translation>¶şÎ¬Âë</translation>
     </message>
     <message>
         <source>Copy &amp;URI</source>
-        <translation>å¤åˆ¶ URI(&amp;U)</translation>
+        <translation>¸´ÖÆ URI(&amp;U)</translation>
     </message>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>å¤åˆ¶åœ°å€(&amp;A)</translation>
+        <translation>¸´ÖÆµØÖ·(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>ä¿å­˜å›¾ç‰‡(&amp;S)...</translation>
+        <translation>±£´æÍ¼Æ¬(&amp;S)...</translation>
     </message>
     <message>
         <source>Request payment to %1</source>
-        <translation>è¯·æ±‚ä»˜æ¬¾åˆ° %1</translation>
+        <translation>ÇëÇó¸¶¿îµ½ %1</translation>
     </message>
     <message>
         <source>Payment information</source>
-        <translation>ä»˜æ¬¾ä¿¡æ¯</translation>
+        <translation>¸¶¿îĞÅÏ¢</translation>
     </message>
     <message>
         <source>URI</source>
@@ -1730,360 +1730,360 @@
     </message>
     <message>
         <source>Address</source>
-        <translation>åœ°å€</translation>
+        <translation>µØÖ·</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>é‡‘é¢</translation>
+        <translation>½ğ¶î</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>æ ‡ç­¾</translation>
+        <translation>±êÇ©</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>æ¶ˆæ¯</translation>
+        <translation>ÏûÏ¢</translation>
     </message>
     <message>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>URI å¤ªé•¿ï¼Œè¯·è¯•ç€ç²¾ç®€æ ‡ç­¾æˆ–æ¶ˆæ¯æ–‡æœ¬ã€‚</translation>
+        <translation>URI Ì«³¤£¬ÇëÊÔ×Å¾«¼ò±êÇ©»òÏûÏ¢ÎÄ±¾¡£</translation>
     </message>
     <message>
         <source>Error encoding URI into QR Code.</source>
-        <translation>å°† URI è½¬ä¸ºäºŒç»´ç å¤±è´¥ã€‚</translation>
+        <translation>½« URI ×ªÎª¶şÎ¬ÂëÊ§°Ü¡£</translation>
     </message>
 </context>
 <context>
     <name>RecentRequestsTableModel</name>
     <message>
         <source>Date</source>
-        <translation>æ—¥æœŸ</translation>
+        <translation>ÈÕÆÚ</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>æ ‡ç­¾</translation>
+        <translation>±êÇ©</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>æ¶ˆæ¯</translation>
+        <translation>ÏûÏ¢</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>é‡‘é¢</translation>
+        <translation>½ğ¶î</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(æ²¡æœ‰æ ‡ç­¾)</translation>
+        <translation>(Ã»ÓĞ±êÇ©)</translation>
     </message>
     <message>
         <source>(no message)</source>
-        <translation>(æ— æ¶ˆæ¯)</translation>
+        <translation>(ÎŞÏûÏ¢)</translation>
     </message>
     <message>
         <source>(no amount)</source>
-        <translation>(æ— é‡‘é¢) </translation>
+        <translation>(ÎŞ½ğ¶î) </translation>
     </message>
 </context>
 <context>
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>å‘é€æ¯”ç‰¹å¸</translation>
+        <translation>·¢ËÍ±ÈÌØ±Ò</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>äº¤æ˜“æºåœ°å€æ§åˆ¶åŠŸèƒ½</translation>
+        <translation>½»Ò×Ô´µØÖ·¿ØÖÆ¹¦ÄÜ</translation>
     </message>
     <message>
         <source>Inputs...</source>
-        <translation>è¾“å…¥...</translation>
+        <translation>ÊäÈë...</translation>
     </message>
     <message>
         <source>automatically selected</source>
-        <translation>è‡ªåŠ¨é€‰æ‹©</translation>
+        <translation>×Ô¶¯Ñ¡Ôñ</translation>
     </message>
     <message>
         <source>Insufficient funds!</source>
-        <translation>å­˜æ¬¾ä¸è¶³ï¼</translation>
+        <translation>´æ¿î²»×ã£¡</translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>æ€»é‡ï¼š</translation>
+        <translation>×ÜÁ¿£º</translation>
     </message>
     <message>
         <source>Bytes:</source>
-        <translation>å­—èŠ‚ï¼š</translation>
+        <translation>×Ö½Ú£º</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>é‡‘é¢ï¼š</translation>
+        <translation>½ğ¶î£º</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation>ä¼˜å…ˆçº§ï¼š</translation>
+        <translation>ÓÅÏÈ¼¶£º</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>è´¹ç”¨ï¼š</translation>
+        <translation>·ÑÓÃ£º</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>åŠ ä¸Šäº¤æ˜“è´¹ç”¨å:</translation>
+        <translation>¼ÓÉÏ½»Ò×·ÑÓÃºó:</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation>å˜æ›´ : </translation>
+        <translation>±ä¸ü : </translation>
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
-        <translation>å¦‚æœæ¿€æ´»è¯¥é€‰é¡¹ï¼Œä½†æ˜¯é›¶é’±åœ°å€ç”¨å…‰æˆ–è€…éæ³•ï¼Œå°†ä¼šæ–°ç”Ÿæˆé›¶é’±åœ°å€ï¼Œè½¬å…¥é›¶é’±ã€‚</translation>
+        <translation>Èç¹û¼¤»î¸ÃÑ¡Ïî£¬µ«ÊÇÁãÇ®µØÖ·ÓÃ¹â»òÕß·Ç·¨£¬½«»áĞÂÉú³ÉÁãÇ®µØÖ·£¬×ªÈëÁãÇ®¡£</translation>
     </message>
     <message>
         <source>Custom change address</source>
-        <translation>è‡ªå®šä¹‰é›¶é’±åœ°å€</translation>
+        <translation>×Ô¶¨ÒåÁãÇ®µØÖ·</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
-        <translation>äº¤æ˜“è´¹ç”¨:</translation>
+        <translation>½»Ò×·ÑÓÃ:</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation>é€‰æ‹©... </translation>
+        <translation>Ñ¡Ôñ... </translation>
     </message>
     <message>
         <source>collapse fee-settings</source>
-        <translation>æ”¶èµ·  è´¹ç”¨è®¾ç½® </translation>
+        <translation>ÊÕÆğ  ·ÑÓÃÉèÖÃ </translation>
     </message>
     <message>
         <source>per kilobyte</source>
-        <translation>æ¯kb</translation>
+        <translation>Ã¿kb</translation>
     </message>
     <message>
         <source>If the custom fee is set to 1000 satoshis and the transaction is only 250 bytes, then "per kilobyte" only pays 250 satoshis in fee, while "total at least" pays 1000 satoshis. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>å¦‚æœè‡ªå®šä¹‰äº¤æ˜“è´¹è®¾ç½®ä¸º 1000èªè€Œäº¤æ˜“å¤§å°åªæœ‰250å­—èŠ‚ï¼Œåˆ™â€œæ¯åƒå­—èŠ‚" æ¨¡å¼åªæ”¯ä»˜250èªäº¤æ˜“è´¹ï¼Œ è€Œ"æœ€å°‘"æ¨¡å¼åˆ™æ”¯ä»˜1000èªã€‚ å¤§äº1000å­—èŠ‚çš„äº¤æ˜“æŒ‰æ¯åƒå­—èŠ‚ä»˜è´¹ã€‚</translation>
+        <translation>Èç¹û×Ô¶¨Òå½»Ò×·ÑÉèÖÃÎª 1000´Ï¶ø½»Ò×´óĞ¡Ö»ÓĞ250×Ö½Ú£¬Ôò¡°Ã¿Ç§×Ö½Ú" Ä£Ê½Ö»Ö§¸¶250´Ï½»Ò×·Ñ£¬ ¶ø"×îÉÙ"Ä£Ê½ÔòÖ§¸¶1000´Ï¡£ ´óÓÚ1000×Ö½ÚµÄ½»Ò×°´Ã¿Ç§×Ö½Ú¸¶·Ñ¡£</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>éšè—</translation>
+        <translation>Òş²Ø</translation>
     </message>
     <message>
         <source>total at least</source>
-        <translation>æœ€å°é¢ </translation>
+        <translation>×îĞ¡¶î </translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for foxcoin transactions than the network can process.</source>
-        <translation>äº¤æ˜“é‡å°æ—¶åªæ”¯ä»˜æœ€å°äº¤æ˜“è´¹æ˜¯å¯ä»¥çš„ã€‚ä½†æ˜¯è¯·æ³¨æ„ï¼Œå½“äº¤æ˜“é‡å¤§æ—¶æ‚¨çš„äº¤æ˜“å¯èƒ½æ°¸è¿œæ— æ³•ç¡®è®¤ã€‚</translation>
+        <translation>½»Ò×Á¿Ğ¡Ê±Ö»Ö§¸¶×îĞ¡½»Ò×·ÑÊÇ¿ÉÒÔµÄ¡£µ«ÊÇÇë×¢Òâ£¬µ±½»Ò×Á¿´óÊ±ÄúµÄ½»Ò×¿ÉÄÜÓÀÔ¶ÎŞ·¨È·ÈÏ¡£</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
-        <translation>(è¯·æ³¨æ„æç¤ºä¿¡æ¯)</translation>
+        <translation>(Çë×¢ÒâÌáÊ¾ĞÅÏ¢)</translation>
     </message>
     <message>
         <source>Recommended:</source>
-        <translation>æ¨èï¼š</translation>
+        <translation>ÍÆ¼ö£º</translation>
     </message>
     <message>
         <source>Custom:</source>
-        <translation>è‡ªå®šä¹‰ï¼š</translation>
+        <translation>×Ô¶¨Òå£º</translation>
     </message>
     <message>
         <source>(Smart fee not initialized yet. This usually takes a few blocks...)</source>
-        <translation>(æ™ºèƒ½äº¤æ˜“è´¹ç”¨ å°šæœªåˆå§‹åŒ–ã€‚ éœ€è¦å†ä¸‹è½½ä¸€äº›æ•°æ®å—...)</translation>
+        <translation>(ÖÇÄÜ½»Ò×·ÑÓÃ ÉĞÎ´³õÊ¼»¯¡£ ĞèÒªÔÙÏÂÔØÒ»Ğ©Êı¾İ¿é...)</translation>
     </message>
     <message>
         <source>Confirmation time:</source>
-        <translation>ç¡®è®¤æ—¶é—´ï¼š</translation>
+        <translation>È·ÈÏÊ±¼ä£º</translation>
     </message>
     <message>
         <source>normal</source>
-        <translation>ä¸€èˆ¬</translation>
+        <translation>Ò»°ã</translation>
     </message>
     <message>
         <source>fast</source>
-        <translation>å¿«é€Ÿ</translation>
+        <translation>¿ìËÙ</translation>
     </message>
     <message>
         <source>Send as zero-fee transaction if possible</source>
-        <translation>å‘é€æ—¶å°½å¯èƒ½ ä¸æ”¯ä»˜äº¤æ˜“è´¹ç”¨</translation>
+        <translation>·¢ËÍÊ±¾¡¿ÉÄÜ ²»Ö§¸¶½»Ò×·ÑÓÃ</translation>
     </message>
     <message>
         <source>(confirmation may take longer)</source>
-        <translation>(ç¡®è®¤æ—¶é—´æ›´é•¿) </translation>
+        <translation>(È·ÈÏÊ±¼ä¸ü³¤) </translation>
     </message>
     <message>
         <source>Send to multiple recipients at once</source>
-        <translation>ä¸€æ¬¡å‘é€ç»™å¤šä¸ªæ¥æ”¶è€…</translation>
+        <translation>Ò»´Î·¢ËÍ¸ø¶à¸ö½ÓÊÕÕß</translation>
     </message>
     <message>
         <source>Add &amp;Recipient</source>
-        <translation>æ·»åŠ æ”¶æ¬¾äºº(&amp;R)</translation>
+        <translation>Ìí¼ÓÊÕ¿îÈË(&amp;R)</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>æ¸…é™¤æ­¤è¡¨å•çš„æ‰€æœ‰å­—æ®µã€‚</translation>
+        <translation>Çå³ı´Ë±íµ¥µÄËùÓĞ×Ö¶Î¡£</translation>
     </message>
     <message>
         <source>Dust:</source>
-        <translation>å°é¢ï¼š</translation>
+        <translation>Ğ¡¶î£º</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>æ¸…é™¤æ‰€æœ‰(&amp;A)</translation>
+        <translation>Çå³ıËùÓĞ(&amp;A)</translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation>ä½™é¢ï¼š</translation>
+        <translation>Óà¶î£º</translation>
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>ç¡®è®¤å¹¶å‘é€è´§å¸</translation>
+        <translation>È·ÈÏ²¢·¢ËÍ»õ±Ò</translation>
     </message>
     <message>
         <source>S&amp;end</source>
-        <translation>å‘é€(&amp;E)</translation>
+        <translation>·¢ËÍ(&amp;E)</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>ç¡®è®¤å‘é€è´§å¸</translation>
+        <translation>È·ÈÏ·¢ËÍ»õ±Ò</translation>
     </message>
     <message>
         <source>%1 to %2</source>
-        <translation>%1 åˆ° %2</translation>
+        <translation>%1 µ½ %2</translation>
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation>å¤åˆ¶é‡‘é¢</translation>
+        <translation>¸´ÖÆ½ğ¶î</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>å¤åˆ¶é‡‘é¢</translation>
+        <translation>¸´ÖÆ½ğ¶î</translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>å¤åˆ¶äº¤æ˜“è´¹</translation>
+        <translation>¸´ÖÆ½»Ò×·Ñ</translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>å¤åˆ¶å«äº¤æ˜“è´¹çš„é‡‘é¢</translation>
+        <translation>¸´ÖÆº¬½»Ò×·ÑµÄ½ğ¶î</translation>
     </message>
     <message>
         <source>Copy bytes</source>
-        <translation>å¤åˆ¶å­—èŠ‚</translation>
+        <translation>¸´ÖÆ×Ö½Ú</translation>
     </message>
     <message>
         <source>Copy priority</source>
-        <translation>å¤åˆ¶ä¼˜å…ˆçº§</translation>
+        <translation>¸´ÖÆÓÅÏÈ¼¶</translation>
     </message>
     <message>
         <source>Copy change</source>
-        <translation>å¤åˆ¶é›¶é’±</translation>
+        <translation>¸´ÖÆÁãÇ®</translation>
     </message>
     <message>
         <source>Total Amount %1 (= %2)</source>
-        <translation>æ€»é¢ %1 (= %2)</translation>
+        <translation>×Ü¶î %1 (= %2)</translation>
     </message>
     <message>
         <source>or</source>
-        <translation>æˆ–</translation>
+        <translation>»ò</translation>
     </message>
     <message>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>æ”¯ä»˜é‡‘é¢å¿…é¡»å¤§äº0ã€‚</translation>
+        <translation>Ö§¸¶½ğ¶î±ØĞë´óÓÚ0¡£</translation>
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
-        <translation>é‡‘é¢è¶…å‡ºæ‚¨çš„è´¦ä¸Šä½™é¢ã€‚</translation>
+        <translation>½ğ¶î³¬³öÄúµÄÕËÉÏÓà¶î¡£</translation>
     </message>
     <message>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>è®¡å…¥ %1 äº¤æ˜“è´¹åçš„é‡‘é¢è¶…å‡ºæ‚¨çš„è´¦ä¸Šä½™é¢ã€‚</translation>
+        <translation>¼ÆÈë %1 ½»Ò×·ÑºóµÄ½ğ¶î³¬³öÄúµÄÕËÉÏÓà¶î¡£</translation>
     </message>
     <message>
         <source>Transaction creation failed!</source>
-        <translation>äº¤æ˜“åˆ›å»ºå¤±è´¥ï¼</translation>
+        <translation>½»Ò×´´½¨Ê§°Ü£¡</translation>
     </message>
     <message>
         <source>The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>é”™è¯¯ï¼šè¯¥äº¤æ˜“è¢«æ‹’ç»ï¼å‘ç”Ÿè¿™ç§é”™è¯¯çš„åŸå› å¯èƒ½æ˜¯ï¼šé’±åŒ…ä¸­çš„æ¯”ç‰¹å¸å·²ç»è¢«ç”¨æ‰ï¼Œæœ‰å¯èƒ½æ‚¨å¤åˆ¶äº†wallet.daté’±åŒ…æ–‡ä»¶ï¼Œç„¶åç”¨å¤åˆ¶çš„é’±åŒ…æ–‡ä»¶æ”¯ä»˜äº†æ¯”ç‰¹å¸ï¼Œä½†æ˜¯è¿™ä¸ªé’±åŒ…æ–‡ä»¶ä¸­æ²¡æœ‰è®°å½•ã€‚</translation>
+        <translation>´íÎó£º¸Ã½»Ò×±»¾Ü¾ø£¡·¢ÉúÕâÖÖ´íÎóµÄÔ­Òò¿ÉÄÜÊÇ£ºÇ®°üÖĞµÄ±ÈÌØ±ÒÒÑ¾­±»ÓÃµô£¬ÓĞ¿ÉÄÜÄú¸´ÖÆÁËwallet.datÇ®°üÎÄ¼ş£¬È»ºóÓÃ¸´ÖÆµÄÇ®°üÎÄ¼şÖ§¸¶ÁË±ÈÌØ±Ò£¬µ«ÊÇÕâ¸öÇ®°üÎÄ¼şÖĞÃ»ÓĞ¼ÇÂ¼¡£</translation>
     </message>
     <message>
         <source>A fee higher than %1 is considered an absurdly high fee.</source>
-        <translation>è¶…è¿‡ %1 çš„äº¤æ˜“è´¹è¢«è®¤ä¸ºæ˜¯è’è°¬çš„é«˜è´¹ç‡ã€‚</translation>
+        <translation>³¬¹ı %1 µÄ½»Ò×·Ñ±»ÈÏÎªÊÇ»ÄÃıµÄ¸ß·ÑÂÊ¡£</translation>
     </message>
     <message>
         <source>Payment request expired.</source>
-        <translation>æ”¯ä»˜è¯·æ±‚å·²è¿‡æœŸã€‚</translation>
+        <translation>Ö§¸¶ÇëÇóÒÑ¹ıÆÚ¡£</translation>
     </message>
     <message numerus="yes">
         <source>Estimated to begin confirmation within %n block(s).</source>
-        <translation><numerusform>é¢„è®¡ %n ä¸ªæ•°æ®å—åè¢«ç¡®è®¤ã€‚</numerusform></translation>
+        <translation><numerusform>Ô¤¼Æ %n ¸öÊı¾İ¿éºó±»È·ÈÏ¡£</numerusform></translation>
     </message>
     <message>
         <source>Pay only the minimum fee of %1</source>
-        <translation>åªæ”¯ä»˜æœ€å°è´¹ç”¨ %1</translation>
+        <translation>Ö»Ö§¸¶×îĞ¡·ÑÓÃ %1</translation>
     </message>
     <message>
         <source>The recipient address is not valid. Please recheck.</source>
-        <translation>æ¥æ”¶äººåœ°å€æ— æ•ˆã€‚è¯·é‡æ–°æ£€æŸ¥ã€‚</translation>
+        <translation>½ÓÊÕÈËµØÖ·ÎŞĞ§¡£ÇëÖØĞÂ¼ì²é¡£</translation>
     </message>
     <message>
         <source>Duplicate address found: addresses should only be used once each.</source>
-        <translation>å‘ç°é‡å¤åœ°å€ï¼šæ¯ä¸ªåœ°å€åº”è¯¥åªä½¿ç”¨ä¸€æ¬¡ã€‚</translation>
+        <translation>·¢ÏÖÖØ¸´µØÖ·£ºÃ¿¸öµØÖ·Ó¦¸ÃÖ»Ê¹ÓÃÒ»´Î¡£</translation>
     </message>
     <message>
         <source>Warning: Invalid Foxcoin address</source>
-        <translation>è­¦å‘Šï¼šæ— æ•ˆçš„å°ç‹¸å¸åœ°å€</translation>
+        <translation>¾¯¸æ£ºÎŞĞ§µÄĞ¡Àê±ÒµØÖ·</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(æ²¡æœ‰æ ‡ç­¾)</translation>
+        <translation>(Ã»ÓĞ±êÇ©)</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
-        <translation>è­¦å‘Šï¼šæœªçŸ¥çš„æ›´æ”¹åœ°å€</translation>
+        <translation>¾¯¸æ£ºÎ´ÖªµÄ¸ü¸ÄµØÖ·</translation>
     </message>
     <message>
         <source>Copy dust</source>
-        <translation>å¤åˆ¶å°é¢</translation>
+        <translation>¸´ÖÆĞ¡¶î</translation>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
-        <translation>æ‚¨ç¡®å®šè¦å‘å‡ºå—ï¼Ÿ</translation>
+        <translation>ÄúÈ·¶¨Òª·¢³öÂğ£¿</translation>
     </message>
     <message>
         <source>added as transaction fee</source>
-        <translation>å·²æ·»åŠ äº¤æ˜“è´¹</translation>
+        <translation>ÒÑÌí¼Ó½»Ò×·Ñ</translation>
     </message>
 </context>
 <context>
     <name>SendCoinsEntry</name>
     <message>
         <source>A&amp;mount:</source>
-        <translation>é‡‘é¢(&amp;M)</translation>
+        <translation>½ğ¶î(&amp;M)</translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
-        <translation>ä»˜ç»™(&amp;T)ï¼š</translation>
+        <translation>¸¶¸ø(&amp;T)£º</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>ä¸ºè¿™ä¸ªåœ°å€è¾“å…¥ä¸€ä¸ªæ ‡ç­¾ï¼Œä»¥ä¾¿å°†å®ƒæ·»åŠ åˆ°æ‚¨çš„åœ°å€ç°¿</translation>
+        <translation>ÎªÕâ¸öµØÖ·ÊäÈëÒ»¸ö±êÇ©£¬ÒÔ±ã½«ËüÌí¼Óµ½ÄúµÄµØÖ·²¾</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>æ ‡ç­¾(&amp;L)ï¼š</translation>
+        <translation>±êÇ©(&amp;L)£º</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>é€‰æ‹©ä»¥å‰ç”¨è¿‡çš„åœ°å€</translation>
+        <translation>Ñ¡ÔñÒÔÇ°ÓÃ¹ıµÄµØÖ·</translation>
     </message>
     <message>
         <source>This is a normal payment.</source>
-        <translation>è¿™æ˜¯ç¬”æ­£å¸¸çš„æ”¯ä»˜ã€‚</translation>
+        <translation>ÕâÊÇ±ÊÕı³£µÄÖ§¸¶¡£</translation>
     </message>
     <message>
         <source>The Foxcoin address to send the payment to</source>
-        <translation>ä»˜æ¬¾ç›®çš„åœ°å€</translation>
+        <translation>¸¶¿îÄ¿µÄµØÖ·</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2091,7 +2091,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>ä»å‰ªè´´æ¿ç²˜è´´åœ°å€</translation>
+        <translation>´Ó¼ôÌù°åÕ³ÌùµØÖ·</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -2099,77 +2099,77 @@
     </message>
     <message>
         <source>Remove this entry</source>
-        <translation>ç§»é™¤æ­¤é¡¹</translation>
+        <translation>ÒÆ³ı´ËÏî</translation>
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less foxcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>äº¤æ˜“è´¹å°†ä»å‘é€æ€»é¢ä¸­æ‰£é™¤ã€‚æ¥æ”¶äººå°†æ”¶åˆ°æ¯”æ‚¨åœ¨é‡‘é¢æ¡†ä¸­è¾“å…¥çš„æ›´å°‘çš„æ¯”ç‰¹å¸ã€‚å¦‚æœé€‰ä¸­äº†å¤šä¸ªæ”¶ä»¶äººï¼Œäº¤æ˜“è´¹å¹³åˆ†ã€‚</translation>
+        <translation>½»Ò×·Ñ½«´Ó·¢ËÍ×Ü¶îÖĞ¿Û³ı¡£½ÓÊÕÈË½«ÊÕµ½±ÈÄúÔÚ½ğ¶î¿òÖĞÊäÈëµÄ¸üÉÙµÄ±ÈÌØ±Ò¡£Èç¹ûÑ¡ÖĞÁË¶à¸öÊÕ¼şÈË£¬½»Ò×·ÑÆ½·Ö¡£</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
-        <translation>ä»é‡‘é¢ä¸­å‡å»äº¤æ˜“è´¹(&amp;U)</translation>
+        <translation>´Ó½ğ¶îÖĞ¼õÈ¥½»Ò×·Ñ(&amp;U)</translation>
     </message>
     <message>
         <source>Message:</source>
-        <translation>æ¶ˆæ¯ï¼š</translation>
+        <translation>ÏûÏ¢£º</translation>
     </message>
     <message>
         <source>This is an unauthenticated payment request.</source>
-        <translation>è¿™æ˜¯ä¸€ä¸ªæœªç»éªŒè¯çš„æ”¯ä»˜è¯·æ±‚ã€‚</translation>
+        <translation>ÕâÊÇÒ»¸öÎ´¾­ÑéÖ¤µÄÖ§¸¶ÇëÇó¡£</translation>
     </message>
     <message>
         <source>This is an authenticated payment request.</source>
-        <translation>è¿™æ˜¯ä¸€ä¸ªå·²ç»éªŒè¯çš„æ”¯ä»˜è¯·æ±‚ã€‚</translation>
+        <translation>ÕâÊÇÒ»¸öÒÑ¾­ÑéÖ¤µÄÖ§¸¶ÇëÇó¡£</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to the list of used addresses</source>
-        <translation>è¯·ä¸ºæ­¤åœ°å€è¾“å…¥ä¸€ä¸ªæ ‡ç­¾ä»¥å°†å®ƒåŠ å…¥ç”¨è¿‡çš„åœ°å€åˆ—è¡¨</translation>
+        <translation>ÇëÎª´ËµØÖ·ÊäÈëÒ»¸ö±êÇ©ÒÔ½«Ëü¼ÓÈëÓÃ¹ıµÄµØÖ·ÁĞ±í</translation>
     </message>
     <message>
         <source>A message that was attached to the foxcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Foxcoin network.</source>
-        <translation>foxcoin:URI é™„å¸¦çš„å¤‡æ³¨ä¿¡æ¯ï¼Œå°†ä¼šå’Œäº¤æ˜“ä¸€èµ·å­˜å‚¨ï¼Œå¤‡æŸ¥ã€‚ æ³¨æ„ï¼šè¯¥æ¶ˆæ¯ä¸ä¼šé€šè¿‡å°ç‹¸å¸ç½‘ç»œä¼ è¾“ã€‚</translation>
+        <translation>foxcoin:URI ¸½´øµÄ±¸×¢ĞÅÏ¢£¬½«»áºÍ½»Ò×Ò»Æğ´æ´¢£¬±¸²é¡£ ×¢Òâ£º¸ÃÏûÏ¢²»»áÍ¨¹ıĞ¡Àê±ÒÍøÂç´«Êä¡£</translation>
     </message>
     <message>
         <source>Pay To:</source>
-        <translation>æ”¯ä»˜ç»™:</translation>
+        <translation>Ö§¸¶¸ø:</translation>
     </message>
     <message>
         <source>Memo:</source>
-        <translation>ä¾¿æ¡ï¼š</translation>
+        <translation>±ãÌõ£º</translation>
     </message>
 </context>
 <context>
     <name>ShutdownWindow</name>
     <message>
         <source>Foxcoin Core is shutting down...</source>
-        <translation>å°ç‹¸å¸æ ¸å¿ƒæ­£åœ¨å…³æœº...</translation>
+        <translation>Ğ¡Àê±ÒºËĞÄÕıÔÚ¹Ø»ú...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
-        <translation>åœ¨æ­¤çª—å£æ¶ˆå¤±å‰ä¸è¦å…³é—­è®¡ç®—æœºã€‚</translation>
+        <translation>ÔÚ´Ë´°¿ÚÏûÊ§Ç°²»Òª¹Ø±Õ¼ÆËã»ú¡£</translation>
     </message>
 </context>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>ç­¾å - ä¸ºæ¶ˆæ¯ç­¾å/éªŒè¯ç­¾åæ¶ˆæ¯</translation>
+        <translation>Ç©Ãû - ÎªÏûÏ¢Ç©Ãû/ÑéÖ¤Ç©ÃûÏûÏ¢</translation>
     </message>
     <message>
         <source>&amp;Sign Message</source>
-        <translation>ç­¾åæ¶ˆæ¯(&amp;S)</translation>
+        <translation>Ç©ÃûÏûÏ¢(&amp;S)</translation>
     </message>
     <message>
         <source>You can sign messages/agreements with your addresses to prove you can receive foxcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>æ‚¨å¯ä»¥ç”¨ä½ çš„åœ°å€å¯¹æ¶ˆæ¯/åè®®è¿›è¡Œç­¾åï¼Œä»¥è¯æ˜æ‚¨å¯ä»¥æ¥æ”¶å‘é€åˆ°è¯¥åœ°å€çš„æ¯”ç‰¹å¸ã€‚æ³¨æ„ä¸è¦å¯¹ä»»ä½•æ¨¡æ£±ä¸¤å¯æˆ–è€…éšæœºçš„æ¶ˆæ¯è¿›è¡Œç­¾åï¼Œä»¥å…é­å—é’“é±¼å¼æ”»å‡»ã€‚è¯·ç¡®ä¿æ¶ˆæ¯å†…å®¹å‡†ç¡®çš„è¡¨è¾¾äº†æ‚¨çš„çœŸå®æ„æ„¿ã€‚</translation>
+        <translation>Äú¿ÉÒÔÓÃÄãµÄµØÖ·¶ÔÏûÏ¢/Ğ­Òé½øĞĞÇ©Ãû£¬ÒÔÖ¤Ã÷Äú¿ÉÒÔ½ÓÊÕ·¢ËÍµ½¸ÃµØÖ·µÄ±ÈÌØ±Ò¡£×¢Òâ²»Òª¶ÔÈÎºÎÄ£ÀâÁ½¿É»òÕßËæ»úµÄÏûÏ¢½øĞĞÇ©Ãû£¬ÒÔÃâÔâÊÜµöÓãÊ½¹¥»÷¡£ÇëÈ·±£ÏûÏ¢ÄÚÈİ×¼È·µÄ±í´ïÁËÄúµÄÕæÊµÒâÔ¸¡£</translation>
     </message>
     <message>
         <source>The Foxcoin address to sign the message with</source>
-        <translation>ç”¨æ¥å¯¹æ¶ˆæ¯ç­¾åçš„åœ°å€ </translation>
+        <translation>ÓÃÀ´¶ÔÏûÏ¢Ç©ÃûµÄµØÖ· </translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>é€‰æ‹©ä»¥å‰ç”¨è¿‡çš„åœ°å€</translation>
+        <translation>Ñ¡ÔñÒÔÇ°ÓÃ¹ıµÄµØÖ·</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2177,7 +2177,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>ä»å‰ªè´´æ¿ç²˜è´´åœ°å€</translation>
+        <translation>´Ó¼ôÌù°åÕ³ÌùµØÖ·</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -2185,122 +2185,122 @@
     </message>
     <message>
         <source>Enter the message you want to sign here</source>
-        <translation>è¯·è¾“å…¥æ‚¨è¦å‘é€çš„ç­¾åæ¶ˆæ¯</translation>
+        <translation>ÇëÊäÈëÄúÒª·¢ËÍµÄÇ©ÃûÏûÏ¢</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>ç­¾å</translation>
+        <translation>Ç©Ãû</translation>
     </message>
     <message>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>å¤åˆ¶å½“å‰ç­¾åè‡³å‰ªåˆ‡æ¿</translation>
+        <translation>¸´ÖÆµ±Ç°Ç©ÃûÖÁ¼ôÇĞ°å</translation>
     </message>
     <message>
         <source>Sign the message to prove you own this Foxcoin address</source>
-        <translation>ç­¾åæ¶ˆæ¯ï¼Œè¯æ˜è¿™ä¸ªåœ°å€å±äºæ‚¨ã€‚</translation>
+        <translation>Ç©ÃûÏûÏ¢£¬Ö¤Ã÷Õâ¸öµØÖ·ÊôÓÚÄú¡£</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
-        <translation>æ¶ˆæ¯ç­¾å(&amp;M)</translation>
+        <translation>ÏûÏ¢Ç©Ãû(&amp;M)</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
-        <translation>æ¸…ç©ºæ‰€æœ‰ç­¾åæ¶ˆæ¯æ </translation>
+        <translation>Çå¿ÕËùÓĞÇ©ÃûÏûÏ¢À¸</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>æ¸…é™¤æ‰€æœ‰(&amp;A)</translation>
+        <translation>Çå³ıËùÓĞ(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Verify Message</source>
-        <translation>éªŒè¯æ¶ˆæ¯(&amp;V)</translation>
+        <translation>ÑéÖ¤ÏûÏ¢(&amp;V)</translation>
     </message>
     <message>
         <source>Enter the receiver's address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</source>
-        <translation>è¯·åœ¨ä¸‹é¢è¾“å…¥æ¥æ”¶è€…åœ°å€ã€æ¶ˆæ¯ï¼ˆç¡®ä¿æ¢è¡Œç¬¦ã€ç©ºæ ¼ç¬¦ã€åˆ¶è¡¨ç¬¦ç­‰å®Œå…¨ç›¸åŒï¼‰å’Œç­¾åä»¥éªŒè¯æ¶ˆæ¯ã€‚è¯·ä»”ç»†æ ¸å¯¹ç­¾åä¿¡æ¯ï¼Œä»¥æé˜²ä¸­é—´äººæ”»å‡»ã€‚è¯·æ³¨æ„ï¼Œè¿™åªæ˜¯è¯æ˜æ¥æ”¶æ–¹ç­¾åçš„åœ°å€ï¼Œå®ƒä¸èƒ½è¯æ˜ä»»ä½•äº¤æ˜“ï¼</translation>
+        <translation>ÇëÔÚÏÂÃæÊäÈë½ÓÊÕÕßµØÖ·¡¢ÏûÏ¢£¨È·±£»»ĞĞ·û¡¢¿Õ¸ñ·û¡¢ÖÆ±í·ûµÈÍêÈ«ÏàÍ¬£©ºÍÇ©ÃûÒÔÑéÖ¤ÏûÏ¢¡£Çë×ĞÏ¸ºË¶ÔÇ©ÃûĞÅÏ¢£¬ÒÔÌá·ÀÖĞ¼äÈË¹¥»÷¡£Çë×¢Òâ£¬ÕâÖ»ÊÇÖ¤Ã÷½ÓÊÕ·½Ç©ÃûµÄµØÖ·£¬Ëü²»ÄÜÖ¤Ã÷ÈÎºÎ½»Ò×£¡</translation>
     </message>
     <message>
         <source>The Foxcoin address the message was signed with</source>
-        <translation>æ¶ˆæ¯ä½¿ç”¨çš„ç­¾ååœ°å€</translation>
+        <translation>ÏûÏ¢Ê¹ÓÃµÄÇ©ÃûµØÖ·</translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Foxcoin address</source>
-        <translation>éªŒè¯æ¶ˆæ¯ï¼Œç¡®ä¿æ¶ˆæ¯æ˜¯ç”±æŒ‡å®šçš„å°ç‹¸å¸åœ°å€ç­¾åè¿‡çš„ã€‚</translation>
+        <translation>ÑéÖ¤ÏûÏ¢£¬È·±£ÏûÏ¢ÊÇÓÉÖ¸¶¨µÄĞ¡Àê±ÒµØÖ·Ç©Ãû¹ıµÄ¡£</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
-        <translation>éªŒè¯æ¶ˆæ¯ç­¾å(&amp;M)</translation>
+        <translation>ÑéÖ¤ÏûÏ¢Ç©Ãû(&amp;M)</translation>
     </message>
     <message>
         <source>Reset all verify message fields</source>
-        <translation>æ¸…ç©ºæ‰€æœ‰éªŒè¯æ¶ˆæ¯æ </translation>
+        <translation>Çå¿ÕËùÓĞÑéÖ¤ÏûÏ¢À¸</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
-        <translation>å•å‡»â€œç­¾åæ¶ˆæ¯â€œäº§ç”Ÿç­¾åã€‚</translation>
+        <translation>µ¥»÷¡°Ç©ÃûÏûÏ¢¡°²úÉúÇ©Ãû¡£</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
-        <translation>è¾“å…¥çš„åœ°å€éæ³•ã€‚</translation>
+        <translation>ÊäÈëµÄµØÖ··Ç·¨¡£</translation>
     </message>
     <message>
         <source>Please check the address and try again.</source>
-        <translation>è¯·æ£€æŸ¥åœ°å€åé‡è¯•ã€‚</translation>
+        <translation>Çë¼ì²éµØÖ·ºóÖØÊÔ¡£</translation>
     </message>
     <message>
         <source>The entered address does not refer to a key.</source>
-        <translation>è¾“å…¥çš„åœ°å€æ²¡æœ‰å…³è”çš„å…¬ç§é’¥å¯¹ã€‚</translation>
+        <translation>ÊäÈëµÄµØÖ·Ã»ÓĞ¹ØÁªµÄ¹«Ë½Ô¿¶Ô¡£</translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
-        <translation>é’±åŒ…è§£é”åŠ¨ä½œå–æ¶ˆã€‚</translation>
+        <translation>Ç®°ü½âËø¶¯×÷È¡Ïû¡£</translation>
     </message>
     <message>
         <source>Private key for the entered address is not available.</source>
-        <translation>æ‰¾ä¸åˆ°è¾“å…¥åœ°å€å…³è”çš„ç§é’¥ã€‚</translation>
+        <translation>ÕÒ²»µ½ÊäÈëµØÖ·¹ØÁªµÄË½Ô¿¡£</translation>
     </message>
     <message>
         <source>Message signing failed.</source>
-        <translation>æ¶ˆæ¯ç­¾åå¤±è´¥ã€‚</translation>
+        <translation>ÏûÏ¢Ç©ÃûÊ§°Ü¡£</translation>
     </message>
     <message>
         <source>Message signed.</source>
-        <translation>æ¶ˆæ¯å·²ç­¾åã€‚</translation>
+        <translation>ÏûÏ¢ÒÑÇ©Ãû¡£</translation>
     </message>
     <message>
         <source>The signature could not be decoded.</source>
-        <translation>ç­¾åæ— æ³•è§£ç ã€‚</translation>
+        <translation>Ç©ÃûÎŞ·¨½âÂë¡£</translation>
     </message>
     <message>
         <source>Please check the signature and try again.</source>
-        <translation>è¯·æ£€æŸ¥ç­¾ååé‡è¯•ã€‚</translation>
+        <translation>Çë¼ì²éÇ©ÃûºóÖØÊÔ¡£</translation>
     </message>
     <message>
         <source>The signature did not match the message digest.</source>
-        <translation>ç­¾åä¸æ¶ˆæ¯æ‘˜è¦ä¸åŒ¹é…ã€‚</translation>
+        <translation>Ç©ÃûÓëÏûÏ¢ÕªÒª²»Æ¥Åä¡£</translation>
     </message>
     <message>
         <source>Message verification failed.</source>
-        <translation>æ¶ˆæ¯éªŒè¯å¤±è´¥ã€‚</translation>
+        <translation>ÏûÏ¢ÑéÖ¤Ê§°Ü¡£</translation>
     </message>
     <message>
         <source>Message verified.</source>
-        <translation>æ¶ˆæ¯éªŒè¯æˆåŠŸã€‚</translation>
+        <translation>ÏûÏ¢ÑéÖ¤³É¹¦¡£</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
         <source>Foxcoin Core</source>
-        <translation>å°ç‹¸å¸æ ¸å¿ƒ</translation>
+        <translation>Ğ¡Àê±ÒºËĞÄ</translation>
     </message>
     <message>
         <source>The Foxcoin Core developers</source>
-        <translation>Foxcoin Core çš„å¼€å‘è€…</translation>
+        <translation>Foxcoin Core µÄ¿ª·¢Õß</translation>
     </message>
     <message>
         <source>[testnet]</source>
-        <translation>[æµ‹è¯•ç½‘ç»œ]</translation>
+        <translation>[²âÊÔÍøÂç]</translation>
     </message>
 </context>
 <context>
@@ -2314,103 +2314,103 @@
     <name>TransactionDesc</name>
     <message>
         <source>Open until %1</source>
-        <translation>è‡³ %1 ä¸ªæ•°æ®å—æ—¶å¼€å¯</translation>
+        <translation>ÖÁ %1 ¸öÊı¾İ¿éÊ±¿ªÆô</translation>
     </message>
     <message>
         <source>conflicted</source>
-        <translation>å‘ç°å†²çª</translation>
+        <translation>·¢ÏÖ³åÍ»</translation>
     </message>
     <message>
         <source>%1/offline</source>
-        <translation>%1 / ç¦»çº¿</translation>
+        <translation>%1 / ÀëÏß</translation>
     </message>
     <message>
         <source>%1/unconfirmed</source>
-        <translation>%1/æœªç¡®è®¤</translation>
+        <translation>%1/Î´È·ÈÏ</translation>
     </message>
     <message>
         <source>%1 confirmations</source>
-        <translation>%1 å·²ç¡®è®¤</translation>
+        <translation>%1 ÒÑÈ·ÈÏ</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>çŠ¶æ€</translation>
+        <translation>×´Ì¬</translation>
     </message>
     <message numerus="yes">
         <source>, broadcast through %n node(s)</source>
-        <translation><numerusform>, é€šè¿‡ %n ä¸ªèŠ‚ç‚¹å¹¿æ’­ </numerusform></translation>
+        <translation><numerusform>, Í¨¹ı %n ¸ö½Úµã¹ã²¥ </numerusform></translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>æ—¥æœŸ</translation>
+        <translation>ÈÕÆÚ</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>æº</translation>
+        <translation>Ô´</translation>
     </message>
     <message>
         <source>Generated</source>
-        <translation>ç”Ÿæˆ</translation>
+        <translation>Éú³É</translation>
     </message>
     <message>
         <source>From</source>
-        <translation>æ¥è‡ª</translation>
+        <translation>À´×Ô</translation>
     </message>
     <message>
         <source>To</source>
-        <translation>åˆ°</translation>
+        <translation>µ½</translation>
     </message>
     <message>
         <source>own address</source>
-        <translation>è‡ªå·±çš„åœ°å€</translation>
+        <translation>×Ô¼ºµÄµØÖ·</translation>
     </message>
     <message>
         <source>watch-only</source>
-        <translation>è§‚å¯Ÿåœ°å€(watch-only) </translation>
+        <translation>¹Û²ìµØÖ·(watch-only) </translation>
     </message>
     <message>
         <source>label</source>
-        <translation>æ ‡ç­¾</translation>
+        <translation>±êÇ©</translation>
     </message>
     <message>
         <source>Credit</source>
-        <translation>æ”¶å…¥</translation>
+        <translation>ÊÕÈë</translation>
     </message>
     <message numerus="yes">
         <source>matures in %n more block(s)</source>
-        <translation><numerusform>%n ä¸ªæ•°æ®å—åæˆç†Ÿ(mature) </numerusform></translation>
+        <translation><numerusform>%n ¸öÊı¾İ¿éºó³ÉÊì(mature) </numerusform></translation>
     </message>
     <message>
         <source>not accepted</source>
-        <translation>æœªè¢«æ¥å—</translation>
+        <translation>Î´±»½ÓÊÜ</translation>
     </message>
     <message>
         <source>Debit</source>
-        <translation>æ”¯å‡º</translation>
+        <translation>Ö§³ö</translation>
     </message>
     <message>
         <source>Total debit</source>
-        <translation>æ€»æ”¶å…¥</translation>
+        <translation>×ÜÊÕÈë</translation>
     </message>
     <message>
         <source>Total credit</source>
-        <translation>æ€»æ”¯å‡º</translation>
+        <translation>×ÜÖ§³ö</translation>
     </message>
     <message>
         <source>Transaction fee</source>
-        <translation>äº¤æ˜“è´¹</translation>
+        <translation>½»Ò×·Ñ</translation>
     </message>
     <message>
         <source>Net amount</source>
-        <translation>å‡€é¢</translation>
+        <translation>¾»¶î</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>æ¶ˆæ¯</translation>
+        <translation>ÏûÏ¢</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>å¤‡æ³¨</translation>
+        <translation>±¸×¢</translation>
     </message>
     <message>
         <source>Transaction ID</source>
@@ -2418,296 +2418,296 @@
     </message>
     <message>
         <source>Merchant</source>
-        <translation>å•†åº—</translation>
+        <translation>ÉÌµê</translation>
     </message>
     <message>
         <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>ç”Ÿæˆçš„æ¯”ç‰¹å¸åœ¨å¯ä»¥ä½¿ç”¨å‰å¿…é¡»æœ‰ %1 ä¸ªæˆç†Ÿçš„åŒºå—ã€‚å½“æ‚¨ç”Ÿæˆäº†æ­¤åŒºå—åï¼Œå®ƒå°†è¢«å¹¿æ’­åˆ°ç½‘ç»œä¸­ä»¥åŠ å…¥åŒºå—é“¾ã€‚å¦‚æœå®ƒæœªæˆåŠŸè¿›å…¥åŒºå—é“¾ï¼Œå…¶çŠ¶æ€å°†å˜æ›´ä¸ºâ€œä¸æ¥å—â€å¹¶ä¸”ä¸å¯ä½¿ç”¨ã€‚è¿™å¯èƒ½å¶å°”ä¼šå‘ç”Ÿï¼Œå¦‚æœå¦ä¸€ä¸ªèŠ‚ç‚¹æ¯”ä½ æ—©å‡ ç§’é’ŸæˆåŠŸç”Ÿæˆä¸€ä¸ªåŒºå—ã€‚</translation>
+        <translation>Éú³ÉµÄ±ÈÌØ±ÒÔÚ¿ÉÒÔÊ¹ÓÃÇ°±ØĞëÓĞ %1 ¸ö³ÉÊìµÄÇø¿é¡£µ±ÄúÉú³ÉÁË´ËÇø¿éºó£¬Ëü½«±»¹ã²¥µ½ÍøÂçÖĞÒÔ¼ÓÈëÇø¿éÁ´¡£Èç¹ûËüÎ´³É¹¦½øÈëÇø¿éÁ´£¬Æä×´Ì¬½«±ä¸üÎª¡°²»½ÓÊÜ¡±²¢ÇÒ²»¿ÉÊ¹ÓÃ¡£Õâ¿ÉÄÜÅ¼¶û»á·¢Éú£¬Èç¹ûÁíÒ»¸ö½Úµã±ÈÄãÔç¼¸ÃëÖÓ³É¹¦Éú³ÉÒ»¸öÇø¿é¡£</translation>
     </message>
     <message>
         <source>Debug information</source>
-        <translation>è°ƒè¯•ä¿¡æ¯</translation>
+        <translation>µ÷ÊÔĞÅÏ¢</translation>
     </message>
     <message>
         <source>Transaction</source>
-        <translation>äº¤æ˜“</translation>
+        <translation>½»Ò×</translation>
     </message>
     <message>
         <source>Inputs</source>
-        <translation>è¾“å…¥</translation>
+        <translation>ÊäÈë</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>é‡‘é¢</translation>
+        <translation>½ğ¶î</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>æ­£ç¡®</translation>
+        <translation>ÕıÈ·</translation>
     </message>
     <message>
         <source>false</source>
-        <translation>é”™è¯¯</translation>
+        <translation>´íÎó</translation>
     </message>
     <message>
         <source>, has not been successfully broadcast yet</source>
-        <translation>ï¼Œæœªè¢«æˆåŠŸå¹¿æ’­</translation>
+        <translation>£¬Î´±»³É¹¦¹ã²¥</translation>
     </message>
     <message numerus="yes">
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>å†æ‰“å¼€ %n ä¸ªæ•°æ®å—</numerusform></translation>
+        <translation><numerusform>ÔÙ´ò¿ª %n ¸öÊı¾İ¿é</numerusform></translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation>æœªçŸ¥</translation>
+        <translation>Î´Öª</translation>
     </message>
 </context>
 <context>
     <name>TransactionDescDialog</name>
     <message>
         <source>Transaction details</source>
-        <translation>äº¤æ˜“ç»†èŠ‚</translation>
+        <translation>½»Ò×Ï¸½Ú</translation>
     </message>
     <message>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>å½“å‰é¢æ¿æ˜¾ç¤ºäº†äº¤æ˜“çš„è¯¦ç»†ä¿¡æ¯</translation>
+        <translation>µ±Ç°Ãæ°åÏÔÊ¾ÁË½»Ò×µÄÏêÏ¸ĞÅÏ¢</translation>
     </message>
 </context>
 <context>
     <name>TransactionTableModel</name>
     <message>
         <source>Date</source>
-        <translation>æ—¥æœŸ</translation>
+        <translation>ÈÕÆÚ</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>ç±»åˆ«</translation>
+        <translation>Àà±ğ</translation>
     </message>
     <message>
         <source>Immature (%1 confirmations, will be available after %2)</source>
-        <translation>æœªæˆç†Ÿ (%1 ä¸ªç¡®è®¤ï¼Œå°†åœ¨ %2 ä¸ªåå¯ç”¨)</translation>
+        <translation>Î´³ÉÊì (%1 ¸öÈ·ÈÏ£¬½«ÔÚ %2 ¸öºó¿ÉÓÃ)</translation>
     </message>
     <message numerus="yes">
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>å†æ‰“å¼€ %n ä¸ªæ•°æ®å—</numerusform></translation>
+        <translation><numerusform>ÔÙ´ò¿ª %n ¸öÊı¾İ¿é</numerusform></translation>
     </message>
     <message>
         <source>Open until %1</source>
-        <translation>è‡³ %1 ä¸ªæ•°æ®å—æ—¶å¼€å¯</translation>
+        <translation>ÖÁ %1 ¸öÊı¾İ¿éÊ±¿ªÆô</translation>
     </message>
     <message>
         <source>Confirmed (%1 confirmations)</source>
-        <translation>å·²ç¡®è®¤ (%1 æ¡ç¡®è®¤ä¿¡æ¯)</translation>
+        <translation>ÒÑÈ·ÈÏ (%1 ÌõÈ·ÈÏĞÅÏ¢)</translation>
     </message>
     <message>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>æ­¤æ•°æ®å—æœªè¢«ä»»ä½•å…¶ä»–èŠ‚ç‚¹æ¥æ”¶ï¼Œå¯èƒ½ä¸è¢«æ¥å—ï¼</translation>
+        <translation>´ËÊı¾İ¿éÎ´±»ÈÎºÎÆäËû½Úµã½ÓÊÕ£¬¿ÉÄÜ²»±»½ÓÊÜ£¡</translation>
     </message>
     <message>
         <source>Generated but not accepted</source>
-        <translation>å·²ç”Ÿæˆä½†æœªè¢«æ¥å—</translation>
+        <translation>ÒÑÉú³Éµ«Î´±»½ÓÊÜ</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>æ‰çº¿</translation>
+        <translation>µôÏß</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>æ ‡ç­¾</translation>
+        <translation>±êÇ©</translation>
     </message>
     <message>
         <source>Unconfirmed</source>
-        <translation>æœªç¡®è®¤çš„ </translation>
+        <translation>Î´È·ÈÏµÄ </translation>
     </message>
     <message>
         <source>Confirming (%1 of %2 recommended confirmations)</source>
-        <translation>ç¡®è®¤ä¸­ (æ¨è %2ä¸ªç¡®è®¤ï¼Œå·²ç»æœ‰ %1ä¸ªç¡®è®¤)</translation>
+        <translation>È·ÈÏÖĞ (ÍÆ¼ö %2¸öÈ·ÈÏ£¬ÒÑ¾­ÓĞ %1¸öÈ·ÈÏ)</translation>
     </message>
     <message>
         <source>Conflicted</source>
-        <translation>å†²çªçš„</translation>
+        <translation>³åÍ»µÄ</translation>
     </message>
     <message>
         <source>Received with</source>
-        <translation>æ¥æ”¶äº</translation>
+        <translation>½ÓÊÕÓÚ</translation>
     </message>
     <message>
         <source>Received from</source>
-        <translation>æ”¶æ¬¾æ¥è‡ª</translation>
+        <translation>ÊÕ¿îÀ´×Ô</translation>
     </message>
     <message>
         <source>Sent to</source>
-        <translation>å‘é€ç»™</translation>
+        <translation>·¢ËÍ¸ø</translation>
     </message>
     <message>
         <source>Payment to yourself</source>
-        <translation>ä»˜æ¬¾ç»™è‡ªå·±</translation>
+        <translation>¸¶¿î¸ø×Ô¼º</translation>
     </message>
     <message>
         <source>Mined</source>
-        <translation>æŒ–çŸ¿æ‰€å¾—</translation>
+        <translation>ÍÚ¿óËùµÃ</translation>
     </message>
     <message>
         <source>watch-only</source>
-        <translation>è§‚å¯Ÿåœ°å€(watch-only) </translation>
+        <translation>¹Û²ìµØÖ·(watch-only) </translation>
     </message>
     <message>
         <source>(n/a)</source>
-        <translation>ï¼ˆä¸å¯ç”¨ï¼‰</translation>
+        <translation>£¨²»¿ÉÓÃ£©</translation>
     </message>
     <message>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>äº¤æ˜“çŠ¶æ€ã€‚ é¼ æ ‡ç§»åˆ°æ­¤åŒºåŸŸå¯æ˜¾ç¤ºç¡®è®¤é¡¹æ•°é‡ã€‚</translation>
+        <translation>½»Ò××´Ì¬¡£ Êó±êÒÆµ½´ËÇøÓò¿ÉÏÔÊ¾È·ÈÏÏîÊıÁ¿¡£</translation>
     </message>
     <message>
         <source>Date and time that the transaction was received.</source>
-        <translation>æ¥æ”¶åˆ°äº¤æ˜“çš„æ—¶é—´</translation>
+        <translation>½ÓÊÕµ½½»Ò×µÄÊ±¼ä</translation>
     </message>
     <message>
         <source>Type of transaction.</source>
-        <translation>äº¤æ˜“ç±»åˆ«ã€‚</translation>
+        <translation>½»Ò×Àà±ğ¡£</translation>
     </message>
     <message>
         <source>Whether or not a watch-only address is involved in this transaction.</source>
-        <translation>è¯¥äº¤æ˜“ä¸­æ˜¯å¦æ¶‰åŠ  è§‚å¯Ÿåœ°å€(watch-only address)ã€‚</translation>
+        <translation>¸Ã½»Ò×ÖĞÊÇ·ñÉæ¼°  ¹Û²ìµØÖ·(watch-only address)¡£</translation>
     </message>
     <message>
         <source>User-defined intent/purpose of the transaction.</source>
-        <translation>ç”¨æˆ·å®šä¹‰çš„è¯¥äº¤æ˜“çš„æ„å›¾/ç›®çš„ã€‚</translation>
+        <translation>ÓÃ»§¶¨ÒåµÄ¸Ã½»Ò×µÄÒâÍ¼/Ä¿µÄ¡£</translation>
     </message>
     <message>
         <source>Amount removed from or added to balance.</source>
-        <translation>ä»ä½™é¢æ·»åŠ æˆ–ç§»é™¤çš„é‡‘é¢ã€‚</translation>
+        <translation>´ÓÓà¶îÌí¼Ó»òÒÆ³ıµÄ½ğ¶î¡£</translation>
     </message>
 </context>
 <context>
     <name>TransactionView</name>
     <message>
         <source>All</source>
-        <translation>å…¨éƒ¨</translation>
+        <translation>È«²¿</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation>ä»Šå¤©</translation>
+        <translation>½ñÌì</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>æœ¬å‘¨</translation>
+        <translation>±¾ÖÜ</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation>æœ¬æœˆ</translation>
+        <translation>±¾ÔÂ</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation>ä¸Šæœˆ</translation>
+        <translation>ÉÏÔÂ</translation>
     </message>
     <message>
         <source>This year</source>
-        <translation>ä»Šå¹´</translation>
+        <translation>½ñÄê</translation>
     </message>
     <message>
         <source>Range...</source>
-        <translation>èŒƒå›´...</translation>
+        <translation>·¶Î§...</translation>
     </message>
     <message>
         <source>Received with</source>
-        <translation>æ¥æ”¶äº</translation>
+        <translation>½ÓÊÕÓÚ</translation>
     </message>
     <message>
         <source>Sent to</source>
-        <translation>å‘é€ç»™</translation>
+        <translation>·¢ËÍ¸ø</translation>
     </message>
     <message>
         <source>To yourself</source>
-        <translation>åˆ°è‡ªå·±</translation>
+        <translation>µ½×Ô¼º</translation>
     </message>
     <message>
         <source>Mined</source>
-        <translation>æŒ–çŸ¿æ‰€å¾—</translation>
+        <translation>ÍÚ¿óËùµÃ</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation>å…¶ä»–</translation>
+        <translation>ÆäËû</translation>
     </message>
     <message>
         <source>Enter address or label to search</source>
-        <translation>è¾“å…¥åœ°å€æˆ–æ ‡ç­¾è¿›è¡Œæœç´¢</translation>
+        <translation>ÊäÈëµØÖ·»ò±êÇ©½øĞĞËÑË÷</translation>
     </message>
     <message>
         <source>Min amount</source>
-        <translation>æœ€å°é‡‘é¢</translation>
+        <translation>×îĞ¡½ğ¶î</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>å¤åˆ¶åœ°å€</translation>
+        <translation>¸´ÖÆµØÖ·</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>å¤åˆ¶æ ‡ç­¾</translation>
+        <translation>¸´ÖÆ±êÇ©</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>å¤åˆ¶é‡‘é¢</translation>
+        <translation>¸´ÖÆ½ğ¶î</translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>å¤åˆ¶äº¤æ˜“ç¼–å·</translation>
+        <translation>¸´ÖÆ½»Ò×±àºÅ</translation>
     </message>
     <message>
         <source>Edit label</source>
-        <translation>ç¼–è¾‘æ ‡ç­¾</translation>
+        <translation>±à¼­±êÇ©</translation>
     </message>
     <message>
         <source>Show transaction details</source>
-        <translation>æ˜¾ç¤ºäº¤æ˜“è¯¦æƒ…</translation>
+        <translation>ÏÔÊ¾½»Ò×ÏêÇé</translation>
     </message>
     <message>
         <source>Export Transaction History</source>
-        <translation>å¯¼å‡ºäº¤æ˜“å†å²</translation>
+        <translation>µ¼³ö½»Ò×ÀúÊ·</translation>
     </message>
     <message>
         <source>Watch-only</source>
-        <translation>è§‚å¯Ÿåœ°å€(Watch-only) </translation>
+        <translation>¹Û²ìµØÖ·(Watch-only) </translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>å¯¼å‡ºå¤±è´¥</translation>
+        <translation>µ¼³öÊ§°Ü</translation>
     </message>
     <message>
         <source>There was an error trying to save the transaction history to %1.</source>
-        <translation>å¯¼å‡ºäº¤æ˜“å†å²åˆ° %1 æ—¶å‘ç”Ÿé”™è¯¯ã€‚</translation>
+        <translation>µ¼³ö½»Ò×ÀúÊ·µ½ %1 Ê±·¢Éú´íÎó¡£</translation>
     </message>
     <message>
         <source>Exporting Successful</source>
-        <translation>å¯¼å‡ºæˆåŠŸ</translation>
+        <translation>µ¼³ö³É¹¦</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
-        <translation>äº¤æ˜“å†å²å·²æˆåŠŸä¿å­˜åˆ° %1ã€‚</translation>
+        <translation>½»Ò×ÀúÊ·ÒÑ³É¹¦±£´æµ½ %1¡£</translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>é€—å·åˆ†éš”æ–‡ä»¶ (*.csv)</translation>
+        <translation>¶ººÅ·Ö¸ôÎÄ¼ş (*.csv)</translation>
     </message>
     <message>
         <source>Confirmed</source>
-        <translation>å·²ç¡®è®¤</translation>
+        <translation>ÒÑÈ·ÈÏ</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>æ—¥æœŸ</translation>
+        <translation>ÈÕÆÚ</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>ç±»åˆ«</translation>
+        <translation>Àà±ğ</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>æ ‡ç­¾</translation>
+        <translation>±êÇ©</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>åœ°å€</translation>
+        <translation>µØÖ·</translation>
     </message>
     <message>
         <source>ID</source>
@@ -2715,116 +2715,116 @@
     </message>
     <message>
         <source>Range:</source>
-        <translation>èŒƒå›´ï¼š</translation>
+        <translation>·¶Î§£º</translation>
     </message>
     <message>
         <source>to</source>
-        <translation>åˆ°</translation>
+        <translation>µ½</translation>
     </message>
 </context>
 <context>
     <name>UnitDisplayStatusBarControl</name>
     <message>
         <source>Unit to show amounts in. Click to select another unit.</source>
-        <translation>é‡‘é¢å•ä½ã€‚å•å‡»é€‰æ‹©åˆ«çš„å•ä½ã€‚</translation>
+        <translation>½ğ¶îµ¥Î»¡£µ¥»÷Ñ¡Ôñ±ğµÄµ¥Î»¡£</translation>
     </message>
 </context>
 <context>
     <name>WalletFrame</name>
     <message>
         <source>No wallet has been loaded.</source>
-        <translation>æ²¡æœ‰è½½å…¥é’±åŒ…ã€‚</translation>
+        <translation>Ã»ÓĞÔØÈëÇ®°ü¡£</translation>
     </message>
 </context>
 <context>
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>å‘é€æ¯”ç‰¹å¸</translation>
+        <translation>·¢ËÍ±ÈÌØ±Ò</translation>
     </message>
 </context>
 <context>
     <name>WalletView</name>
     <message>
         <source>&amp;Export</source>
-        <translation>å¯¼å‡º(&amp;E)</translation>
+        <translation>µ¼³ö(&amp;E)</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>å¯¼å‡ºå½“å‰æ•°æ®åˆ°æ–‡ä»¶</translation>
+        <translation>µ¼³öµ±Ç°Êı¾İµ½ÎÄ¼ş</translation>
     </message>
     <message>
         <source>Backup Wallet</source>
-        <translation>å¤‡ä»½é’±åŒ…</translation>
+        <translation>±¸·İÇ®°ü</translation>
     </message>
     <message>
         <source>Wallet Data (*.dat)</source>
-        <translation>é’±åŒ…æ–‡ä»¶(*.dat)</translation>
+        <translation>Ç®°üÎÄ¼ş(*.dat)</translation>
     </message>
     <message>
         <source>Backup Failed</source>
-        <translation>å¤‡ä»½å¤±è´¥</translation>
+        <translation>±¸·İÊ§°Ü</translation>
     </message>
     <message>
         <source>There was an error trying to save the wallet data to %1.</source>
-        <translation>å°è¯•ä¿å­˜é’±åŒ…æ•°æ®è‡³ %1 æ—¶å‘ç”Ÿé”™è¯¯ã€‚</translation>
+        <translation>³¢ÊÔ±£´æÇ®°üÊı¾İÖÁ %1 Ê±·¢Éú´íÎó¡£</translation>
     </message>
     <message>
         <source>The wallet data was successfully saved to %1.</source>
-        <translation>é’±åŒ…æ•°æ®æˆåŠŸä¿å­˜è‡³ %1 ã€‚</translation>
+        <translation>Ç®°üÊı¾İ³É¹¦±£´æÖÁ %1 ¡£</translation>
     </message>
     <message>
         <source>Backup Successful</source>
-        <translation>å¤‡ä»½æˆåŠŸ</translation>
+        <translation>±¸·İ³É¹¦</translation>
     </message>
 </context>
 <context>
     <name>bitcoin-core</name>
     <message>
         <source>Options:</source>
-        <translation>é€‰é¡¹ï¼š
+        <translation>Ñ¡Ïî£º
 </translation>
     </message>
     <message>
         <source>Specify data directory</source>
-        <translation>æŒ‡å®šæ•°æ®ç›®å½•
+        <translation>Ö¸¶¨Êı¾İÄ¿Â¼
 </translation>
     </message>
     <message>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>è¿æ¥ä¸€ä¸ªèŠ‚ç‚¹å¹¶è·å–å¯¹ç«¯åœ°å€ï¼Œç„¶åæ–­å¼€è¿æ¥</translation>
+        <translation>Á¬½ÓÒ»¸ö½Úµã²¢»ñÈ¡¶Ô¶ËµØÖ·£¬È»ºó¶Ï¿ªÁ¬½Ó</translation>
     </message>
     <message>
         <source>Specify your own public address</source>
-        <translation>æŒ‡å®šæ‚¨çš„å…¬å…±åœ°å€</translation>
+        <translation>Ö¸¶¨ÄúµÄ¹«¹²µØÖ·</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>æ¥å—å‘½ä»¤è¡Œå’Œ JSON-RPC å‘½ä»¤
+        <translation>½ÓÊÜÃüÁîĞĞºÍ JSON-RPC ÃüÁî
 </translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>åœ¨åå°è¿è¡Œå¹¶æ¥å—å‘½ä»¤
+        <translation>ÔÚºóÌ¨ÔËĞĞ²¢½ÓÊÜÃüÁî
 
 </translation>
     </message>
     <message>
         <source>Use the test network</source>
-        <translation>ä½¿ç”¨æµ‹è¯•ç½‘ç»œ
+        <translation>Ê¹ÓÃ²âÊÔÍøÂç
 </translation>
     </message>
     <message>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-        <translation>æ¥å—æ¥è‡ªå¤–éƒ¨çš„è¿æ¥ (ç¼ºçœ: å¦‚æœä¸å¸¦ -proxy or -connect å‚æ•°è®¾ç½®ä¸º1)</translation>
+        <translation>½ÓÊÜÀ´×ÔÍâ²¿µÄÁ¬½Ó (È±Ê¡: Èç¹û²»´ø -proxy or -connect ²ÎÊıÉèÖÃÎª1)</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
-        <translation>ç»‘å®šæŒ‡å®šçš„IPåœ°å€å¼€å§‹ç›‘å¬ã€‚IPv6åœ°å€è¯·ä½¿ç”¨[host]:port æ ¼å¼</translation>
+        <translation>°ó¶¨Ö¸¶¨µÄIPµØÖ·¿ªÊ¼¼àÌı¡£IPv6µØÖ·ÇëÊ¹ÓÃ[host]:port ¸ñÊ½</translation>
     </message>
     <message>
         <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>
-        <translation>åˆ é™¤é’±åŒ…çš„æ‰€æœ‰äº¤æ˜“è®°å½•ï¼Œä¸”åªæœ‰ç”¨ -rescanå‚æ•°å¯åŠ¨å®¢æˆ·ç«¯æ‰èƒ½é‡æ–°å–å›äº¤æ˜“è®°å½• </translation>
+        <translation>É¾³ıÇ®°üµÄËùÓĞ½»Ò×¼ÇÂ¼£¬ÇÒÖ»ÓĞÓÃ -rescan²ÎÊıÆô¶¯¿Í»§¶Ë²ÅÄÜÖØĞÂÈ¡»Ø½»Ò×¼ÇÂ¼ </translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
@@ -2832,103 +2832,103 @@
     </message>
     <message>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>å½“æœ€ä½³åŒºå—å˜åŒ–æ—¶æ‰§è¡Œå‘½ä»¤ (å‘½ä»¤è¡Œä¸­çš„ %s ä¼šè¢«æ›¿æ¢æˆåŒºå—å“ˆå¸Œå€¼)</translation>
+        <translation>µ±×î¼ÑÇø¿é±ä»¯Ê±Ö´ĞĞÃüÁî (ÃüÁîĞĞÖĞµÄ %s »á±»Ìæ»»³ÉÇø¿é¹şÏ£Öµ)</translation>
     </message>
     <message>
         <source>Maximum total fees to use in a single wallet transaction; setting this too low may abort large transactions (default: %s)</source>
-        <translation>å•æ¬¡äº¤æ˜“æœ€å¤šä½¿ç”¨äº¤æ˜“è´¹ï¼›è®¾ç½®å¤ªä½å¯èƒ½å¯¼è‡´å¤§å®—äº¤æ˜“ä¸­æ­¢ (é»˜è®¤: %s)</translation>
+        <translation>µ¥´Î½»Ò××î¶àÊ¹ÓÃ½»Ò×·Ñ£»ÉèÖÃÌ«µÍ¿ÉÄÜµ¼ÖÂ´ó×Ú½»Ò×ÖĞÖ¹ (Ä¬ÈÏ: %s)</translation>
     </message>
     <message>
         <source>Reduce storage requirements by pruning (deleting) old blocks. This mode disables wallet support and is incompatible with -txindex. Warning: Reverting this setting requires re-downloading the entire blockchain. (default: 0 = disable pruning blocks, &gt;%u = target size in MiB to use for block files)</source>
-        <translation>é€šè¿‡ä¿®å‰ªï¼ˆåˆ é™¤ï¼‰æ—§æ•°æ®å—å‡å°‘å­˜å‚¨éœ€æ±‚ã€‚æ­¤æ¨¡å¼å°†ç¦ç”¨é’±åŒ…æ”¯æŒï¼Œå¹¶ä¸ -txindex ä¸å…¼å®¹ã€‚è­¦å‘Šï¼šè¿˜åŸæ­¤è®¾ç½®éœ€è¦é‡æ–°ä¸‹è½½æ•´ä¸ªæ•°æ®é“¾ã€‚(é»˜è®¤: 0 = ç¦ç”¨ä¿®å‰ªæ•°æ®å—ï¼Œ &gt;%u = æ•°æ®å—æ–‡ä»¶ç›®æ ‡å¤§å°ï¼Œå•ä½ MiB)</translation>
+        <translation>Í¨¹ıĞŞ¼ô£¨É¾³ı£©¾ÉÊı¾İ¿é¼õÉÙ´æ´¢ĞèÇó¡£´ËÄ£Ê½½«½ûÓÃÇ®°üÖ§³Ö£¬²¢Óë -txindex ²»¼æÈİ¡£¾¯¸æ£º»¹Ô­´ËÉèÖÃĞèÒªÖØĞÂÏÂÔØÕû¸öÊı¾İÁ´¡£(Ä¬ÈÏ: 0 = ½ûÓÃĞŞ¼ôÊı¾İ¿é£¬ &gt;%u = Êı¾İ¿éÎÄ¼şÄ¿±ê´óĞ¡£¬µ¥Î» MiB)</translation>
     </message>
     <message>
         <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>
-        <translation>è®¾ç½®è„šæœ¬éªŒè¯çš„ç¨‹åº (%u åˆ° %d, 0 = è‡ªåŠ¨, &lt;0 = ä¿ç•™è‡ªç”±çš„æ ¸å¿ƒ, é»˜è®¤å€¼: %d)</translation>
+        <translation>ÉèÖÃ½Å±¾ÑéÖ¤µÄ³ÌĞò (%u µ½ %d, 0 = ×Ô¶¯, &lt;0 = ±£Áô×ÔÓÉµÄºËĞÄ, Ä¬ÈÏÖµ: %d)</translation>
     </message>
     <message>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>è¿™æ˜¯æµ‹è¯•ç”¨çš„é¢„å‘å¸ƒç‰ˆæœ¬ - è¯·è°¨æ…ä½¿ç”¨ - ä¸è¦ç”¨æ¥æŒ–çŸ¿ï¼Œæˆ–è€…åœ¨æ­£å¼å•†ç”¨ç¯å¢ƒä¸‹ä½¿ç”¨</translation>
+        <translation>ÕâÊÇ²âÊÔÓÃµÄÔ¤·¢²¼°æ±¾ - Çë½÷É÷Ê¹ÓÃ - ²»ÒªÓÃÀ´ÍÚ¿ó£¬»òÕßÔÚÕıÊ½ÉÌÓÃ»·¾³ÏÂÊ¹ÓÃ</translation>
     </message>
     <message>
         <source>Unable to bind to %s on this computer. Foxcoin Core is probably already running.</source>
-        <translation>æ— æ³• %sçš„ç»‘å®šåˆ°ç”µè„‘ä¸Šï¼Œæ¯”ç‰¹å¸æ ¸å¿ƒé’±åŒ…å¯èƒ½å·²ç»åœ¨è¿è¡Œã€‚</translation>
+        <translation>ÎŞ·¨ %sµÄ°ó¶¨µ½µçÄÔÉÏ£¬±ÈÌØ±ÒºËĞÄÇ®°ü¿ÉÄÜÒÑ¾­ÔÚÔËĞĞ¡£</translation>
     </message>
     <message>
         <source>WARNING: abnormally high number of blocks generated, %d blocks received in the last %d hours (%d expected)</source>
-        <translation>è­¦å‘Šï¼šæ•°æ®å—ç”Ÿæˆæ•°é‡å¼‚å¸¸ï¼Œæœ€è¿‘ %d å°æ—¶æ”¶åˆ°äº† %d ä¸ªæ•°æ®å—ï¼ˆé¢„æœŸä¸º %d ä¸ªï¼‰</translation>
+        <translation>¾¯¸æ£ºÊı¾İ¿éÉú³ÉÊıÁ¿Òì³££¬×î½ü %d Ğ¡Ê±ÊÕµ½ÁË %d ¸öÊı¾İ¿é£¨Ô¤ÆÚÎª %d ¸ö£©</translation>
     </message>
     <message>
         <source>WARNING: check your network connection, %d blocks received in the last %d hours (%d expected)</source>
-        <translation>è­¦å‘Šï¼šè¯·æ£€æŸ¥æ‚¨çš„ç½‘ç»œè¿æ¥ï¼Œæœ€è¿‘ %d å°æ—¶æ”¶åˆ°äº† %d ä¸ªæ•°æ®å—ï¼ˆé¢„æœŸä¸º %d ä¸ªï¼‰</translation>
+        <translation>¾¯¸æ£ºÇë¼ì²éÄúµÄÍøÂçÁ¬½Ó£¬×î½ü %d Ğ¡Ê±ÊÕµ½ÁË %d ¸öÊı¾İ¿é£¨Ô¤ÆÚÎª %d ¸ö£©</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>è­¦å‘Šï¼š-paytxfee äº¤æ˜“è´¹è®¾ç½®å¾—å¤ªé«˜äº†ï¼æ¯ç¬”äº¤æ˜“éƒ½å°†æ”¯ä»˜äº¤æ˜“è´¹ã€‚</translation>
+        <translation>¾¯¸æ£º-paytxfee ½»Ò×·ÑÉèÖÃµÃÌ«¸ßÁË£¡Ã¿±Ê½»Ò×¶¼½«Ö§¸¶½»Ò×·Ñ¡£</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
-        <translation>è­¦å‘Šï¼šç½‘ç»œä¼¼ä¹å¹¶ä¸å®Œå…¨åŒæ„ï¼æœ‰äº›çŸ¿å·¥ä¼¼ä¹é‡åˆ°äº†é—®é¢˜ã€‚</translation>
+        <translation>¾¯¸æ£ºÍøÂçËÆºõ²¢²»ÍêÈ«Í¬Òâ£¡ÓĞĞ©¿ó¹¤ËÆºõÓöµ½ÁËÎÊÌâ¡£</translation>
     </message>
     <message>
         <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>
-        <translation>è­¦å‘Šï¼šæˆ‘ä»¬çš„åŒè¡Œä¼¼ä¹ä¸å®Œå…¨åŒæ„ï¼æ‚¨å¯èƒ½éœ€è¦å‡çº§ï¼Œæˆ–è€…å…¶ä»–èŠ‚ç‚¹å¯èƒ½éœ€è¦å‡çº§ã€‚</translation>
+        <translation>¾¯¸æ£ºÎÒÃÇµÄÍ¬ĞĞËÆºõ²»ÍêÈ«Í¬Òâ£¡Äú¿ÉÄÜĞèÒªÉı¼¶£¬»òÕßÆäËû½Úµã¿ÉÄÜĞèÒªÉı¼¶¡£</translation>
     </message>
     <message>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>è­¦å‘Šï¼šé’±åŒ…æ–‡ä»¶wallet.datè¯»å–å¤±è´¥ï¼æœ€é‡è¦çš„å…¬é’¥ã€ç§é’¥æ•°æ®éƒ½æ²¡æœ‰é—®é¢˜ï¼Œä½†æ˜¯äº¤æ˜“è®°å½•æˆ–åœ°å€ç°¿æ•°æ®ä¸æ­£ç¡®ï¼Œæˆ–è€…å­˜åœ¨æ•°æ®ä¸¢å¤±ã€‚</translation>
+        <translation>¾¯¸æ£ºÇ®°üÎÄ¼şwallet.dat¶ÁÈ¡Ê§°Ü£¡×îÖØÒªµÄ¹«Ô¿¡¢Ë½Ô¿Êı¾İ¶¼Ã»ÓĞÎÊÌâ£¬µ«ÊÇ½»Ò×¼ÇÂ¼»òµØÖ·²¾Êı¾İ²»ÕıÈ·£¬»òÕß´æÔÚÊı¾İ¶ªÊ§¡£</translation>
     </message>
     <message>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>è­¦å‘Šï¼šé’±åŒ…æ–‡ä»¶wallet.datæŸå! åŸå§‹çš„é’±åŒ…æ–‡ä»¶å·²ç»å¤‡ä»½åˆ°%sç›®å½•ä¸‹å¹¶é‡å‘½åä¸º{timestamp}.bak ã€‚å¦‚æœæ‚¨çš„è´¦æˆ·ä½™é¢æˆ–è€…äº¤æ˜“è®°å½•ä¸æ­£ç¡®ï¼Œè¯·ä½¿ç”¨æ‚¨çš„é’±åŒ…å¤‡ä»½æ–‡ä»¶æ¢å¤ã€‚</translation>
+        <translation>¾¯¸æ£ºÇ®°üÎÄ¼şwallet.datËğ»µ! Ô­Ê¼µÄÇ®°üÎÄ¼şÒÑ¾­±¸·İµ½%sÄ¿Â¼ÏÂ²¢ÖØÃüÃûÎª{timestamp}.bak ¡£Èç¹ûÄúµÄÕË»§Óà¶î»òÕß½»Ò×¼ÇÂ¼²»ÕıÈ·£¬ÇëÊ¹ÓÃÄúµÄÇ®°ü±¸·İÎÄ¼ş»Ö¸´¡£</translation>
     </message>
     <message>
         <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>
-        <translation>èŠ‚ç‚¹ç™½åå•,ç½‘ç»œæ©ç æˆ–IPå€ã€‚å¯å¤šæ¬¡æŒ‡å®šã€‚</translation>
+        <translation>½Úµã°×Ãûµ¥,ÍøÂçÑÚÂë»òIPÖ·¡£¿É¶à´ÎÖ¸¶¨¡£</translation>
     </message>
     <message>
         <source>(default: 1)</source>
-        <translation>(é»˜è®¤å€¼: 1)</translation>
+        <translation>(Ä¬ÈÏÖµ: 1)</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>
-        <translation>&lt;category&gt; å¯èƒ½æ˜¯ï¼š</translation>
+        <translation>&lt;category&gt; ¿ÉÄÜÊÇ£º</translation>
     </message>
     <message>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
-        <translation>å°è¯•ä»æŸåçš„é’±åŒ…æ–‡ä»¶wallet.datä¸­æ¢å¤ç§é’¥</translation>
+        <translation>³¢ÊÔ´ÓËğ»µµÄÇ®°üÎÄ¼şwallet.datÖĞ»Ö¸´Ë½Ô¿</translation>
     </message>
     <message>
         <source>Block creation options:</source>
-        <translation>æ•°æ®å—åˆ›å»ºé€‰é¡¹ï¼š</translation>
+        <translation>Êı¾İ¿é´´½¨Ñ¡Ïî£º</translation>
     </message>
     <message>
         <source>Connect only to the specified node(s)</source>
-        <translation>ä»…è¿æ¥åˆ°æŒ‡å®šèŠ‚ç‚¹</translation>
+        <translation>½öÁ¬½Óµ½Ö¸¶¨½Úµã</translation>
     </message>
     <message>
         <source>Connection options:</source>
-        <translation>è¿æ¥é€‰é¡¹ï¼š</translation>
+        <translation>Á¬½ÓÑ¡Ïî£º</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
-        <translation>æ£€æµ‹å‘ç°æ•°æ®å—æ•°æ®åº“æŸåã€‚è¯·ä½¿ç”¨ -reindexå‚æ•°é‡å¯å®¢æˆ·ç«¯ã€‚</translation>
+        <translation>¼ì²â·¢ÏÖÊı¾İ¿éÊı¾İ¿âËğ»µ¡£ÇëÊ¹ÓÃ -reindex²ÎÊıÖØÆô¿Í»§¶Ë¡£</translation>
     </message>
     <message>
         <source>Debugging/Testing options:</source>
-        <translation>è°ƒè¯•/æµ‹è¯•é€‰é¡¹ï¼š</translation>
+        <translation>µ÷ÊÔ/²âÊÔÑ¡Ïî£º</translation>
     </message>
     <message>
         <source>Do not load the wallet and disable wallet RPC calls</source>
-        <translation>ä¸è¦åŠ è½½é’±åŒ…å’Œç¦ç”¨é’±åŒ…çš„ RPC è°ƒç”¨</translation>
+        <translation>²»Òª¼ÓÔØÇ®°üºÍ½ûÓÃÇ®°üµÄ RPC µ÷ÓÃ</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>
-        <translation>ä½ æƒ³ç°åœ¨å°±é‡å»ºå—æ•°æ®åº“å—ï¼Ÿ</translation>
+        <translation>ÄãÏëÏÖÔÚ¾ÍÖØ½¨¿éÊı¾İ¿âÂğ£¿</translation>
     </message>
     <message>
         <source>Error initializing block database</source>
-        <translation>åˆå§‹åŒ–æ•°æ®å—æ•°æ®åº“å‡ºé”™</translation>
+        <translation>³õÊ¼»¯Êı¾İ¿éÊı¾İ¿â³ö´í</translation>
     </message>
     <message>
         <source>Error initializing wallet database environment %s!</source>
@@ -2936,151 +2936,151 @@
     </message>
     <message>
         <source>Error loading block database</source>
-        <translation>å¯¼å…¥æ•°æ®å—æ•°æ®åº“å‡ºé”™</translation>
+        <translation>µ¼ÈëÊı¾İ¿éÊı¾İ¿â³ö´í</translation>
     </message>
     <message>
         <source>Error opening block database</source>
-        <translation>å¯¼å…¥æ•°æ®å—æ•°æ®åº“å‡ºé”™</translation>
+        <translation>µ¼ÈëÊı¾İ¿éÊı¾İ¿â³ö´í</translation>
     </message>
     <message>
         <source>Error: A fatal internal error occured, see debug.log for details</source>
-        <translation>é”™è¯¯ï¼šå‘ç”Ÿäº†è‡´å‘½çš„å†…éƒ¨é”™è¯¯ï¼Œè¯·æ‰“å¼€debug.logæŸ¥çœ‹è¯¦ç»†ä¿¡æ¯ </translation>
+        <translation>´íÎó£º·¢ÉúÁËÖÂÃüµÄÄÚ²¿´íÎó£¬Çë´ò¿ªdebug.log²é¿´ÏêÏ¸ĞÅÏ¢ </translation>
     </message>
     <message>
         <source>Error: Disk space is low!</source>
-        <translation>é”™è¯¯ï¼šç£ç›˜å‰©ä½™ç©ºé—´ä½!</translation>
+        <translation>´íÎó£º´ÅÅÌÊ£Óà¿Õ¼äµÍ!</translation>
     </message>
     <message>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>ç›‘å¬ç«¯å£å¤±è´¥ã€‚è¯·ä½¿ç”¨ -listen=0 å‚æ•°ã€‚</translation>
+        <translation>¼àÌı¶Ë¿ÚÊ§°Ü¡£ÇëÊ¹ÓÃ -listen=0 ²ÎÊı¡£</translation>
     </message>
     <message>
         <source>If &lt;category&gt; is not supplied, output all debugging information.</source>
-        <translation>å¦‚æœ&lt;category&gt;æœªæä¾›ï¼Œå°†è¾“å‡ºæ‰€æœ‰è°ƒè¯•ä¿¡æ¯ã€‚</translation>
+        <translation>Èç¹û&lt;category&gt;Î´Ìá¹©£¬½«Êä³öËùÓĞµ÷ÊÔĞÅÏ¢¡£</translation>
     </message>
     <message>
         <source>Importing...</source>
-        <translation>å¯¼å…¥ä¸­...</translation>
+        <translation>µ¼ÈëÖĞ...</translation>
     </message>
     <message>
         <source>Incorrect or no genesis block found. Wrong datadir for network?</source>
-        <translation>ä¸æ­£ç¡®æˆ–æ²¡æœ‰æ‰¾åˆ°èµ·æºåŒºå—ã€‚ç½‘ç»œé”™è¯¯ï¼Ÿ</translation>
+        <translation>²»ÕıÈ·»òÃ»ÓĞÕÒµ½ÆğÔ´Çø¿é¡£ÍøÂç´íÎó£¿</translation>
     </message>
     <message>
         <source>Invalid -onion address: '%s'</source>
-        <translation>æ— æ•ˆçš„ -onion åœ°å€ï¼šâ€œ%sâ€</translation>
+        <translation>ÎŞĞ§µÄ -onion µØÖ·£º¡°%s¡±</translation>
     </message>
     <message>
         <source>Not enough file descriptors available.</source>
-        <translation>æ²¡æœ‰è¶³å¤Ÿçš„æ–‡ä»¶æè¿°ç¬¦å¯ç”¨ã€‚</translation>
+        <translation>Ã»ÓĞ×ã¹»µÄÎÄ¼şÃèÊö·û¿ÉÓÃ¡£</translation>
     </message>
     <message>
         <source>Only connect to nodes in network &lt;net&gt; (ipv4, ipv6 or onion)</source>
-        <translation>åªè¿æ¥ &lt;net&gt;ç½‘ç»œä¸­çš„èŠ‚ç‚¹ (ipv4, ipv6 æˆ– onion) </translation>
+        <translation>Ö»Á¬½Ó &lt;net&gt;ÍøÂçÖĞµÄ½Úµã (ipv4, ipv6 »ò onion) </translation>
     </message>
     <message>
         <source>Prune cannot be configured with a negative value.</source>
-        <translation>ä¿®å‰ªä¸èƒ½é…ç½®ä¸€ä¸ªè´Ÿæ•°ã€‚</translation>
+        <translation>ĞŞ¼ô²»ÄÜÅäÖÃÒ»¸ö¸ºÊı¡£</translation>
     </message>
     <message>
         <source>Prune mode is incompatible with -txindex.</source>
-        <translation>ä¿®å‰ªæ¨¡å¼ä¸ -txindex ä¸å…¼å®¹ã€‚</translation>
+        <translation>ĞŞ¼ôÄ£Ê½Óë -txindex ²»¼æÈİ¡£</translation>
     </message>
     <message>
         <source>Set database cache size in megabytes (%d to %d, default: %d)</source>
-        <translation>è®¾ç½®ä»¥MBä¸ºå•ä½çš„æ•°æ®åº“ç¼“å­˜å¤§å°(%d åˆ° %d, é»˜è®¤å€¼: %d)</translation>
+        <translation>ÉèÖÃÒÔMBÎªµ¥Î»µÄÊı¾İ¿â»º´æ´óĞ¡(%d µ½ %d, Ä¬ÈÏÖµ: %d)</translation>
     </message>
     <message>
         <source>Set maximum block size in bytes (default: %d)</source>
-        <translation>è®¾ç½®æœ€å¤§åŒºå—å¤§å° (é»˜è®¤: %dï¼Œå•ä½å­—èŠ‚)</translation>
+        <translation>ÉèÖÃ×î´óÇø¿é´óĞ¡ (Ä¬ÈÏ: %d£¬µ¥Î»×Ö½Ú)</translation>
     </message>
     <message>
         <source>Specify wallet file (within data directory)</source>
-        <translation>æŒ‡å®šé’±åŒ…æ–‡ä»¶ï¼ˆæ•°æ®ç›®å½•å†…ï¼‰</translation>
+        <translation>Ö¸¶¨Ç®°üÎÄ¼ş£¨Êı¾İÄ¿Â¼ÄÚ£©</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: %u)</source>
-        <translation>ä½¿ç”¨UPnpæ˜ å°„ç›‘å¬ç«¯å£ (é»˜è®¤: %u) </translation>
+        <translation>Ê¹ÓÃUPnpÓ³Éä¼àÌı¶Ë¿Ú (Ä¬ÈÏ: %u) </translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
-        <translation>æ­£åœ¨éªŒè¯æ•°æ®åº“çš„å®Œæ•´æ€§...</translation>
+        <translation>ÕıÔÚÑéÖ¤Êı¾İ¿âµÄÍêÕûĞÔ...</translation>
     </message>
     <message>
         <source>Verifying wallet...</source>
-        <translation>æ­£åœ¨æ£€æµ‹é’±åŒ…çš„å®Œæ•´æ€§...</translation>
+        <translation>ÕıÔÚ¼ì²âÇ®°üµÄÍêÕûĞÔ...</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
-        <translation>é’±åŒ… %s åœ¨å¤–éƒ¨çš„æ•°æ®ç›®å½• %s</translation>
+        <translation>Ç®°ü %s ÔÚÍâ²¿µÄÊı¾İÄ¿Â¼ %s</translation>
     </message>
     <message>
         <source>Wallet options:</source>
-        <translation>é’±åŒ…é€‰é¡¹:</translation>
+        <translation>Ç®°üÑ¡Ïî:</translation>
     </message>
     <message>
         <source>Warning: This version is obsolete; upgrade required!</source>
-        <translation>è­¦å‘Šï¼šæ­¤ç‰ˆæœ¬å·²è¿‡æ—¶ï¼Œå¿…é¡»å‡çº§ï¼</translation>
+        <translation>¾¯¸æ£º´Ë°æ±¾ÒÑ¹ıÊ±£¬±ØĞëÉı¼¶£¡</translation>
     </message>
     <message>
         <source>You need to rebuild the database using -reindex to change -txindex</source>
-        <translation>æ‚¨éœ€è¦å°† -reindex æ”¹ä¸º -txindex ä»¥é‡å»ºæ•°æ®åº“</translation>
+        <translation>ÄúĞèÒª½« -reindex ¸ÄÎª -txindex ÒÔÖØ½¨Êı¾İ¿â</translation>
     </message>
     <message>
         <source>Imports blocks from external blk000??.dat file</source>
-        <translation>ä»blk000??.datæ–‡ä»¶å¯¼å…¥æ•°æ®å—</translation>
+        <translation>´Óblk000??.datÎÄ¼şµ¼ÈëÊı¾İ¿é</translation>
     </message>
     <message>
         <source>Allow JSON-RPC connections from specified source. Valid for &lt;ip&gt; are a single IP (e.g. 1.2.3.4), a network/netmask (e.g. 1.2.3.4/255.255.255.0) or a network/CIDR (e.g. 1.2.3.4/24). This option can be specified multiple times</source>
-        <translation>å…è®¸æ¥è‡ªæŒ‡å®šåœ°å€çš„ JSON-RPC è¿æ¥ã€‚ &lt;ip&gt;ä¸ºå•ä¸€IP (å¦‚: 1.2.3.4), ç½‘ç»œ/æ©ç  (å¦‚: 1.2.3.4/255.255.255.0), ç½‘ç»œ/CIDR (å¦‚:  1.2.3.4/24)ã€‚è¯¥é€‰é¡¹å¯å¤šæ¬¡æŒ‡å®šã€‚</translation>
+        <translation>ÔÊĞíÀ´×ÔÖ¸¶¨µØÖ·µÄ JSON-RPC Á¬½Ó¡£ &lt;ip&gt;Îªµ¥Ò»IP (Èç: 1.2.3.4), ÍøÂç/ÑÚÂë (Èç: 1.2.3.4/255.255.255.0), ÍøÂç/CIDR (Èç:  1.2.3.4/24)¡£¸ÃÑ¡Ïî¿É¶à´ÎÖ¸¶¨¡£</translation>
     </message>
     <message>
         <source>An error occurred while setting up the RPC address %s port %u for listening: %s</source>
-        <translation>è®¾ç½®RPCç›‘å¬ç«¯å£ %s:%u æ—¶å‘ç”Ÿé”™è¯¯: %s</translation>
+        <translation>ÉèÖÃRPC¼àÌı¶Ë¿Ú %s:%u Ê±·¢Éú´íÎó: %s</translation>
     </message>
     <message>
         <source>Bind to given address and whitelist peers connecting to it. Use [host]:port notation for IPv6</source>
-        <translation>ç»‘å®šåˆ°æŒ‡å®šåœ°å€å’Œè¿æ¥çš„ç™½åå•èŠ‚ç‚¹ã€‚ IPv6ä½¿ç”¨  [ä¸»æœº]:ç«¯å£ æ ¼å¼ </translation>
+        <translation>°ó¶¨µ½Ö¸¶¨µØÖ·ºÍÁ¬½ÓµÄ°×Ãûµ¥½Úµã¡£ IPv6Ê¹ÓÃ  [Ö÷»ú]:¶Ë¿Ú ¸ñÊ½ </translation>
     </message>
     <message>
         <source>Bind to given address to listen for JSON-RPC connections. Use [host]:port notation for IPv6. This option can be specified multiple times (default: bind to all interfaces)</source>
-        <translation>ç»‘å®šåˆ°æŒ‡å®šåœ°å€ç›‘å¬ JSON-RPCè¿æ¥ã€‚ IPv6ä½¿ç”¨[ä¸»æœº]:ç«¯å£ æ ¼å¼ã€‚è¯¥é€‰é¡¹å¯å¤šæ¬¡æŒ‡å®š (é»˜è®¤: ç»‘å®šåˆ°æ‰€æœ‰æ¥å£) </translation>
+        <translation>°ó¶¨µ½Ö¸¶¨µØÖ·¼àÌı JSON-RPCÁ¬½Ó¡£ IPv6Ê¹ÓÃ[Ö÷»ú]:¶Ë¿Ú ¸ñÊ½¡£¸ÃÑ¡Ïî¿É¶à´ÎÖ¸¶¨ (Ä¬ÈÏ: °ó¶¨µ½ËùÓĞ½Ó¿Ú) </translation>
     </message>
     <message>
         <source>Cannot obtain a lock on data directory %s. Foxcoin Core is probably already running.</source>
-        <translation>æ— æ³•è·å–æ•°æ®ç›®å½•çš„ %s. æ¯”ç‰¹å¸æ ¸å¿ƒé’±åŒ…å¯èƒ½å·²ç»åœ¨è¿è¡Œ.</translation>
+        <translation>ÎŞ·¨»ñÈ¡Êı¾İÄ¿Â¼µÄ %s. ±ÈÌØ±ÒºËĞÄÇ®°ü¿ÉÄÜÒÑ¾­ÔÚÔËĞĞ.</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
-        <translation>åˆ›å»ºç³»ç»Ÿé»˜è®¤æƒé™çš„æ–‡ä»¶ï¼Œè€Œä¸æ˜¯ umask 077 (åªåœ¨å…³é—­é’±åŒ…åŠŸèƒ½æ—¶æœ‰æ•ˆ) </translation>
+        <translation>´´½¨ÏµÍ³Ä¬ÈÏÈ¨ÏŞµÄÎÄ¼ş£¬¶ø²»ÊÇ umask 077 (Ö»ÔÚ¹Ø±ÕÇ®°ü¹¦ÄÜÊ±ÓĞĞ§) </translation>
     </message>
     <message>
         <source>Discover own IP addresses (default: 1 when listening and no -externalip or -proxy)</source>
-        <translation>å‘ç°è‡ªå·±çš„ IP åœ°å€ï¼ˆé»˜è®¤: ç›‘å¬å¹¶ä¸”æ—  -externalip æˆ– -proxy æ—¶ä¸º 1ï¼‰</translation>
+        <translation>·¢ÏÖ×Ô¼ºµÄ IP µØÖ·£¨Ä¬ÈÏ: ¼àÌı²¢ÇÒÎŞ -externalip »ò -proxy Ê±Îª 1£©</translation>
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
-        <translation>é”™è¯¯ï¼šç›‘å¬å¤–éƒ¨è¿æ¥å¤±è´¥ (ç›‘å¬è¿”å›é”™è¯¯ %s) </translation>
+        <translation>´íÎó£º¼àÌıÍâ²¿Á¬½ÓÊ§°Ü (¼àÌı·µ»Ø´íÎó %s) </translation>
     </message>
     <message>
         <source>Error: Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
-        <translation>é”™è¯¯ï¼šä¸æ”¯æŒçš„ -socks å‚æ•°ã€‚ä¸å†æ”¯æŒè®¾ç½®SOCKSç‰ˆæœ¬ï¼Œç°åœ¨åªæ”¯æŒ SOCKS5ä»£ç†ã€‚</translation>
+        <translation>´íÎó£º²»Ö§³ÖµÄ -socks ²ÎÊı¡£²»ÔÙÖ§³ÖÉèÖÃSOCKS°æ±¾£¬ÏÖÔÚÖ»Ö§³Ö SOCKS5´úÀí¡£</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
-        <translation>å½“æ”¶åˆ°ç›¸å…³æé†’æˆ–è€…æˆ‘ä»¬çœ‹åˆ°ä¸€ä¸ªé•¿åˆ†å‰æ—¶æ‰§è¡Œå‘½ä»¤ï¼ˆ%s å°†æ›¿æ¢ä¸ºæ¶ˆæ¯ï¼‰</translation>
+        <translation>µ±ÊÕµ½Ïà¹ØÌáĞÑ»òÕßÎÒÃÇ¿´µ½Ò»¸ö³¤·Ö²æÊ±Ö´ĞĞÃüÁî£¨%s ½«Ìæ»»ÎªÏûÏ¢£©</translation>
     </message>
     <message>
         <source>Fees (in FOX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>äº¤æ˜“è´¹(FOX/kb)æ¯”è¿™æ›´å°çš„äº¤æ˜“åœ¨è½¬å‘æ—¶å°†è¢«è§†ä¸ºé›¶è´¹äº¤æ˜“ (é»˜è®¤: %s) </translation>
+        <translation>½»Ò×·Ñ(FOX/kb)±ÈÕâ¸üĞ¡µÄ½»Ò×ÔÚ×ª·¢Ê±½«±»ÊÓÎªÁã·Ñ½»Ò× (Ä¬ÈÏ: %s) </translation>
     </message>
     <message>
         <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>
-        <translation>å¦‚æœæœªè®¾ç½®äº¤æ˜“è´¹ç”¨ï¼Œè‡ªåŠ¨æ·»åŠ è¶³å¤Ÿçš„äº¤æ˜“è´¹ä»¥ç¡®ä¿äº¤æ˜“åœ¨å¹³å‡nä¸ªæ•°æ®å—å†…è¢«ç¡®è®¤ (é»˜è®¤: %u) </translation>
+        <translation>Èç¹ûÎ´ÉèÖÃ½»Ò×·ÑÓÃ£¬×Ô¶¯Ìí¼Ó×ã¹»µÄ½»Ò×·ÑÒÔÈ·±£½»Ò×ÔÚÆ½¾ùn¸öÊı¾İ¿éÄÚ±»È·ÈÏ (Ä¬ÈÏ: %u) </translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</source>
-        <translation>-maxtxfee=&lt;amount&gt;: '%s' çš„é‡‘é¢æ— æ•ˆï¼ˆäº¤æ˜“è´¹è‡³å°‘ä¸º %sï¼Œä»¥å…äº¤æ˜“æ»ç•™è¿‡ä¹…ï¼‰</translation>
+        <translation>-maxtxfee=&lt;amount&gt;: '%s' µÄ½ğ¶îÎŞĞ§£¨½»Ò×·ÑÖÁÉÙÎª %s£¬ÒÔÃâ½»Ò×ÖÍÁô¹ı¾Ã£©</translation>
     </message>
     <message>
         <source>Maximum size of data in data carrier transactions we relay and mine (default: %u)</source>
@@ -3088,27 +3088,27 @@
     </message>
     <message>
         <source>Prune configured below the minimum of %d MB.  Please use a higher number.</source>
-        <translation>ä¿®å‰ªè¢«é…ç½®ä¸ºæ¯”æœ€å°å€¼ %d MB æ›´ä½ã€‚è¯·ä½¿ç”¨æ›´å¤§çš„æ•°å­—ã€‚</translation>
+        <translation>ĞŞ¼ô±»ÅäÖÃÎª±È×îĞ¡Öµ %d MB ¸üµÍ¡£ÇëÊ¹ÓÃ¸ü´óµÄÊı×Ö¡£</translation>
     </message>
     <message>
         <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>
-        <translation>é€šè¿‡DNSæŸ¥è¯¢æ¯ä¸ªåœ°å€ï¼Œå¦‚æœçŸ­åœ°å€ (é»˜è®¤å€¼: 1 é™¤é -è¿æ¥)</translation>
+        <translation>Í¨¹ıDNS²éÑ¯Ã¿¸öµØÖ·£¬Èç¹û¶ÌµØÖ· (Ä¬ÈÏÖµ: 1 ³ı·Ç -Á¬½Ó)</translation>
     </message>
     <message>
         <source>Randomize credentials for every proxy connection. This enables Tor stream isolation (default: %u)</source>
-        <translation>ä¸ºæ¯ä¸ªä»£ç†è¿æ¥éšæœºåŒ–å‡­æ®ã€‚è¿™å°†å¯ç”¨ Tor æµéš”ç¦» (é»˜è®¤: %u)</translation>
+        <translation>ÎªÃ¿¸ö´úÀíÁ¬½ÓËæ»ú»¯Æ¾¾İ¡£Õâ½«ÆôÓÃ Tor Á÷¸ôÀë (Ä¬ÈÏ: %u)</translation>
     </message>
     <message>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</source>
-        <translation>è®¾ç½® é«˜ä¼˜å…ˆçº§/ä½äº¤æ˜“è´¹ äº¤æ˜“çš„æœ€å¤§å­—èŠ‚  (ç¼ºçœ: %d)</translation>
+        <translation>ÉèÖÃ ¸ßÓÅÏÈ¼¶/µÍ½»Ò×·Ñ ½»Ò×µÄ×î´ó×Ö½Ú  (È±Ê¡: %d)</translation>
     </message>
     <message>
         <source>Set the number of threads for coin generation if enabled (-1 = all cores, default: %d)</source>
-        <translation>è®¾ç½®æ¯”ç‰¹å¸ç”Ÿæˆçº¿ç¨‹æ•° ( -1=æ‰€æœ‰æ ¸, é»˜è®¤: %d) </translation>
+        <translation>ÉèÖÃ±ÈÌØ±ÒÉú³ÉÏß³ÌÊı ( -1=ËùÓĞºË, Ä¬ÈÏ: %d) </translation>
     </message>
     <message>
         <source>The transaction amount is too small to send after the fee has been deducted</source>
-        <translation>åœ¨äº¤æ˜“è´¹è¢«æ‰£é™¤åå‘é€çš„äº¤æ˜“é‡‘é¢å¤ªå°</translation>
+        <translation>ÔÚ½»Ò×·Ñ±»¿Û³ıºó·¢ËÍµÄ½»Ò×½ğ¶îÌ«Ğ¡</translation>
     </message>
     <message>
         <source>This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit &lt;https://www.openssl.org/&gt; and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard.</source>
@@ -3126,234 +3126,234 @@ If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
 for example: alertnotify=echo %%s | mail -s "Foxcoin Alert" admin@foo.com
 </source>
-        <translation>è¦ä½¿ç”¨ foxcoind æˆ–è€… foxcoin-qt ä¸­çš„ -server é€‰é¡¹ï¼Œæ‚¨å¿…é¡»åœ¨é…ç½®æ–‡ä»¶ä¸­è®¾ç½®ä¸€ä¸ªå¯†ç ï¼š
+        <translation>ÒªÊ¹ÓÃ foxcoind »òÕß foxcoin-qt ÖĞµÄ -server Ñ¡Ïî£¬Äú±ØĞëÔÚÅäÖÃÎÄ¼şÖĞÉèÖÃÒ»¸öÃÜÂë£º
 %s
-å»ºè®®æ‚¨ä½¿ç”¨ä¸‹åˆ—éšæœºå¯†ç ï¼š
+½¨ÒéÄúÊ¹ÓÃÏÂÁĞËæ»úÃÜÂë£º
 rpcuser=foxcoinrpc
 rpcpassword=%s
-ï¼ˆæ‚¨ä¸éœ€è¦è®°ä½è¿™ä¸ªå¯†ç ï¼‰
-ç”¨æˆ·åå’Œå¯†ç ä¸èƒ½ç›¸åŒã€‚
-å¦‚æœè¯¥æ–‡ä»¶ä¸å­˜åœ¨ï¼Œåˆ›å»ºä¸€ä¸ªæ–‡ä»¶å¹¶è®¾ç½®æƒé™ä¸ºä»…åˆ›å»ºè€…å¯è¯»ã€‚
-æ­¤å¤–ï¼Œè¿˜å»ºè®®æ‚¨è®¾ç½® alertnotify ä»¥ä¾¿æ‚¨èƒ½æ³¨æ„åˆ°é—®é¢˜ï¼š
-ä¾‹å¦‚ alertnotify=echo %%s | mail -s "Foxcoin Alert" admin@foo.com
+£¨Äú²»ĞèÒª¼Ç×¡Õâ¸öÃÜÂë£©
+ÓÃ»§ÃûºÍÃÜÂë²»ÄÜÏàÍ¬¡£
+Èç¹û¸ÃÎÄ¼ş²»´æÔÚ£¬´´½¨Ò»¸öÎÄ¼ş²¢ÉèÖÃÈ¨ÏŞÎª½ö´´½¨Õß¿É¶Á¡£
+´ËÍâ£¬»¹½¨ÒéÄúÉèÖÃ alertnotify ÒÔ±ãÄúÄÜ×¢Òâµ½ÎÊÌâ£º
+ÀıÈç alertnotify=echo %%s | mail -s "Foxcoin Alert" admin@foo.com
 </translation>
     </message>
     <message>
         <source>Warning: -maxtxfee is set very high! Fees this large could be paid on a single transaction.</source>
-        <translation>è­¦å‘Šï¼š-maxtxfee è®¾ç½®çš„å¤ªé«˜äº†ï¼æ¯è¿›è¡Œä¸€ç¬”äº¤æ˜“æ—¶æ‚¨éƒ½è¦èŠ±è´¹è¿™ä¹ˆå¤šè´¹ç”¨ã€‚</translation>
+        <translation>¾¯¸æ£º-maxtxfee ÉèÖÃµÄÌ«¸ßÁË£¡Ã¿½øĞĞÒ»±Ê½»Ò×Ê±Äú¶¼Òª»¨·ÑÕâÃ´¶à·ÑÓÃ¡£</translation>
     </message>
     <message>
         <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Foxcoin Core will not work properly.</source>
-        <translation>è­¦å‘Šï¼šè¯·æ£€æŸ¥ç”µè„‘çš„æ—¥æœŸæ—¶é—´è®¾ç½®æ˜¯å¦æ­£ç¡®ï¼æ—¶é—´é”™è¯¯å¯èƒ½ä¼šå¯¼è‡´æ¯”ç‰¹å¸å®¢æˆ·ç«¯è¿è¡Œå¼‚å¸¸ã€‚</translation>
+        <translation>¾¯¸æ£ºÇë¼ì²éµçÄÔµÄÈÕÆÚÊ±¼äÉèÖÃÊÇ·ñÕıÈ·£¡Ê±¼ä´íÎó¿ÉÄÜ»áµ¼ÖÂ±ÈÌØ±Ò¿Í»§¶ËÔËĞĞÒì³£¡£</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
-        <translation>ç™½åå•èŠ‚ç‚¹ä¸èƒ½è¢«DoS banned ï¼Œä¸”è½¬å‘æ‰€æœ‰æ¥è‡ªä»–ä»¬çš„äº¤æ˜“(å³ä¾¿è¿™äº›äº¤æ˜“å·²ç»å­˜åœ¨äºmempoolä¸­)ï¼Œå¸¸ç”¨äºç½‘å…³ </translation>
+        <translation>°×Ãûµ¥½Úµã²»ÄÜ±»DoS banned £¬ÇÒ×ª·¢ËùÓĞÀ´×ÔËûÃÇµÄ½»Ò×(¼´±ãÕâĞ©½»Ò×ÒÑ¾­´æÔÚÓÚmempoolÖĞ)£¬³£ÓÃÓÚÍø¹Ø </translation>
     </message>
     <message>
         <source>You need to rebuild the database using -reindex to go back to unpruned mode.  This will redownload the entire blockchain</source>
-        <translation>æ‚¨éœ€è¦ä½¿ç”¨ -reindex é‡æ–°æ„å»ºæ•°æ®åº“ä»¥è¿”å›æœªä¿®å‰ªçš„æ¨¡å¼ã€‚è¿™å°†é‡æ–°ä¸‹è½½æ•´ä¸ªåŒºå—é“¾</translation>
+        <translation>ÄúĞèÒªÊ¹ÓÃ -reindex ÖØĞÂ¹¹½¨Êı¾İ¿âÒÔ·µ»ØÎ´ĞŞ¼ôµÄÄ£Ê½¡£Õâ½«ÖØĞÂÏÂÔØÕû¸öÇø¿éÁ´</translation>
     </message>
     <message>
         <source>(default: %u)</source>
-        <translation>(é»˜è®¤: %u)</translation>
+        <translation>(Ä¬ÈÏ: %u)</translation>
     </message>
     <message>
         <source>Accept public REST requests (default: %u)</source>
-        <translation>æ¥å—å…¬å…± REST è¯·æ±‚ (é»˜è®¤: %u)</translation>
+        <translation>½ÓÊÜ¹«¹² REST ÇëÇó (Ä¬ÈÏ: %u)</translation>
     </message>
     <message>
         <source>Activating best chain...</source>
-        <translation>æ­£åœ¨æ¿€æ´»æœ€ä½³æ•°æ®é“¾...</translation>
+        <translation>ÕıÔÚ¼¤»î×î¼ÑÊı¾İÁ´...</translation>
     </message>
     <message>
         <source>Can't run with a wallet in prune mode.</source>
-        <translation>ä¸èƒ½åœ¨ä¿®å‰ªæ¨¡å¼ä¸‹è¿è¡Œä¸€ä¸ªé’±åŒ…ã€‚</translation>
+        <translation>²»ÄÜÔÚĞŞ¼ôÄ£Ê½ÏÂÔËĞĞÒ»¸öÇ®°ü¡£</translation>
     </message>
     <message>
         <source>Cannot resolve -whitebind address: '%s'</source>
-        <translation>æ— æ³•è§£æ -whitebind åœ°å€: '%s'</translation>
+        <translation>ÎŞ·¨½âÎö -whitebind µØÖ·: '%s'</translation>
     </message>
     <message>
         <source>Choose data directory on startup (default: 0)</source>
-        <translation>åœ¨å¯åŠ¨æ—¶é€‰æ‹©æ•°æ®ç›®å½•ï¼ˆé»˜è®¤ï¼š0ï¼‰</translation>
+        <translation>ÔÚÆô¶¯Ê±Ñ¡ÔñÊı¾İÄ¿Â¼£¨Ä¬ÈÏ£º0£©</translation>
     </message>
     <message>
         <source>Connect through SOCKS5 proxy</source>
-        <translation>é€šè¿‡ SOCKS5 ä»£ç†è¿æ¥</translation>
+        <translation>Í¨¹ı SOCKS5 ´úÀíÁ¬½Ó</translation>
     </message>
     <message>
         <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-        <translation>ç‰ˆæƒæ‰€æœ‰ (C) 2009-%i Bitcoin Core å¼€å‘è€…</translation>
+        <translation>°æÈ¨ËùÓĞ (C) 2009-%i Bitcoin Core ¿ª·¢Õß</translation>
     </message>
     <message>
         <source>Copyright (C) 2013-%i The Foxcoin Core Developers</source>
-        <translation>ç‰ˆæƒæ‰€æœ‰ (C) 2013-%i Foxcoin Core å¼€å‘è€…</translation>
+        <translation>°æÈ¨ËùÓĞ (C) 2013-%i Foxcoin Core ¿ª·¢Õß</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
-        <translation>æ— æ³•è§£æ -rpcbind çš„å€¼ %s ä¸ºç½‘ç»œåœ°å€</translation>
+        <translation>ÎŞ·¨½âÎö -rpcbind µÄÖµ %s ÎªÍøÂçµØÖ·</translation>
     </message>
     <message>
         <source>Error loading wallet.dat: Wallet requires newer version of Foxcoin Core</source>
-        <translation>åŠ è½½wallet.daté”™è¯¯ï¼šéœ€è¦æ–°ç‰ˆçš„æ¯”ç‰¹å¸æ ¸å¿ƒé’±åŒ…</translation>
+        <translation>¼ÓÔØwallet.dat´íÎó£ºĞèÒªĞÂ°æµÄ±ÈÌØ±ÒºËĞÄÇ®°ü</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
-        <translation>è¯»å–æ•°æ®åº“å‡ºé”™ï¼Œå…³é—­ä¸­ã€‚</translation>
+        <translation>¶ÁÈ¡Êı¾İ¿â³ö´í£¬¹Ø±ÕÖĞ¡£</translation>
     </message>
     <message>
         <source>Error: Unsupported argument -tor found, use -onion.</source>
-        <translation>é”™è¯¯ï¼šå‘ç°äº†ä¸æ”¯æŒçš„å‚æ•° -torï¼Œè¯·ä½¿ç”¨ -onionã€‚</translation>
+        <translation>´íÎó£º·¢ÏÖÁË²»Ö§³ÖµÄ²ÎÊı -tor£¬ÇëÊ¹ÓÃ -onion¡£</translation>
     </message>
     <message>
         <source>Fee (in FOX/kB) to add to transactions you send (default: %s)</source>
-        <translation>ä¸ºä»˜æ¬¾äº¤æ˜“æ·»åŠ äº¤æ˜“è´¹ (FOX/kb) (é»˜è®¤: %s) </translation>
+        <translation>Îª¸¶¿î½»Ò×Ìí¼Ó½»Ò×·Ñ (FOX/kb) (Ä¬ÈÏ: %s) </translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>ä¿¡æ¯</translation>
+        <translation>ĞÅÏ¢</translation>
     </message>
     <message>
         <source>Initialization sanity check failed. Foxcoin Core is shutting down.</source>
-        <translation>åˆå§‹åŒ–å®Œæ•´æ€§æ£€æŸ¥å¤±è´¥ã€‚Foxcoin Core å³å°†å…³é—­ã€‚</translation>
+        <translation>³õÊ¼»¯ÍêÕûĞÔ¼ì²éÊ§°Ü¡£Foxcoin Core ¼´½«¹Ø±Õ¡£</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
-        <translation>-maxtxfee=&lt;amount&gt;: '%s' çš„é‡‘é¢æ— æ•ˆ</translation>
+        <translation>-maxtxfee=&lt;amount&gt;: '%s' µÄ½ğ¶îÎŞĞ§</translation>
     </message>
     <message>
         <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
-        <translation>-minrelaytxfee=&lt;amount&gt;: '%s' æ— æ•ˆçš„é‡‘é¢</translation>
+        <translation>-minrelaytxfee=&lt;amount&gt;: '%s' ÎŞĞ§µÄ½ğ¶î</translation>
     </message>
     <message>
         <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
-        <translation>-mintxfee=&lt;amount&gt;: '%s' æ— æ•ˆçš„é‡‘é¢</translation>
+        <translation>-mintxfee=&lt;amount&gt;: '%s' ÎŞĞ§µÄ½ğ¶î</translation>
     </message>
     <message>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
-        <translation>æ— æ•ˆçš„é‡‘é¢ -paytxfee=&lt;amount&gt;: '%s' (å¿…é¡»è‡³å°‘ä¸º %s)</translation>
+        <translation>ÎŞĞ§µÄ½ğ¶î -paytxfee=&lt;amount&gt;: '%s' (±ØĞëÖÁÉÙÎª %s)</translation>
     </message>
     <message>
         <source>Invalid netmask specified in -whitelist: '%s'</source>
-        <translation>-whitelist: '%s' æŒ‡å®šçš„ç½‘ç»œæ©ç æ— æ•ˆ</translation>
+        <translation>-whitelist: '%s' Ö¸¶¨µÄÍøÂçÑÚÂëÎŞĞ§</translation>
     </message>
     <message>
         <source>Need to specify a port with -whitebind: '%s'</source>
-        <translation>-whitebind: '%s' éœ€è¦æŒ‡å®šä¸€ä¸ªç«¯å£</translation>
+        <translation>-whitebind: '%s' ĞèÒªÖ¸¶¨Ò»¸ö¶Ë¿Ú</translation>
     </message>
     <message>
         <source>Node relay options:</source>
-        <translation>èŠ‚ç‚¹ä¸­ç»§é€‰é¡¹:</translation>
+        <translation>½ÚµãÖĞ¼ÌÑ¡Ïî:</translation>
     </message>
     <message>
         <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>RPC SSLé€‰é¡¹ï¼š(è§æœ‰å…³æ¯”ç‰¹å¸è®¾ç½®ç”¨äºSSLè¯´æ˜çš„ç»´åŸºç™¾ç§‘)</translation>
+        <translation>RPC SSLÑ¡Ïî£º(¼ûÓĞ¹Ø±ÈÌØ±ÒÉèÖÃÓÃÓÚSSLËµÃ÷µÄÎ¬»ù°Ù¿Æ)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
-        <translation>RPC æœåŠ¡å™¨é€‰é¡¹ï¼š</translation>
+        <translation>RPC ·şÎñÆ÷Ñ¡Ïî£º</translation>
     </message>
     <message>
         <source>RPC support for HTTP persistent connections (default: %d)</source>
-        <translation>RPC æ”¯æŒ HTTP æŒä¹…è¿æ¥ (é»˜è®¤: %d)</translation>
+        <translation>RPC Ö§³Ö HTTP ³Ö¾ÃÁ¬½Ó (Ä¬ÈÏ: %d)</translation>
     </message>
     <message>
         <source>Rebuild block chain index from current blk000??.dat files on startup</source>
-        <translation>å¯åŠ¨æ—¶é‡æ–°ä¸ºå½“å‰çš„ blk000??.dat æ–‡ä»¶å»ºç«‹ç´¢å¼•</translation>
+        <translation>Æô¶¯Ê±ÖØĞÂÎªµ±Ç°µÄ blk000??.dat ÎÄ¼ş½¨Á¢Ë÷Òı</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>è·Ÿè¸ª/è°ƒè¯•ä¿¡æ¯è¾“å‡ºåˆ°æ§åˆ¶å°ï¼Œä¸è¾“å‡ºåˆ° debug.log æ–‡ä»¶</translation>
+        <translation>¸ú×Ù/µ÷ÊÔĞÅÏ¢Êä³öµ½¿ØÖÆÌ¨£¬²»Êä³öµ½ debug.log ÎÄ¼ş</translation>
     </message>
     <message>
         <source>Send transactions as zero-fee transactions if possible (default: %u)</source>
-        <translation>å‘é€æ—¶å°½å¯èƒ½ ä¸æ”¯ä»˜äº¤æ˜“è´¹ç”¨ (é»˜è®¤: %u) </translation>
+        <translation>·¢ËÍÊ±¾¡¿ÉÄÜ ²»Ö§¸¶½»Ò×·ÑÓÃ (Ä¬ÈÏ: %u) </translation>
     </message>
     <message>
         <source>Set SSL root certificates for payment request (default: -system-)</source>
-        <translation>è®¾ç½®SSLæ ¹è¯ä¹¦çš„ä»˜æ¬¾è¯·æ±‚(é»˜è®¤ï¼š-ç³»ç»Ÿ-)</translation>
+        <translation>ÉèÖÃSSL¸ùÖ¤ÊéµÄ¸¶¿îÇëÇó(Ä¬ÈÏ£º-ÏµÍ³-)</translation>
     </message>
     <message>
         <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>è®¾ç½®è¯­è¨€, ä¾‹å¦‚â€œzh-TWâ€ï¼ˆé»˜è®¤ä¸ºç³»ç»Ÿè¯­è¨€ï¼‰</translation>
+        <translation>ÉèÖÃÓïÑÔ, ÀıÈç¡°zh-TW¡±£¨Ä¬ÈÏÎªÏµÍ³ÓïÑÔ£©</translation>
     </message>
     <message>
         <source>Show all debugging options (usage: --help -help-debug)</source>
-        <translation>æ˜¾ç¤ºæ‰€æœ‰è°ƒè¯•é€‰é¡¹ (ç”¨æ³•: --å¸®åŠ© -å¸®åŠ©è°ƒè¯•)</translation>
+        <translation>ÏÔÊ¾ËùÓĞµ÷ÊÔÑ¡Ïî (ÓÃ·¨: --°ïÖú -°ïÖúµ÷ÊÔ)</translation>
     </message>
     <message>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation>å¯åŠ¨æ—¶æ˜¾ç¤ºç‰ˆæƒé¡µ (ç¼ºçœ: 1)</translation>
+        <translation>Æô¶¯Ê±ÏÔÊ¾°æÈ¨Ò³ (È±Ê¡: 1)</translation>
     </message>
     <message>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>å®¢æˆ·ç«¯å¯åŠ¨æ—¶å‹ç¼©debug.logæ–‡ä»¶(ç¼ºçœï¼šno-debugæ¨¡å¼æ—¶ä¸º1)</translation>
+        <translation>¿Í»§¶ËÆô¶¯Ê±Ñ¹Ëõdebug.logÎÄ¼ş(È±Ê¡£ºno-debugÄ£Ê½Ê±Îª1)</translation>
     </message>
     <message>
         <source>Signing transaction failed</source>
-        <translation>ç­¾ç½²äº¤æ˜“å¤±è´¥</translation>
+        <translation>Ç©Êğ½»Ò×Ê§°Ü</translation>
     </message>
     <message>
         <source>Start minimized</source>
-        <translation>å¯åŠ¨æ—¶æœ€å°åŒ–
+        <translation>Æô¶¯Ê±×îĞ¡»¯
 </translation>
     </message>
     <message>
         <source>The transaction amount is too small to pay the fee</source>
-        <translation>äº¤æ˜“é‡‘é¢å¤ªå°ï¼Œä¸è¶³ä»¥æ”¯ä»˜äº¤æ˜“è´¹</translation>
+        <translation>½»Ò×½ğ¶îÌ«Ğ¡£¬²»×ãÒÔÖ§¸¶½»Ò×·Ñ</translation>
     </message>
     <message>
         <source>This is experimental software.</source>
-        <translation>è¿™æ˜¯å®éªŒæ€§çš„è½¯ä»¶ã€‚</translation>
+        <translation>ÕâÊÇÊµÑéĞÔµÄÈí¼ş¡£</translation>
     </message>
     <message>
         <source>Transaction amount too small</source>
-        <translation>äº¤æ˜“é‡å¤ªå°</translation>
+        <translation>½»Ò×Á¿Ì«Ğ¡</translation>
     </message>
     <message>
         <source>Transaction amounts must be positive</source>
-        <translation>äº¤æ˜“é‡‘é¢å¿…é¡»æ˜¯ç§¯æçš„</translation>
+        <translation>½»Ò×½ğ¶î±ØĞëÊÇ»ı¼«µÄ</translation>
     </message>
     <message>
         <source>Transaction too large for fee policy</source>
-        <translation>è´¹ç”¨ç­–ç•¥çš„äº¤æ˜“å¤ªå¤§</translation>
+        <translation>·ÑÓÃ²ßÂÔµÄ½»Ò×Ì«´ó</translation>
     </message>
     <message>
         <source>Transaction too large</source>
-        <translation>äº¤æ˜“å¤ªå¤§</translation>
+        <translation>½»Ò×Ì«´ó</translation>
     </message>
     <message>
         <source>UI Options:</source>
-        <translation>ç•Œé¢é€‰é¡¹ï¼š</translation>
+        <translation>½çÃæÑ¡Ïî£º</translation>
     </message>
     <message>
         <source>Unable to bind to %s on this computer (bind returned error %s)</source>
-        <translation>æ— æ³•åœ¨æ­¤è®¡ç®—æœºä¸Šç»‘å®š %s (ç»‘å®šè¿”å›é”™è¯¯ %s)</translation>
+        <translation>ÎŞ·¨ÔÚ´Ë¼ÆËã»úÉÏ°ó¶¨ %s (°ó¶¨·µ»Ø´íÎó %s)</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>ä½¿ç”¨UPnpæ˜ å°„ç›‘å¬ç«¯å£(ç¼ºçœ: ç›‘å¬çŠ¶æ€è®¾ä¸º1)</translation>
+        <translation>Ê¹ÓÃUPnpÓ³Éä¼àÌı¶Ë¿Ú(È±Ê¡: ¼àÌı×´Ì¬ÉèÎª1)</translation>
     </message>
     <message>
         <source>Username for JSON-RPC connections</source>
-        <translation>JSON-RPC è¿æ¥ç”¨æˆ·å</translation>
+        <translation>JSON-RPC Á¬½ÓÓÃ»§Ãû</translation>
     </message>
     <message>
         <source>Wallet needed to be rewritten: restart Foxcoin Core to complete</source>
-        <translation>é’±åŒ…éœ€è¦è¢«æ”¹å†™ï¼šé‡æ–°å¯åŠ¨æ ¸å¿ƒé’±åŒ…æ¥å®Œæˆ</translation>
+        <translation>Ç®°üĞèÒª±»¸ÄĞ´£ºÖØĞÂÆô¶¯ºËĞÄÇ®°üÀ´Íê³É</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>è­¦å‘Š</translation>
+        <translation>¾¯¸æ</translation>
     </message>
     <message>
         <source>Warning: Unsupported argument -benchmark ignored, use -debug=bench.</source>
-        <translation>è­¦å‘Šï¼šä¸æ”¯æŒçš„å‚æ•° -benchmark å·²å¿½ç•¥ï¼Œè¯·ä½¿ç”¨ -debug=benchã€‚</translation>
+        <translation>¾¯¸æ£º²»Ö§³ÖµÄ²ÎÊı -benchmark ÒÑºöÂÔ£¬ÇëÊ¹ÓÃ -debug=bench¡£</translation>
     </message>
     <message>
         <source>Warning: Unsupported argument -debugnet ignored, use -debug=net.</source>
-        <translation>è­¦å‘Šï¼šä¸æ”¯æŒçš„å‚æ•° -debugnet å·²å¿½ç•¥ï¼Œè¯·ä½¿ç”¨ -debug=netã€‚</translation>
+        <translation>¾¯¸æ£º²»Ö§³ÖµÄ²ÎÊı -debugnet ÒÑºöÂÔ£¬ÇëÊ¹ÓÃ -debug=net¡£</translation>
     </message>
     <message>
         <source>Zapping all transactions from wallet...</source>
@@ -3361,129 +3361,129 @@ rpcpassword=%s
     </message>
     <message>
         <source>on startup</source>
-        <translation>å¯åŠ¨ä¸­</translation>
+        <translation>Æô¶¯ÖĞ</translation>
     </message>
     <message>
         <source>wallet.dat corrupt, salvage failed</source>
-        <translation>é’±åŒ…æ–‡ä»¶wallet.datæŸåï¼ŒæŠ¢æ•‘å¤‡ä»½å¤±è´¥</translation>
+        <translation>Ç®°üÎÄ¼şwallet.datËğ»µ£¬ÇÀ¾È±¸·İÊ§°Ü</translation>
     </message>
     <message>
         <source>Password for JSON-RPC connections</source>
-        <translation>JSON-RPC è¿æ¥å¯†ç 
+        <translation>JSON-RPC Á¬½ÓÃÜÂë
 </translation>
     </message>
     <message>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>å½“æœ€ä½³æ•°æ®å—å˜åŒ–æ—¶æ‰§è¡Œå‘½ä»¤ (å‘½ä»¤è¡Œä¸­çš„ %s ä¼šè¢«æ›¿æ¢æˆæ•°æ®å—å“ˆå¸Œå€¼)</translation>
+        <translation>µ±×î¼ÑÊı¾İ¿é±ä»¯Ê±Ö´ĞĞÃüÁî (ÃüÁîĞĞÖĞµÄ %s »á±»Ìæ»»³ÉÊı¾İ¿é¹şÏ£Öµ)</translation>
     </message>
     <message>
         <source>Upgrade wallet to latest format</source>
-        <translation>å°†é’±åŒ…å‡çº§åˆ°æœ€æ–°çš„æ ¼å¼</translation>
+        <translation>½«Ç®°üÉı¼¶µ½×îĞÂµÄ¸ñÊ½</translation>
     </message>
     <message>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>é‡æ–°æ‰«æåŒºå—é“¾ä»¥æŸ¥æ‰¾é—æ¼çš„é’±åŒ…äº¤æ˜“</translation>
+        <translation>ÖØĞÂÉ¨ÃèÇø¿éÁ´ÒÔ²éÕÒÒÅÂ©µÄÇ®°ü½»Ò×</translation>
     </message>
     <message>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation>ä¸º JSON-RPC è¿æ¥ä½¿ç”¨ OpenSSL (https) è¿æ¥</translation>
+        <translation>Îª JSON-RPC Á¬½ÓÊ¹ÓÃ OpenSSL (https) Á¬½Ó</translation>
     </message>
     <message>
         <source>This help message</source>
-        <translation>æœ¬å¸®åŠ©ä¿¡æ¯
+        <translation>±¾°ïÖúĞÅÏ¢
 </translation>
     </message>
     <message>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation>ä½¿ç”¨ -addnode, -seednode å’Œ -connect é€‰é¡¹æ—¶å…è®¸æŸ¥è¯¢DNS</translation>
+        <translation>Ê¹ÓÃ -addnode, -seednode ºÍ -connect Ñ¡ÏîÊ±ÔÊĞí²éÑ¯DNS</translation>
     </message>
     <message>
         <source>Loading addresses...</source>
-        <translation>æ­£åœ¨åŠ è½½åœ°å€ç°¿...</translation>
+        <translation>ÕıÔÚ¼ÓÔØµØÖ·²¾...</translation>
     </message>
     <message>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>wallet.dat é’±åŒ…æ–‡ä»¶åŠ è½½å‡ºé”™ï¼šé’±åŒ…æŸå</translation>
+        <translation>wallet.dat Ç®°üÎÄ¼ş¼ÓÔØ³ö´í£ºÇ®°üËğ»µ</translation>
     </message>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
-        <translation>(1 = ä¿ç•™ tx meta data , å¦‚ account owner å’Œ payment request information, 2 = ä¸ä¿ç•™ tx meta data) </translation>
+        <translation>(1 = ±£Áô tx meta data , Èç account owner ºÍ payment request information, 2 = ²»±£Áô tx meta data) </translation>
     </message>
     <message>
         <source>How thorough the block verification of -checkblocks is (0-4, default: %u)</source>
-        <translation>æ•°æ®å—éªŒè¯ ä¸¥å¯†çº§åˆ«  -checkblocks (0-4, é»˜è®¤: %u) </translation>
+        <translation>Êı¾İ¿éÑéÖ¤ ÑÏÃÜ¼¶±ğ  -checkblocks (0-4, Ä¬ÈÏ: %u) </translation>
     </message>
     <message>
         <source>Maintain a full transaction index, used by the getrawtransaction rpc call (default: %u)</source>
-        <translation>ç»´æŠ¤ä¸€ä»½å®Œæ•´çš„äº¤æ˜“ç´¢å¼•, ç”¨äº getrawtransaction RPCè°ƒç”¨ (é»˜è®¤: %u)</translation>
+        <translation>Î¬»¤Ò»·İÍêÕûµÄ½»Ò×Ë÷Òı, ÓÃÓÚ getrawtransaction RPCµ÷ÓÃ (Ä¬ÈÏ: %u)</translation>
     </message>
     <message>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: %u)</source>
-        <translation>é™åˆ¶ éç¤¼èŠ‚ç‚¹ è‹¥å¹²ç§’å†…ä¸èƒ½è¿æ¥ (é»˜è®¤: %u) </translation>
+        <translation>ÏŞÖÆ ·ÇÀñ½Úµã Èô¸ÉÃëÄÚ²»ÄÜÁ¬½Ó (Ä¬ÈÏ: %u) </translation>
     </message>
     <message>
         <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>
-        <translation>è¾“å‡ºè°ƒè¯•ä¿¡æ¯ (é»˜è®¤: %u, æä¾› &lt;category&gt; æ˜¯å¯é€‰é¡¹)</translation>
+        <translation>Êä³öµ÷ÊÔĞÅÏ¢ (Ä¬ÈÏ: %u, Ìá¹© &lt;category&gt; ÊÇ¿ÉÑ¡Ïî)</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
-        <translation>é€šè¿‡Toréšè—æœåŠ¡è¿æ¥èŠ‚ç‚¹æ—¶ ä½¿ç”¨ä¸åŒçš„SOCKS5ä»£ç† (é»˜è®¤: %s)</translation>
+        <translation>Í¨¹ıTorÒş²Ø·şÎñÁ¬½Ó½ÚµãÊ± Ê¹ÓÃ²»Í¬µÄSOCKS5´úÀí (Ä¬ÈÏ: %s)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
-        <translation>(é»˜è®¤: %s) </translation>
+        <translation>(Ä¬ÈÏ: %s) </translation>
     </message>
     <message>
         <source>Acceptable ciphers (default: %s)</source>
-        <translation>å¯æ¥å—çš„å¯†ç ç®—æ³• (é»˜è®¤: %s) </translation>
+        <translation>¿É½ÓÊÜµÄÃÜÂëËã·¨ (Ä¬ÈÏ: %s) </translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>
-        <translation>wallet.dat é’±åŒ…æ–‡ä»¶åŠ è½½å‡ºé”™</translation>
+        <translation>wallet.dat Ç®°üÎÄ¼ş¼ÓÔØ³ö´í</translation>
     </message>
     <message>
         <source>Generate coins (default: %u)</source>
-        <translation>ç”Ÿæˆæ¯”ç‰¹å¸ (é»˜è®¤: %u)</translation>
+        <translation>Éú³É±ÈÌØ±Ò (Ä¬ÈÏ: %u)</translation>
     </message>
     <message>
         <source>How many blocks to check at startup (default: %u, 0 = all)</source>
-        <translation>å¯åŠ¨æ—¶æ£€æµ‹å¤šå°‘ä¸ªæ•°æ®å—(é»˜è®¤: %u, 0=æ‰€æœ‰)</translation>
+        <translation>Æô¶¯Ê±¼ì²â¶àÉÙ¸öÊı¾İ¿é(Ä¬ÈÏ: %u, 0=ËùÓĞ)</translation>
     </message>
     <message>
         <source>Include IP addresses in debug output (default: %u)</source>
-        <translation>åœ¨è°ƒè¯•è¾“å‡ºä¸­åŒ…å«IPåœ°å€ (é»˜è®¤: %u)</translation>
+        <translation>ÔÚµ÷ÊÔÊä³öÖĞ°üº¬IPµØÖ· (Ä¬ÈÏ: %u)</translation>
     </message>
     <message>
         <source>Invalid -proxy address: '%s'</source>
-        <translation>æ— æ•ˆçš„ä»£ç†åœ°å€ï¼š%s</translation>
+        <translation>ÎŞĞ§µÄ´úÀíµØÖ·£º%s</translation>
     </message>
     <message>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-        <translation>ä½¿ç”¨ &lt;port&gt;ç«¯å£ç›‘å¬ JSON-RPC è¿æ¥ (é»˜è®¤: %u ; testnet: %u) </translation>
+        <translation>Ê¹ÓÃ &lt;port&gt;¶Ë¿Ú¼àÌı JSON-RPC Á¬½Ó (Ä¬ÈÏ: %u ; testnet: %u) </translation>
     </message>
     <message>
         <source>Listen for connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-        <translation>ä½¿ç”¨ç«¯å£ &lt;port&gt; ç›‘å¬è¿æ¥ (é»˜è®¤: %u ; testnet: %u) </translation>
+        <translation>Ê¹ÓÃ¶Ë¿Ú &lt;port&gt; ¼àÌıÁ¬½Ó (Ä¬ÈÏ: %u ; testnet: %u) </translation>
     </message>
     <message>
         <source>Maintain at most &lt;n&gt; connections to peers (default: %u)</source>
-        <translation>ä¿ç•™æœ€å¤š &lt;n&gt; æ¡èŠ‚ç‚¹è¿æ¥ (é»˜è®¤: %u) </translation>
+        <translation>±£Áô×î¶à &lt;n&gt; Ìõ½ÚµãÁ¬½Ó (Ä¬ÈÏ: %u) </translation>
     </message>
     <message>
         <source>Make the wallet broadcast transactions</source>
-        <translation>é’±åŒ…å¹¿æ’­äº‹åŠ¡å¤„ç†</translation>
+        <translation>Ç®°ü¹ã²¥ÊÂÎñ´¦Àí</translation>
     </message>
     <message>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
-        <translation>æ¯ä¸ªè¿æ¥çš„æœ€å¤§æ¥æ”¶ç¼“å­˜ï¼Œ&lt;n&gt;*1000 å­—èŠ‚ (é»˜è®¤: %u)</translation>
+        <translation>Ã¿¸öÁ¬½ÓµÄ×î´ó½ÓÊÕ»º´æ£¬&lt;n&gt;*1000 ×Ö½Ú (Ä¬ÈÏ: %u)</translation>
     </message>
     <message>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
-        <translation>æ¯ä¸ªè¿æ¥çš„æœ€å¤§å‘é€ç¼“å­˜ï¼Œ&lt;n&gt;*1000 å­—èŠ‚ (é»˜è®¤: %u)</translation>
+        <translation>Ã¿¸öÁ¬½ÓµÄ×î´ó·¢ËÍ»º´æ£¬&lt;n&gt;*1000 ×Ö½Ú (Ä¬ÈÏ: %u)</translation>
     </message>
     <message>
         <source>Prepend debug output with timestamp (default: %u)</source>
-        <translation>è¾“å‡ºè°ƒè¯•ä¿¡æ¯æ—¶ï¼Œå‰é¢åŠ ä¸Šæ—¶é—´æˆ³ (é»˜è®¤: %u)</translation>
+        <translation>Êä³öµ÷ÊÔĞÅÏ¢Ê±£¬Ç°Ãæ¼ÓÉÏÊ±¼ä´Á (Ä¬ÈÏ: %u)</translation>
     </message>
     <message>
         <source>Relay and mine data carrier transactions (default: %u)</source>
@@ -3491,99 +3491,99 @@ rpcpassword=%s
     </message>
     <message>
         <source>Relay non-P2SH multisig (default: %u)</source>
-        <translation>æ˜¯å¦è½¬å‘ éP2SHæ ¼å¼çš„å¤šç­¾åäº¤æ˜“ (é»˜è®¤: %u) </translation>
+        <translation>ÊÇ·ñ×ª·¢ ·ÇP2SH¸ñÊ½µÄ¶àÇ©Ãû½»Ò× (Ä¬ÈÏ: %u) </translation>
     </message>
     <message>
         <source>Server certificate file (default: %s)</source>
-        <translation>æœåŠ¡å™¨è¯ä¹¦æ–‡ä»¶ (é»˜è®¤: %s) </translation>
+        <translation>·şÎñÆ÷Ö¤ÊéÎÄ¼ş (Ä¬ÈÏ: %s) </translation>
     </message>
     <message>
         <source>Server private key (default: %s)</source>
-        <translation>æœåŠ¡å™¨ç§é’¥ (é»˜è®¤: %s) </translation>
+        <translation>·şÎñÆ÷Ë½Ô¿ (Ä¬ÈÏ: %s) </translation>
     </message>
     <message>
         <source>Set key pool size to &lt;n&gt; (default: %u)</source>
-        <translation>è®¾ç½®ç§é’¥æ± å¤§å°ä¸º &lt;n&gt; (é»˜è®¤ï¼š%u) </translation>
+        <translation>ÉèÖÃË½Ô¿³Ø´óĞ¡Îª &lt;n&gt; (Ä¬ÈÏ£º%u) </translation>
     </message>
     <message>
         <source>Set minimum block size in bytes (default: %u)</source>
-        <translation>è®¾ç½®æ•°æ®å— æœ€å°å­—èŠ‚æ•° (é»˜è®¤: %u) </translation>
+        <translation>ÉèÖÃÊı¾İ¿é ×îĞ¡×Ö½ÚÊı (Ä¬ÈÏ: %u) </translation>
     </message>
     <message>
         <source>Set the number of threads to service RPC calls (default: %d)</source>
-        <translation>è®¾ç½®RPCæœåŠ¡çº¿ç¨‹æ•° (é»˜è®¤: %d) </translation>
+        <translation>ÉèÖÃRPC·şÎñÏß³ÌÊı (Ä¬ÈÏ: %d) </translation>
     </message>
     <message>
         <source>Specify configuration file (default: %s)</source>
-        <translation>æŒ‡å®šé…ç½®æ–‡ä»¶ (é»˜è®¤: %s) </translation>
+        <translation>Ö¸¶¨ÅäÖÃÎÄ¼ş (Ä¬ÈÏ: %s) </translation>
     </message>
     <message>
         <source>Specify connection timeout in milliseconds (minimum: 1, default: %d)</source>
-        <translation>æŒ‡å®šè¿æ¥è¶…æ—¶æ¯«ç§’æ•° (æœ€å°: 1, é»˜è®¤: %d) </translation>
+        <translation>Ö¸¶¨Á¬½Ó³¬Ê±ºÁÃëÊı (×îĞ¡: 1, Ä¬ÈÏ: %d) </translation>
     </message>
     <message>
         <source>Specify pid file (default: %s)</source>
-        <translation>æŒ‡å®š pid æ–‡ä»¶ (é»˜è®¤: %s) </translation>
+        <translation>Ö¸¶¨ pid ÎÄ¼ş (Ä¬ÈÏ: %s) </translation>
     </message>
     <message>
         <source>Spend unconfirmed change when sending transactions (default: %u)</source>
-        <translation>ä»˜æ¬¾æ—¶å…è®¸ä½¿ç”¨æœªç¡®è®¤çš„é›¶é’± (é»˜è®¤: %u) </translation>
+        <translation>¸¶¿îÊ±ÔÊĞíÊ¹ÓÃÎ´È·ÈÏµÄÁãÇ® (Ä¬ÈÏ: %u) </translation>
     </message>
     <message>
         <source>Threshold for disconnecting misbehaving peers (default: %u)</source>
-        <translation>æ–­å¼€ éç¤¼èŠ‚ç‚¹çš„é˜€å€¼ (é»˜è®¤: %u) </translation>
+        <translation>¶Ï¿ª ·ÇÀñ½ÚµãµÄ·§Öµ (Ä¬ÈÏ: %u) </translation>
     </message>
     <message>
         <source>Unknown network specified in -onlynet: '%s'</source>
-        <translation>-onlynet æŒ‡å®šçš„æ˜¯æœªçŸ¥ç½‘ç»œï¼š%s</translation>
+        <translation>-onlynet Ö¸¶¨µÄÊÇÎ´ÖªÍøÂç£º%s</translation>
     </message>
     <message>
         <source>Cannot resolve -bind address: '%s'</source>
-        <translation>æ— æ³•è§£æ -bind ç«¯å£åœ°å€: '%s'</translation>
+        <translation>ÎŞ·¨½âÎö -bind ¶Ë¿ÚµØÖ·: '%s'</translation>
     </message>
     <message>
         <source>Cannot resolve -externalip address: '%s'</source>
-        <translation>æ— æ³•è§£æ -externalip åœ°å€: '%s'</translation>
+        <translation>ÎŞ·¨½âÎö -externalip µØÖ·: '%s'</translation>
     </message>
     <message>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
-        <translation>éæ³•é‡‘é¢ -paytxfee=&lt;amount&gt;: '%s'</translation>
+        <translation>·Ç·¨½ğ¶î -paytxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>é‡‘é¢ä¸è¶³</translation>
+        <translation>½ğ¶î²»×ã</translation>
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>æ­£åœ¨åŠ è½½æ•°æ®å—ç´¢å¼•...</translation>
+        <translation>ÕıÔÚ¼ÓÔØÊı¾İ¿éË÷Òı...</translation>
     </message>
     <message>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>æ·»åŠ èŠ‚ç‚¹å¹¶ä¸å…¶ä¿æŒè¿æ¥</translation>
+        <translation>Ìí¼Ó½Úµã²¢ÓëÆä±£³ÖÁ¬½Ó</translation>
     </message>
     <message>
         <source>Loading wallet...</source>
-        <translation>æ­£åœ¨åŠ è½½é’±åŒ…...</translation>
+        <translation>ÕıÔÚ¼ÓÔØÇ®°ü...</translation>
     </message>
     <message>
         <source>Cannot downgrade wallet</source>
-        <translation>æ— æ³•é™çº§é’±åŒ…</translation>
+        <translation>ÎŞ·¨½µ¼¶Ç®°ü</translation>
     </message>
     <message>
         <source>Cannot write default address</source>
-        <translation>æ— æ³•å†™å…¥é»˜è®¤åœ°å€</translation>
+        <translation>ÎŞ·¨Ğ´ÈëÄ¬ÈÏµØÖ·</translation>
     </message>
     <message>
         <source>Rescanning...</source>
-        <translation>æ­£åœ¨é‡æ–°æ‰«æ...</translation>
+        <translation>ÕıÔÚÖØĞÂÉ¨Ãè...</translation>
     </message>
     <message>
         <source>Done loading</source>
-        <translation>åŠ è½½å®Œæˆ</translation>
+        <translation>¼ÓÔØÍê³É</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>é”™è¯¯</translation>
+        <translation>´íÎó</translation>
     </message>
 </context>
 </TS>
